@@ -51,6 +51,8 @@ namespace YangVillage.Ui
             screen.SetAnchorsAndOffsetsPreset(Control.LayoutPreset.FullRect);
             Root.AddChild(screen);
             _current = screen;
+            // 측정·검사 신호 (scripts/web/play.mjs)
+            GD.Print($"[screen] {screenId}");
         }
 
         public static IEnumerable<string> ScreenIds => Screens.Keys;
