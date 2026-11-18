@@ -50,21 +50,19 @@ Unity 프로젝트 YangVil 을 [godot-enhanced](https://github.com/joygram/godot
 - 저장: `JsonUtility` → `System.Text.Json`
 
 ## Unity 판 웹 비교 (실측)
-| 항목 | Unity WebGL | godot-enhanced C# |
-|---|---|---|
-| 전송 크기 | 21.8MB | **12.2MB (−44%)** |
-| 내려받기 끝 | 1.4~2.0s | **0.7~1.2s** |
-| 첫 화면 | **1.7~2.4s** | 3.6~3.9s |
-| 받은 뒤 초기화 | **약 0.3s** | 약 2.7s |
-| 메모리 (Chrome 합계) | **639MB** | 764MB |
+| 항목 (3회 중앙값) | Unity WebGL | C# 표준 템플릿 | C# AOT 템플릿 |
+|---|---|---|---|
+| 전송 크기 | 21.8MB | **12.2MB (−44%)** | 14.6MB |
+| wasm (풀기 전) | 7.6MB | 53.8MB | 66.8MB |
+| 첫 화면 | **3.10s** | 4.44s | 4.70s |
+| 메모리 (Chrome 합계) | **650MB** | 758MB | 788MB |
 
 - 조건: 같은 PC, headless Chrome(소프트웨어 WebGL), 캐시 없음, 새 프로필
-- 첫 화면 = 로딩 덮개가 사라질 때까지
+- 첫 화면 = 로딩 덮개가 사라질 때까지, 회차 편차 ±1.5s (네트워크)
 - 재현: `node scripts/web/compare.mjs 3`
-- 알려진 이슈: 초기화(wasm 54MB 컴파일 + .NET 시작)가 Unity 보다 김
-- AOT: 표 수치 = 표준 템플릿(인터프리터)
-- AOT 적용 = 게임 AOT 출력을 `mono_wasm_aot_dir=` 로 링크한 전용 템플릿 필요 (godot-enhanced `patches/dotnet-web-export.md`)
-- 전용 템플릿 AOT 측정 = 예정
+- AOT 템플릿 = 게임 AOT 출력을 `mono_wasm_aot_dir=` 로 링크 (godot-enhanced `dotnet-web-aot` 검사)
+- AOT = 시작 단축 없음 → 시작 = wasm 컴파일·엔진 초기화가 지배, AOT 이점은 실행 중 C# 연산
+- 플레이: 표준 https://yangvil-godot-csharp.deuklab.workers.dev · AOT https://yangvil-godot-csharp-aot.deuklab.workers.dev
 
 ## 구조
 - `game/` = Godot 프로젝트 (`project.godot`, `YangVil.csproj`)

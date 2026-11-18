@@ -11,6 +11,7 @@ const RUNS = Number(process.argv[2] || 3);
 const SITES = [
   { name: "Unity WebGL", url: "https://yangvil.deuklab.workers.dev/", overlay: "loading" },
   { name: "godot-enhanced C#", url: "https://yangvil-godot-csharp.deuklab.workers.dev/", overlay: "status" },
+  { name: "godot-enhanced C# AOT", url: "https://yangvil-godot-csharp-aot.deuklab.workers.dev/", overlay: "status" },
 ];
 // 첫 화면 = 로딩 덮개가 한 번 보였다가 사라진 때.
 const shown = (id) => { const e = document.getElementById(id); const s = e && getComputedStyle(e); return !!s && s.display !== "none" && s.visibility !== "hidden"; };
@@ -35,6 +36,7 @@ async function measure(site) {
     await cdp.send("Network.setCacheDisabled", { cacheDisabled: true });
     const errors = [];
     page.on("pageerror", (e) => errors.push(e.message));
+    if (process.env.CONSOLE) page.on("console", (m) => console.log(`[console] ${m.type()} ${m.text().slice(0, 300)}`));
     const t0 = performance.now();
     await page.goto(site.url, { waitUntil: "commit" });
     let ready = null;
@@ -43,6 +45,11 @@ async function measure(site) {
       await page.waitForFunction(hidden, site.overlay, { timeout: 120_000, polling: 50 });
       ready = performance.now() - t0;
     } catch { /* 시간 초과 */ }
+    // 내려받기 끝 시각 (navigation 기준 ms): 큰 파일별 responseEnd
+    const loads = await page.evaluate(() => performance.getEntriesByType("resource")
+      .filter((e) => /\.(wasm|pck|data)(\?|$)/.test(e.name))
+      .map((e) => `${e.name.split("/").pop()} ${(e.responseEnd / 1000).toFixed(2)}s`).join(", "));
+    if (loads) console.log(`[compare]   받기 끝: ${loads}`);
     await page.waitForTimeout(5000);
     if (process.env.SHOT) await page.screenshot({ path: `Builds/compare-${site.name.split(" ")[0]}.png` });
     return { ready, bytes, mem: memory(profile), errors: errors.length };
@@ -54,7 +61,7 @@ async function measure(site) {
 
 const mb = (n) => (n / 1048576).toFixed(1);
 const median = (a) => [...a].sort((x, y) => x - y)[Math.floor(a.length / 2)];
-for (const site of SITES) {
+for (const site of SITES.filter((s) => !process.env.ONLY || s.name === process.env.ONLY)) {
   const runs = [];
   for (let i = 0; i < RUNS; i++) {
     const r = await measure(site);
