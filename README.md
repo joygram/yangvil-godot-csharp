@@ -14,6 +14,23 @@ Unity 프로젝트 YangVil 을 [godot-enhanced](https://github.com/joygram/godot
 - **Godot C# 판 (이 저장소)**: [joygram/yangvil-godot-csharp](https://github.com/joygram/yangvil-godot-csharp) — godot-enhanced 4.7.2 (.NET 11)
 - Godot C# 판 플레이: https://yangvil-godot-csharp.deuklab.workers.dev
 
+## 핵심 메리트
+### 1. Unity 마이그레이션이 쉽다
+- 게임 규칙 C# = 그대로 이식 (702줄 중 9줄 교체)
+- 그림·표 = 무수정 복사, 화면 배치·연출 수치 동일
+- UI = 엔진 API 대응만, 코드량 −25%
+
+### 2. 라이선스 부담이 없다
+- 엔진 = Godot (MIT) + godot-enhanced 패치, 런타임 비용·로열티·좌석 요금 없음
+- 이 게임 코드 = MIT
+- 엔진 소스 전체 공개 → 직접 고치고 배포 가능
+
+### 3. C# 웹 배포가 쉽다
+- 원래 Godot 4 = C# 웹 내보내기 불가 → godot-enhanced 로 가능
+- `npm run deploy:web` 한 줄: 최신 엔진 받기 → 웹 빌드 → 압축 → Cloudflare 배포
+- 내려받기 크기 Unity 대비 −44% (12.2MB vs 21.8MB)
+- .NET 11 최신 C#·표준 라이브러리 그대로
+
 ## 무엇이 같나
 - 게임 = Unity 판과 동일: 인트로 → 마을(마당·부화소·상점·식구) → 모험 지도 → 전투 → 결과 → 마을
 - 화면 배치·문구·색·연출 수치 = 그대로
@@ -32,21 +49,21 @@ Unity 프로젝트 YangVil 을 [godot-enhanced](https://github.com/joygram/godot
 - UiBoost 셰이더→`modulate`, UGUI 레이아웃→Container, TMP→`Label`
 - 저장: `JsonUtility` → `System.Text.Json`
 
-## .NET 11 최신판
-- `net11.0` + 최신 C# 그대로 사용 (Unity = 자체 Mono/IL2CPP 런타임에 묶임)
-- 표준 `System.Text.Json`·`async/await`·LINQ 제약 없음
-- 웹 내보내기 = godot-enhanced C# 웹 지원 (원래 Godot 4 는 C# 웹 불가)
-- 웹·안드로이드 기본 트리밍 (godot-enhanced 0.1.5)
-
-## 성능 (측정 예정)
-| 항목 | Unity WebGL | Godot C# 웹 |
+## Unity 판 웹 비교 (실측)
+| 항목 | Unity WebGL | godot-enhanced C# |
 |---|---|---|
-| 내려받기 크기 | 측정 예정 | 측정 예정 |
-| 첫 화면까지 | 측정 예정 | 측정 예정 |
-| 힙 메모리 | 측정 예정 | 측정 예정 |
-| 빌드 시간 | 측정 예정 | 측정 예정 |
+| 전송 크기 | 21.8MB | **12.2MB (−44%)** |
+| 내려받기 끝 | 1.4~2.0s | **0.7~1.2s** |
+| 첫 화면 | **1.7~2.4s** | 3.6~3.9s |
+| 받은 뒤 초기화 | **약 0.3s** | 약 2.7s |
+| 메모리 (Chrome 합계) | **639MB** | 764MB |
 
-- 같은 게임·같은 에셋, 같은 조건 측정값만 기입
+- 조건: 같은 PC, headless Chrome(소프트웨어 WebGL), 캐시 없음, 새 프로필
+- 첫 화면 = 로딩 덮개가 사라질 때까지
+- 재현: `node scripts/web/compare.mjs 3`
+- 알려진 이슈: 초기화(wasm 54MB 컴파일 + .NET 시작)가 Unity 보다 김
+- AOT 확인: `YANGVIL_AOT=1` (`RunAOTCompilation`) → .NET AOT 는 돌지만 내보낸 `index.wasm` 해시 동일
+- 즉 godot-enhanced 웹 내보내기가 AOT 결과를 링크하지 않음 → 현재 효과 0, 엔진 쪽 지원 필요
 
 ## 구조
 - `game/` = Godot 프로젝트 (`project.godot`, `YangVil.csproj`)

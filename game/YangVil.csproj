@@ -16,6 +16,8 @@
     <WasmEmitSymbolMap>false</WasmEmitSymbolMap>
     <JsonSerializerIsReflectionEnabledByDefault>true</JsonSerializerIsReflectionEnabledByDefault>
     <PublishTrimmed>true</PublishTrimmed>
+    <!-- 비교 실험: YANGVIL_AOT=1 → .NET wasm AOT -->
+    <RunAOTCompilation Condition="'$(YANGVIL_AOT)' == '1'">true</RunAOTCompilation>
   </PropertyGroup>
   <ItemGroup Condition="'$(GodotTargetPlatform)' == 'web'">
     <TrimmerRootAssembly Include="System.Text.Json" />
