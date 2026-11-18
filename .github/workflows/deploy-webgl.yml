@@ -79,7 +79,7 @@ jobs:
         run: |
           [ -z "$WEBHOOK" ] && exit 0
           if [ "$READY" != "true" ]; then result="⏭ 건너뜀 (시크릿 없음:$MISSING)"
-          elif [ "$STATUS" = "success" ]; then result="✅ 배포 완료 → https://yangvil.deuklab.workers.dev"
+          elif [ "$STATUS" = "success" ]; then result="✅ 배포 완료 → https://yangvil-godot-csharp.deuklab.workers.dev"
           else result="❌ 실패"; fi
           title=$(printf '%s' "$COMMIT" | head -n1)
           text=$(printf '*YangVil WebGL* %s\n%s · %s\n%s' "$result" "$ACTOR" "$title" "$RUN_URL")

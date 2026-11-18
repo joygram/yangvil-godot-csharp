@@ -23,7 +23,7 @@ jobs:
       deployments: write
     environment:
       name: production
-      url: https://yangvil.deuklab.workers.dev
+      url: https://yangvil-godot-csharp.deuklab.workers.dev
     env:
       GOOGLE_CHAT_WEBHOOK: ${{ secrets.GOOGLE_CHAT_WEBHOOK }}
       RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
@@ -60,7 +60,7 @@ jobs:
           version="v$(node -p "require(process.argv[1]).version" "$info")"
           notes="$(git log --format='- %s' -n "$CHANGE_COUNT" "$GITHUB_SHA")"
           gh release create "$version" --target "$GITHUB_SHA" --title "냥빌 $version 배포" \
-            --notes "$(printf '▶ https://yangvil.deuklab.workers.dev\n\n%s' "$notes")"
+            --notes "$(printf '▶ https://yangvil-godot-csharp.deuklab.workers.dev\n\n%s' "$notes")"
 
       - if: failure()
         shell: bash

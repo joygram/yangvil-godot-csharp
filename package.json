@@ -1,0 +1,11 @@
+{
+  "name": "yangvil-godot-csharp",
+  "private": true,
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "godot": "node scripts/godot.mjs --version",
+    "build": "dotnet build game/YangVil.csproj -nologo -v q",
+    "import": "node scripts/godot.mjs --headless --path game --import",
+    "start": "npm run setup && npm run godot && npm run build && npm run import && node scripts/godot.mjs --path game"
+  }
+}

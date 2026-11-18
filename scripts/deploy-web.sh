@@ -20,4 +20,4 @@ fi
 
 cp "$ROOT/wrangler.jsonc" "$CHECK_DIR/wrangler.jsonc"
 (cd "$CHECK_DIR" && npx --yes wrangler deploy) || { echo "[deploy-web] wrangler 배포 실패"; exit 1; }
-echo "[deploy-web] ✔ 배포 완료 → https://yangvil.deuklab.workers.dev"
+echo "[deploy-web] ✔ 배포 완료 → https://yangvil-godot-csharp.deuklab.workers.dev"

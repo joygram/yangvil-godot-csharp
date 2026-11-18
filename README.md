@@ -52,9 +52,10 @@ Unity 프로젝트 YangVil 을 [godot-enhanced](https://github.com/joygram/godot
 - 저장: `user://yangvil_save.json`
 
 ## 실행
-- 엔진: [godot-enhanced](https://github.com/joygram/godot-enhanced/releases) `dotnet-web-4.7.2-0.3.0` 에디터
-- NuGet 소스 `godot-enhanced` 등록 필요 (C# 키트 install 스크립트가 등록)
-- `game/project.godot` 열기 → 실행
+- `npm start` → .NET 11 확인 → godot-enhanced 최신 C# 키트 받기 → 빌드 → 가져오기 → 실행
+- 엔진 = [godot-enhanced](https://github.com/joygram/godot-enhanced/releases) 최신 `dotnet-web-*` 릴리스 자동
+- 키트 위치 `~/.godot-enhanced/` (다른 저장소와 공유), NuGet 소스 `godot-enhanced` 자동 등록
+- 버전 고정: `GODOT_ENHANCED_TAG=dotnet-web-4.7.2-0.3.0`, 직접 지정: `GODOT_BIN`
 - 웹 내보내기: 프리셋 `Web` → `Builds/WebGL/index.html`
 
 ## 에셋 바꾸기
