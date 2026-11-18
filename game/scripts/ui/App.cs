@@ -51,8 +51,14 @@ namespace YangVillage.Ui
             screen.SetAnchorsAndOffsetsPreset(Control.LayoutPreset.FullRect);
             Root.AddChild(screen);
             _current = screen;
-            // 측정·검사 신호 (scripts/web/play.mjs)
-            GD.Print($"[screen] {screenId}");
+            // 측정·검사 신호 (scripts/web/play.mjs) = 화면 레이아웃이 잡혀 입력 받을 수 있는 다음 프레임에
+            var tree = Tree;
+            void Signal()
+            {
+                tree.ProcessFrame -= Signal;
+                GD.Print($"[screen] {screenId}");
+            }
+            tree.ProcessFrame += Signal;
         }
 
         public static IEnumerable<string> ScreenIds => Screens.Keys;
