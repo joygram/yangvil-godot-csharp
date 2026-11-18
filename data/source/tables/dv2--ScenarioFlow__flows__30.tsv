@@ -1,0 +1,26 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	_recovered	illust	kind	frame	talker	n	b1
+0	0	0	bgm	bg_12														
+1	0	1	talk		30_1	ghostcaptain	talker_in	1	1	2	true							
+2	0	2	talk		30_2	blackrobe	talker_in	1	1	1	true							
+3	0	3	talk		30_3	ghostcaptain	talker_reorder											
+4	0	4	talk		30_4	blackrobe	talker_reorder											
+5	0	5	talk		30_5							literal						
+6	0	6	illust										30	1				
+7	0	7	cut												scenario_main_story_sn_30_3			
+8	0	8	cut												scenario_main_story_sn_30_2			
+9	0	9	cut												scenario_main_story_sn_30_1			
+10	0	10	talker_out													1	2	false
+11	0	11	talker_out													2	2	false
+12	0	12	sfx	effect_bomb														
+13	0	13	sfx	effect_monster_in														
+14	0	14	talk		30_6	ghostcaptain	talker_reorder											
+15	0	15	talk		30_7	blackrobe	talker_in	1	1	1	true							
+16	0	16	talk		30_8	blackrobe	talker_reorder											
+17	0	17	talk		30_9	ghostcaptain	talker_reorder											
+18	0	18	talk		30_10	blackrobe	talker_reorder											
+19	0	19	talk		30_11	ghostcaptain	talker_reorder											
+20	0	20	talk		30_12	blackrobe	talker_reorder											
+21	0	21	talk		30_13	blackrobe	talker_reorder											
+22	0	22	talk		30_14		talk											
+23	0	23	sfx	effect_dragon_damaged_1														
+24	0	24	talk		30_15	ghostcaptain	talker_reorder											

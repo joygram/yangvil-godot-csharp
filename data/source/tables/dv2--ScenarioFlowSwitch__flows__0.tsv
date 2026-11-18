@@ -1,0 +1,89 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	sfx	effect_walk										
+1	0	1	bgm	bg_16										
+2	0	2	talk		p0	hero	talk_auto							
+3	0	3	talk		p2	jimon	talker_in	1	7	1	true			
+4	0	4	talk		p3	nuri	talker_in	2	2	2	false			
+5	0	5	talk		p4	jimon	talker_in	2	2	1	false			
+6	0	6	talk		p5	nuri	talker_in	1	1	2	false			
+7	0	7	talk		p6	jimon	talker_in	1	1	1	false			
+8	0	8	talk		p7	nuri	talker_in	1	5	2	false			
+9	0	9	talk		p8	jimon	talker_reorder							
+10	0	10	talk		p9	nuri	talker_in	2	2	2	false			
+11	0	11	talk		p10	nuri	talker_in	1	1	2	false			
+12	0	12	sfx	effect_dragon_incubation										
+13	0	13	sfx	effect_walk										
+14	0	14	bgm	bg_16										
+15	0	15	talk		p13	nuri	talker_reorder							
+16	0	16	talk		p14	jimon	talker_in	1	1	1	true			
+17	0	17	talk		p15	nuri	talker_in	1	1	2	true			
+18	0	18	talk		p16	jimon	talker_reorder							
+19	0	19	talk		p17	nuri	talker_in	2	2	2	true			
+20	0	20	talk		p19	jimon	talker_in	1	1	1	true			
+21	0	21	talk		p20	nuri	talker_in	1	6	2	true			
+22	0	22	talk		p21	jimon	talker_in	3	7	1	true			
+23	0	23	talker_out									1	2	false
+24	0	24	talker_out									2	2	false
+25	0	25	talk		p22	popo	talker_in	1	4	2	true			
+26	0	26	talk		p23	prologuemonster	talk							
+27	0	27	talk		p24	popo	talker_reorder							
+28	0	28	talk		p25	prologuemonster	talk							
+29	0	29	bgm	bg_16										
+30	0	30	sfx	effect_bomb										
+31	0	31	sfx	effect_egg										
+32	0	32	talk		p27	popo	talker_in	1	1	3	false			
+33	0	33	talk		p28		talk							
+34	0	34	talk		p29	popo	talker_in	1	6	3	false			
+35	0	35	talk		p30	nuri	talker_in	1	6	2	true			
+36	0	36	talk		p31	jimon	talker_in	1	5	1	true			
+37	0	37	talk		p32	popo	talker_in	1	4	3	false			
+38	0	38	talk		p33	nuri	talker_in	1	1	2	false			
+39	0	39	sfx	effect_walk										
+40	0	40	bgm	bg_16										
+41	0	41	sfx	effect_bomb										
+42	0	42	sfx	effect_egg										
+43	0	43	talk		Tutorial_1	guide	talk							
+44	0	44	talk		Tutorial_2	guide	talk							
+45	0	45	talk		Tutorial_3	guide	talk							
+46	0	46	talk		Tutorial_4	guide	talk							
+47	0	47	talk		Tutorial_5	guide	talk							
+48	0	48	talk		Tutorial_6	guide	talk							
+49	0	49	talk		Tutorial_7	guide	talk							
+50	0	50	talk		Tutorial_8	guide	talk							
+51	0	51	talk		Tutorial_9	guide	talk							
+52	0	52	talk		Tutorial_10	guide	talk							
+53	0	53	talk		Tutorial_11	guide	talk							
+54	0	54	talk		Tutorial_12	guide	talk							
+55	0	55	talk		Tutorial_13	guide	talk							
+56	0	56	talk		Tutorial_14	guide	talk							
+57	0	57	talk		Tutorial_15	guide	talk							
+58	0	58	talk		Tutorial_16	guide	talk							
+59	0	59	talk		Tutorial_17	guide	talk							
+60	0	60	talk		Tutorial_18	guide	talk							
+61	0	61	talk		Tutorial_19	guide	talk							
+62	0	62	talk		Tutorial_20	guide	talk							
+63	0	63	talk		Tutorial_21	guide	talk							
+64	0	64	talk		Tutorial_22	guide	talk							
+65	0	65	talk		Tutorial_23	guide	talk							
+66	0	66	talk		Tutorial_24	guide	talk							
+67	0	67	talk		Tutorial_25	guide	talk							
+68	0	68	talk		Tutorial_26	guide	talk							
+69	0	69	talk		Tutorial_27	guide	talk							
+70	0	70	talk		Tutorial_28	guide	talk							
+71	0	71	talk		Tutorial_29	guide	talk							
+72	0	72	talk		Tutorial_30	guide	talk							
+73	0	73	talk		Tutorial_31	guide	talk							
+74	0	74	talk		Tutorial_32	guide	talk							
+75	0	75	talk		Tutorial_33	guide	talk							
+76	0	76	talk		Tutorial_34	guide	talk							
+77	0	77	talk		Tutorial_35	guide	talk							
+78	0	78	talk		Tutorial_36	guide	talk							
+79	0	79	talk		Tutorial_37	guide	talk							
+80	0	80	talk		Tutorial_38	guide	talk							
+81	0	81	talk		Tutorial_39	guide	talk							
+82	0	82	talk		Tutorial_40	guide	talk							
+83	0	83	talk		Tutorial_41	guide	talk							
+84	0	84	talk		Tutorial_42	guide	talk							
+85	0	85	talk		Tutorial_43	guide	talk							
+86	0	86	talk		Tutorial_44	guide	talk							
+87	0	87	talk		Tutorial_45	guide	talk							

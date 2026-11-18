@@ -1,0 +1,22 @@
+{
+  "table": "StorySubquest__subquest_field",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/story_subquest.json",
+    "source_sha256": "3ff713462858e99b368e86bd75c02f5ccf5ed8d01ee5ca36485f5e37b57ac995",
+    "source_row_count": 32
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "StorySubquest",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "requires"
+  ]
+}

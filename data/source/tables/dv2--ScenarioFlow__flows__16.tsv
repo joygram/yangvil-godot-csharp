@@ -1,0 +1,18 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter
+0	0	0	bgm	bg_6							
+1	0	1	talk		16_1		talker_in	1	1	3	true
+2	0	2	talk		16_2	gargoyle	talker_in	1	1	2	true
+3	0	3	talk		16_3	monkey	talker_in	1	1	1	true
+4	0	4	talk		16_4		talker_reorder				
+5	0	5	talk		16_5	gargoyle	talker_reorder				
+6	0	6	talk		16_6		talker_reorder				
+7	0	7	talk		16_7	monkey	talker_reorder				
+8	0	8	talk		16_8	gargoyle	talker_reorder				
+9	0	9	talk		16_9		talker_reorder				
+10	0	10	talk		16_10		talker_reorder				
+11	0	11	talk		16_11	monkey	talker_reorder				
+12	0	12	talk		16_12	gargoyle	talker_reorder				
+13	0	13	talk		16_13	monkey	talker_reorder				
+14	0	14	talk		16_14		talker_reorder				
+15	0	15	talk		16_15	gargoyle	talker_reorder				
+16	0	16	talk		16_16	monkey	talker_reorder				

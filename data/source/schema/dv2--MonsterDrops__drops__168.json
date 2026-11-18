@@ -1,0 +1,22 @@
+{
+  "table": "MonsterDrops__drops__168",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/monster_drops.json",
+    "source_sha256": "808623c3694343fda667905c4dd1d0347ef6e8a9fb0c9a8b9312e2485a62cf16",
+    "source_row_count": 2
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "MonsterDrops__drops",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "level_weights"
+  ]
+}

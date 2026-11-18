@@ -1,0 +1,122 @@
+_row	_parent_row	_idx	id	name	level	element	hp_max	att	def	boss	skills	skills_hero
+0	0	0	67	#ddc213c0	45	none	588	176	90	false		
+1	0	1	68	#732fb68e	45	none	588	176	90	false		
+2	0	2	69	#66cd2e1e	45	none	588	176	90	false		
+3	0	3	70	#0ba7015a	45	none	588	176	90	false	[11]	
+4	0	4	71	#86836494	45	none	594	176	90	false		
+5	0	5	72	#cda22f32	45	none	880	275	180	true	[12]	
+6	1	0	16	#a6adef34	15	none	228	72	30	false		
+7	1	1	17	#0b231031	15	none	204	72	30	false		
+8	1	2	18	#c70ab792	15	none	204	72	30	false	[120]	
+9	1	3	19	#e30d8ec6	15	none	228	72	30	false		
+10	1	4	20	#973ec08e	15	none	297	78	37	true	[120]	
+11	2	0	6	#d47c09a5	5	none	132	39	18	false		
+12	2	1	7	#10777429	5	none	132	39	18	false		
+13	2	2	8	#d76fbffc	5	none	132	39	18	false	[70]	
+14	2	3	9	#955eab42	5	none	132	39	18	false	[100]	
+15	2	4	10	#45fbe17c	5	none	198	45	25	true	[23]	
+16	3	0	1	#43944140	1	none	78	22	12	false		
+17	3	1	2	#f4e5c2d9	1	none	78	22	12	false		
+18	3	2	3	#1e4950d4	1	none	78	22	12	false	[100]	
+19	3	3	4	#fcacd4f9	1	none	78	22	12	false		
+20	3	4	5	#8f155a19	1	earth	149	29	19	true	[32]	
+21	4	0	11	#c3a496b1	10	fire	162	55	24	false		
+22	4	1	12	#5c2e77a5	10	fire	162	55	24	false		
+23	4	2	13	#2a27c6c5	10	fire	162	55	24	false		
+24	4	3	14	#e10b984e	10	fire	162	55	24	false	[22]	
+25	4	4	15	#7ff36342	10	fire	248	62	31	true	[50]	
+26	5	0	62	#34543bf8	45	aqua	540	161	66	false		
+27	5	1	63	#5ba25660	45	aqua	540	161	66	false		
+28	5	2	64	#6afc06b0	45	wind	540	161	66	false		
+29	5	3	65	#182816f4	45	aqua	540	161	66	false	[56]	
+30	5	4	66	#a7e6bbc7	45	aqua	600	161	66	true	[11]	
+31	6	0	52	#0f09601e	38	none	389	144	62	false		
+32	6	1	53	#0c5ebee9	38	none	389	144	62	false	[46]	
+33	6	2	54	#3cdd741e	38	none	389	144	62	false		
+34	6	3	55	#a9a80ea3	38	none	389	144	62	false		
+35	6	4	56	#aee154c0	38	none	515	151	80	true	[46]	
+36	7	0	57	#fbb6c95d	40	none	414	154	66	false	[46]	
+37	7	1	58	#6f0e7641	40	none	414	154	66	false		
+38	7	2	59	#ab8fc786	40	none	414	154	66	false		
+39	7	3	60	#5cce4fc1	40	none	414	154	66	false		
+40	7	4	61	#0b6df8aa	40	none	545	161	84	true	[28,60]	
+41	8	0	42	#9f9707d3	33	dark	355	131	58	false		
+42	8	1	43	#bbdcc6e3	33	dark	355	131	58	false		
+43	8	2	44	#a13bfe7f	33	dark	355	131	58	false		
+44	8	3	45	#c446ec85	33	wind	355	131	58	false		
+45	8	4	46	#4e075e31	33	dark	480	140	70	true	[22,15]	
+46	9	0	47	#370d4d82	36	none	420	138	60	false		
+47	9	1	48	#856ad419	36	none	420	138	60	false	[57]	
+48	9	2	49	#f1b53152	36	none	420	138	60	false		
+49	9	3	50	#1b32ecc7	36	none	420	138	60	false		
+50	9	4	51	#04f9b06b	36	none	495	144	78	true	[24]	
+51	10	0	37	#c7d60d30	30	aqua	330	121	54	false		
+52	10	1	38	#a96a4559	30	aqua	330	121	54	false		
+53	10	2	39	#05df082e	30	aqua	330	121	54	false		
+54	10	3	40	#94bfd4ef	30	dark	372	121	54	false		
+55	10	4	41	#7691722c	30	dark	446	128	72	true	[15]	
+56	11	0	31	#bc5f5d95	25	none	324	105	42	false		
+57	11	1	32	#4d387153	25	none	288	105	42	false		
+58	11	2	33	#789193d5	25	none	288	105	42	false		
+59	11	3	34	#9e685270	25	none	288	105	42	false		
+60	11	4	35	#1b50f919	25	none	396	111	49	true	[80]	
+61	12	0	26	#2e9c5b64	22	none	285	96	39	false	[46]	
+62	12	1	27	#c8416a52	22	none	285	96	39	false		
+63	12	2	28	#ed2ae59d	22	none	285	96	39	false		
+64	12	3	29	#ba21129a	22	none	285	96	39	false		
+65	12	4	30	#dcdfb712	22	none	370	103	46	true	[120]	
+66	13	0	36	#a79c3231	28	none	968	176	108	true		
+67	13	1	138	#3869fbbd	28	none	980	176	100	true	[13]	
+68	13	2	139	#0ef1b9c0	28	none	1188	286	140	true	[14]	
+69	14	0	21	#d20bc3c4	20	none	246	88	36	false	[130]	
+70	14	1	22	#6b923f0b	20	none	246	88	36	false		
+71	14	2	23	#f631ddaf	20	none	246	88	36	false		
+72	14	3	24	#76dec74b	20	none	246	88	36	false		
+73	14	4	25	#f7bee648	20	none	347	95	43	true	[160]	
+74	15	0	86	#7a5c7ba1	35	none	420	138	60	false		
+75	15	1	87	#cd2f0572	35	none	420	138	60	false		
+76	15	2	88	#465f7fa0	35	none	420	138	60	false		
+77	15	3	89	#9d0d260a	35	none	420	138	60	false	[160]	
+78	15	4	90	#7e8de9d4	35	none	495	144	78	true	[56]	
+79	16	0	76	#5fd94eae	25	none	288	105	48	false	[24]	
+80	16	1	77	#e626cb46	25	none	288	105	48	false	[24]	
+81	16	2	78	#7600ba6d	25	none	288	105	48	false	[150]	
+82	16	3	79	#1c4598fa	25	none	288	105	48	false		
+83	16	4	80	#1c79c2ec	25	none	396	111	66	true		
+84	17	0	81	#ad611c44	30	none	330	121	54	false	[150]	
+85	17	1	82	#9aecfb72	30	none	330	121	54	false		
+86	17	2	83	#5af251c8	30	none	330	121	54	false		
+87	17	3	84	#4d13f414	30	none	330	121	54	false	[55]	
+88	17	4	85	#24b3f1a8	30	none	446	128	72	true	[110]	
+89	18	0	91	#53a9b98d	45	none	516	171	72	false		
+90	18	1	92	#152d4361	45	none	516	171	72	false	[54]	
+91	18	2	93	#607cb5eb	45	none	516	171	72	false		
+92	18	3	94	#bb7b13a7	45	none	516	171	72	false		
+93	18	4	95	#52accb4e	45	none	594	177	90	true	[150]	
+94	19	0	101	#4380079d	30	earth	330	121	54	false		
+95	19	1	105	#9fb2a8f4	30	earth	330	121	54	false		
+96	19	2	102	#16841b75	30	earth	330	121	54	false	[31]	
+97	19	3	103	#6b0b84a0	30	earth	330	121	54	false		
+98	19	4	104	#bddf2098	30	earth	450	130	66	true	[31]	
+99	20	0	106	#a6a1872c	35	none	420	138	60	false		
+100	20	1	107	#cf8fdcca	35	none	420	138	60	false		
+101	20	2	108	#473f7c39	35	none	420	138	60	false	[28]	
+102	20	3	109	#4703a55d	35	none	420	138	60	false		
+103	20	4	110	#d541dfbc	35	none	495	144	78	true	[14]	
+104	21	0	96	#89c90e2d	25	earth	285	105	48	false		
+105	21	1	97	#266eaa52	25	earth	285	105	48	false	[20]	
+106	21	2	98	#3e4fbeae	25	earth	285	105	48	false		
+107	21	3	99	#9f0ed877	25	earth	285	105	48	false		
+108	21	4	100	#d08833c6	25	earth	400	115	58	true	[38]	
+109	22	0	111	#a37782ef	45	none	516	171	72	false		
+110	22	1	112	#193e030f	45	none	516	171	72	false		
+111	22	2	113	#9995a257	45	none	516	171	72	false	[24]	
+112	22	3	114	#ca9bdc76	45	none	516	171	72	false		
+113	22	4	115	#691f2c0b	45	none	594	177	90	true	[170]	
+114	23	0	181	#a6f4f10d	50	chaos	543	180	130	true		[11]
+115	24	0	125	#30b24f88	50	none	4500	25	50	true		
+116	24	1	124	#8be0c959	50	aqua	2625	375	150	true		
+117	24	2	123	#1a4bc2e6	50	none	5625	150	75	true		
+118	24	3	122	#6bf51b71	50	none	2250	150	410	true		
+119	24	4	121	#0a4187d7	50	none	3000	225	260	true		
+120	24	5	120	#203889af	50	none	2500	175	100	true		

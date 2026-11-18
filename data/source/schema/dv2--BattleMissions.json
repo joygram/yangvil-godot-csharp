@@ -1,0 +1,14 @@
+{
+  "table": "BattleMissions",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/battle_missions.json",
+    "source_sha256": "1d44458901fd97e9027721c8c94a6ea30cbe1499974fea72495a80262fd06c1f",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

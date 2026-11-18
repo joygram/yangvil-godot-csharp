@@ -1,0 +1,6 @@
+_row	_parent_row	_idx	train_no	name	fee_type	fee	exp	need_time	icon	icon2	special
+0	0	0	1	#019bb089	gold	3350	191584	1200	train1	train2	
+1	0	1	2	#5b3610d3	gold	8200	383168	3600	train3	train4	
+2	0	2	3	#3a024879	gold	13900	574753	10800	train5	train6	
+3	0	3	4	#59fe259d	gold	20200	766337	21600	train7	train8	
+4	0	4	5	#a3c4d781	gold	27000	957921	43200	train9	train10	true

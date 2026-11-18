@@ -1,0 +1,20 @@
+{
+  "table": "ScenarioFlowSwitch__flows__53",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/scenario_flow_switch.json",
+    "source_sha256": "c5e022d966e6ae89ade11bbff4a5776d2371b42b831b326d374fd9c3ef6905e2",
+    "source_row_count": 47
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "ScenarioFlowSwitch__flows",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

@@ -1,0 +1,3 @@
+_row	_parent_row	_key	min_grade	min_level	hours_base	hours_per_grade	unique_star_min	slots_max	slot_unlock_dia	yield_per_grade
+0	0	produce	1.0	45	38	-2	5	3	75	
+1	0	extract	1.0							100

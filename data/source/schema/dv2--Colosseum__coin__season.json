@@ -1,0 +1,20 @@
+{
+  "table": "Colosseum__coin__season",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/colosseum.json",
+    "source_sha256": "4cfd2f80348c911daedb38e1cd792cd7a0baf5d2523f931474541fa8ee7c3add",
+    "source_row_count": 6
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Colosseum__coin",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

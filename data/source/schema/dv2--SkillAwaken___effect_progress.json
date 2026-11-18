@@ -1,0 +1,20 @@
+{
+  "table": "SkillAwaken___effect_progress",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/skill_awaken.json",
+    "source_sha256": "27322abb42dd8b0fda7ef66b48ec5517991277c5cb81093f969b29209513920e",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "SkillAwaken",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

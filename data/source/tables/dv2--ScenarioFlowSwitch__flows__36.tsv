@@ -1,0 +1,23 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	illust	kind	talker	n	b1
+0	0	0	bgm	bg_magicshop												
+1	0	1	talk		36_1	yulia	talker_in	5	5	3	true					
+2	0	2	talk		36_2	yulia	talker_reorder									
+3	0	3	illust									36	1			
+4	0	4	talker_out											3	2	false
+5	0	5	talk		36_3		talk									
+6	0	6	talk		36_4	yulia	talker_in	5	5	3	true					
+7	0	7	talk		36_5	yulia	talker_reorder									
+8	0	8	talk		36_6	yulia	talker_reorder									
+9	0	9	talk		36_7		talk									
+10	0	10	talk		36_8	yulia	talker_reorder									
+11	0	11	talk		36_9		talk									
+12	0	12	talk		36_10	yulia	talker_reorder									
+13	0	13	talk		36_11	yulia	talker_reorder									
+14	0	14	talk		36_12	yulia	talker_reorder									
+15	0	15	talk		36_13		talk									
+16	0	16	talk		36_14	yulia	talker_reorder									
+17	0	17	talk		36_15		talk									
+18	0	18	talk		36_16	yulia	talker_reorder									
+19	0	19	talk		36_17	yulia	talker_reorder									
+20	0	20	talk		36_18		talk									
+21	0	21	talk		36_19		talk									

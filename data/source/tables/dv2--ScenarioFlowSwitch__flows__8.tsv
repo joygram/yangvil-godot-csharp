@@ -1,0 +1,57 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1	illust	kind
+0	0	0	bgm	bg_scenario_comic												
+1	0	1	talk		8_1	nuri	talker_in	2	2	2	true					
+2	0	2	talk		8_2	jimon	talker_in	1	5	1	true					
+3	0	3	talk		8_3	jimon	talker_in	2	2	1	false					
+4	0	4	talk		8_4	nuri	talker_in	1	5	2	false					
+5	0	5	talk		8_5	nuri	talker_in	1	6	2	false					
+6	0	6	talk		8_6	jimon	talker_in	1	5	1	false					
+7	0	7	talk		8_7	nuri	talker_in	1	5	2	false					
+8	0	8	talk		8_8	jimon	talker_in	1	7	1	false					
+9	0	9	talker_out									1	2	false		
+10	0	10	talk		8_9		talk									
+11	0	11	talk		8_10		talk									
+12	0	12	illust												8	1
+13	0	13	sfx	effect_walk												
+14	0	14	talk		8_11	nuri	talker_in	2	2	2	true					
+15	0	15	talk		8_12	nuri	talker_in	2	2	2	false					
+16	0	16	talk		8_13	jimon	talker_in	1	7	1	true					
+17	0	17	talk		8_14	nuri	talker_in	1	6	2	false					
+18	0	18	talk		8_15	jimon	talker_in	1	5	1	false					
+19	0	19	talk		8_16	nuri	talker_in	1	5	2	false					
+20	0	20	talk		8_17	jimon	talker_in	1	5	1	false					
+21	0	21	talk		8_18	nuri	talker_in	1	4	2	false					
+22	0	22	talk		8_19	jimon	talker_in	1	5	1	false					
+23	0	23	talk		8_20	nuri	talker_in	1	4	2	false					
+24	0	24	talk		8_21	jimon	talker_in	1	1	1	false					
+25	0	25	talk		8_22	nuri	talker_in	1	7	2	false					
+26	0	26	talk		8_23	nuri	talker_in	2	2	2	false					
+27	0	27	talk		8_42	yulia	talker_in	1	6	3	true					
+28	0	28	bgm	bg_magicshop												
+29	0	29	talk		8_24		talk									
+30	0	30	talk		8_25	yulia	talker_in	1	1	3	true					
+31	0	31	talk		8_26	nuri	talker_in	1	5	2	true					
+32	0	32	talk		8_27	jimon	talker_in	1	1	1	true					
+33	0	33	talk		8_28	yulia	talker_in	1	1	3	false					
+34	0	34	talk		8_29		talk									
+35	0	35	talk		8_30	yulia	talker_in	1	1	3	false					
+36	0	36	talk		8_31	yulia	talker_in	1	4	3	false					
+37	0	37	talk		8_32	yulia	talker_in	1	4	3	false					
+38	0	38	talk		8_33	nuri	talker_in	1	5	2	false					
+39	0	39	talk		8_34		talk									
+40	0	40	talk		8_35	yulia	talker_in	1	1	3	false					
+41	0	41	talk		8_36	yulia	talker_in	1	1	3	false					
+42	0	42	talk		8_37	nuri	talker_in	1	1	2	false					
+43	0	43	talk		8_38	jimon	talker_in	1	1	1	false					
+44	0	44	bgm	bg_auction												
+45	0	45	talk		8_39	nuri	talker_in	1	6	2	true					
+46	0	46	talk		8_40	jimon	talker_in	1	5	1	true					
+47	0	47	talk		8_41		talk									
+48	0	48	bgm	bg_magicshop												
+49	0	49	talk		8_43	yulia	talker_in	1	2	3	false					
+50	0	50	talker_out									3	2	false		
+51	0	51	talk		8_44		talk									
+52	0	52	talk		8_45	nuri	talker_in	2	2	2	true					
+53	0	53	talk		8_46	jimon	talker_in	1	1	1	true					
+54	0	54	talk		8_47	nuri	talker_in	1	1	2	false					
+55	0	55	talk		8_48	jimon	talker_in	1	2	1	false					

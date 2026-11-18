@@ -1,0 +1,41 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	battle	talker	n	b1	illust	kind	_recovered
+0	0	0	bgm	bg_battle_boss														
+1	0	1	sfx	effect_monster_in														
+2	0	2	talk		33_1		talk											
+3	0	3	talk		33_2		talk											
+4	0	4	talk		33_3	blackrobe	talker_in	1	1	1	true							
+5	0	5	talk		33_4	blackrobe	talker_reorder											
+6	0	6	talk		33_5	blackrobe	talker_reorder											
+7	0	7	talk		33_6	blackrobe	talker_reorder											
+8	0	8	sfx	effect_monster_in														
+9	0	9	talk		33_7		talk											
+10	0	10	talk		33_8		talk											
+11	0	11	talk		33_9		talk											
+12	0	12	talk		33_10		talk											
+13	0	13	battle									15						
+14	0	14	talker_out										1	1	false			
+15	0	15	bgm	bg_battle_boss														
+16	0	16	sfx	effect_monster_out														
+17	0	17	talk		33_11		talk											
+18	0	18	illust													33	1	
+19	0	19	talk		33_14	blackrobe	talker_in	1	1	3	true							
+20	0	20	talk		33_12		talk											
+21	0	21	talk		33_13		talk											
+22	0	22	talk		33_15	blackrobe	talker_reorder											
+23	0	23	sfx	effect_dragon_damaged_1														
+24	0	24	talk		33_16		talk											
+25	0	25	talk		33_17	florence	talker_in	1	3	2	true							
+26	0	26	talk		33_18	arnold	talker_in	3	3	1	true							
+27	0	27	sfx	effect_elysium_3_sword														
+28	0	28	talk		33_19		talk											
+29	0	29	talk		33_20	blackrobe	talker_reorder											
+30	0	30	talk		33_21		talk											
+31	0	31	talk		33_22	blackrobe	talker_reorder											
+32	0	32	talk		33_23	blackrobe	talker_reorder											
+33	0	33	talk		33_24													literal
+34	0	34	talker_out										3	1	true			
+35	0	35	talk		33_25	yulia	talker_in	1	6	3	true							
+36	0	36	talker_out										1	2	false			
+37	0	37	talker_out										2	2	false			
+38	0	38	talker_out										3	2	false			
+39	0	39	talk		33_26		talk											

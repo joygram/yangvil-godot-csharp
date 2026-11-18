@@ -1,0 +1,20 @@
+{
+  "table": "Gems__craft__sands_tear_items",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/gems.json",
+    "source_sha256": "78e7d9331678191c4f41e25f30afa68e0dd6c101c0bec98df1a74c86c3aa3935",
+    "source_row_count": 2
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Gems__craft",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

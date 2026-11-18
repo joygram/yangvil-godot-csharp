@@ -1,0 +1,69 @@
+_row	_parent_row	_idx	op	key	npc_name	body	state	_recovered	frame	via	pos	enter	track	battle	talker	n	b1
+0	0	0	talk	32_1				literal									
+1	0	1	cut						scenario_main_story_sn_32_1								
+2	0	2	cut						scenario_main_story_sn_32_2								
+3	0	3	cut						scenario_main_story_sn_32_3								
+4	0	4	cut						scenario_main_story_sn_32_4								
+5	0	5	cut						scenario_main_story_sn_32_5								
+6	0	6	cut						scenario_main_story_sn_32_6								
+7	0	7	talk	32_2	blackrobe	1	1			talker_in	1	true					
+8	0	8	talk	32_3	blackrobe					talker_reorder							
+9	0	9	sfx										effect_walk				
+10	0	10	talk	32_4						talk							
+11	0	11	battle											14			
+12	0	12	sfx										effect_monster_in				
+13	0	13	talk	32_5						talk							
+14	0	14	sfx										effect_walk				
+15	0	15	sfx										effect_dragon_damaged_				
+16	0	16	sfx										effect_dragon_damaged_1				
+17	0	17	sfx										effect_dragon_damaged_				
+18	0	18	bgm										bg_colosseum_battle_2				
+19	0	19	talk	32_6						talk							
+20	0	20	sfx										effect_monster_in				
+21	0	21	talk	32_7						talk							
+22	0	22	talk	32_8	blackrobe	1	1			talker_in	1	true					
+23	0	23	talk	32_9	blackrobe					talker_reorder							
+24	0	24	sfx										effect_monster_in				
+25	0	25	talk	32_10						talk							
+26	0	26	talk	32_11						talk							
+27	0	27	talk	32_12	blackrobe					talker_reorder							
+28	0	28	talk	32_13	blackrobe					talker_reorder							
+29	0	29	talker_out												1	2	false
+30	0	30	talk	32_14						talk							
+31	0	31	talk	32_15						talk							
+32	0	32	talk	32_16						talk							
+33	0	33	talk	32_17	yulia	1	6			talker_in	2	true					
+34	0	34	talk	32_18	popo	1	6			talker_in	1	true					
+35	0	35	talker_out												1	2	false
+36	0	36	talker_out												2	2	false
+37	0	37	talk	32_22	popo	1	6			talker_in	1	false					
+38	0	38	bgm										bg_magicshop				
+39	0	39	talk	32_19	yulia	1	4			talker_in	1	true					
+40	0	40	talk	32_20						talk							
+41	0	41	talk	32_21						talk							
+42	0	42	talk	32_23	yulia					talker_reorder							
+43	0	43	talk	32_24						talk							
+44	0	44	talk	32_25	yulia					talker_reorder							
+45	0	45	talker_out												1	2	false
+46	0	46	talker_out												2	2	false
+47	0	47	talk	32_26						talk							
+48	0	48	talk	32_27	arnold					talker_reorder							
+49	0	49	talk	32_28	arnold					talker_reorder							
+50	0	50	talk	32_29	arnold					talker_reorder							
+51	0	51	talk	32_30	arnold					talker_reorder							
+52	0	52	talk	32_31	arnold	1	5			talker_in	2	false					
+53	0	53	talk	32_32	florence	1	5			talker_in	1	false					
+54	0	54	talk	32_33	florence	1	5			talker_in	1	false					
+55	0	55	sfx										effect_box_peong				
+56	0	56	talker_out												1	2	false
+57	0	57	talker_out												2	2	false
+58	0	58	talk	32_34						talk							
+59	0	59	talk	32_35						talk							
+60	0	60	talk	32_36	arnold	1	2			talker_in	2	true					
+61	0	61	talk	32_37	arnold					talker_reorder							
+62	0	62	talk	32_38	florence	1	2			talker_in	1	true					
+63	0	63	talk	32_39						talk							
+64	0	64	talk	32_40	yulia	1	4			talker_in	3	true					
+65	0	65	talk	32_41	yulia					talker_reorder							
+66	0	66	talk	32_42	yulia	1	3			talker_in	3	false					
+67	0	67	talk	32_43						talk							

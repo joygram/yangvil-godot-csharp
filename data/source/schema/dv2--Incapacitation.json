@@ -1,0 +1,16 @@
+{
+  "table": "Incapacitation",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/incapacitation.json",
+    "source_sha256": "2805c8976139ad9451fc4850f264823331ef118052dca7fd09ac04c056c87623",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": [
+    "cure_items"
+  ]
+}

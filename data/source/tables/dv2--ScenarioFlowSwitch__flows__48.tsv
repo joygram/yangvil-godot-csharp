@@ -1,0 +1,47 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	battle	talker	n	b1
+0	0	0	bgm	bg_metal_tower											
+1	0	1	talk		48_1		talk								
+2	0	2	talk		48_2		talk								
+3	0	3	talk		48_3		talk								
+4	0	4	talk		48_4		talk								
+5	0	5	talk		48_5		talk								
+6	0	6	bgm	bg_colosseum_battle_2											
+7	0	7	talk		48_6	who	talker_in	1	3	3	true				
+8	0	8	talk		48_7		talk								
+9	0	9	talk		48_8	who	talker_in	1	3	3	false				
+10	0	10	talk		48_9	dogi	talker_in	1	3	3	false				
+11	0	11	battle									21			
+12	0	12	talk		48_27	arnold	talker_in	1	1	2	true				
+13	0	13	bgm	bg_metal_tower											
+14	0	14	talk		48_10	dogi	talker_in	1	3	3	false				
+15	0	15	talk		48_11		talk								
+16	0	16	talk		48_12	dogi	talker_in	1	1	3	false				
+17	0	17	talk		48_13	dogi	talker_in	1	3	3	false				
+18	0	18	talk		48_14		talk								
+19	0	19	talk		48_15		talk								
+20	0	20	talk		48_16	arnold	talker_in	1	6	2	true				
+21	0	21	talk		48_17		talk								
+22	0	22	talk		48_18	arnold	talker_in	1	2	2	false				
+23	0	23	talk		48_19		talk								
+24	0	24	talk		48_20	arnold	talker_in	1	5	2	false				
+25	0	25	talk		48_21		talk								
+26	0	26	talk		48_22	arnold	talker_in	1	6	2	false				
+27	0	27	talk		48_23		talk								
+28	0	28	talk		48_24	arnold	talker_in	1	6	2	false				
+29	0	29	talk		48_25	arnold	talker_in	1	2	2	false				
+30	0	30	talk		48_26		talk								
+31	0	31	talker_out										2	2	false
+32	0	32	talker_out										3	2	false
+33	0	33	bgm	bg_15											
+34	0	34	bgm	bg_metal_tower											
+35	0	35	talk		48_28	arnold	talker_in	1	5	2	false				
+36	0	36	talk		48_29	arnold	talker_in	1	5	2	false				
+37	0	37	talk		48_30	arnold	talker_in	1	2	2	false				
+38	0	38	talk		48_31	arnold	talker_in	1	1	2	false				
+39	0	39	talk		48_32	arnold	talker_in	1	1	2	false				
+40	0	40	talk		48_33	arnold	talker_in	1	2	2	false				
+41	0	41	talker_out										2	2	false
+42	0	42	bgm	bg_15											
+43	0	43	talk		48_34	arnold	talker_in	1	2	3	false				
+44	0	44	bgm	bg_metal_tower											
+45	0	45	talk		48_35	arnold	talker_in	1	2	3	false				

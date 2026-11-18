@@ -1,0 +1,2 @@
+_row	_parent_row	from	reason	reader
+0	0	102		scripts/core/data_loader.gd story_episodes()/story_episode()/story_chapters()

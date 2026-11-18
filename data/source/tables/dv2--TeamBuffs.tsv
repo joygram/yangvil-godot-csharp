@@ -1,0 +1,2 @@
+_row	race_dim	stat_order	effect_mode
+0	element	["hp","att","def","evd","cri","blk","pure","cri_pow","depure","awaken_rate","accuracy"]	typed

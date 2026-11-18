@@ -1,0 +1,39 @@
+_row	_parent_row	_idx	op	talker	n	b1	track	key	npc_name	via	illust	kind	body	state	pos	enter	battle
+0	0	0	talker_out	1	2	false											
+1	0	1	talker_out	2	2	false											
+2	0	2	talker_out	3	2	false											
+3	0	3	bgm				bg_town										
+4	0	4	talk					59_1		talk							
+5	0	5	talk					59_2		talk							
+6	0	6	sfx				effect_explosion										
+7	0	7	talk					59_3		talk							
+8	0	8	illust								59	1					
+9	0	9	bgm				bg_colosseum_battle_2										
+10	0	10	bgm				bg_town										
+11	0	11	talk					59_10	kanggalo	talker_in			1	1	2	false	
+12	0	12	talk					59_4		talk							
+13	0	13	talk					59_5	kanggalo	talker_in			1	3	2	true	
+14	0	14	talk					59_6	kanggalo	talker_in			1	3	2	false	
+15	0	15	talk					59_7		talk							
+16	0	16	talk					59_8	kanggalo	talker_in			1	1	2	false	
+17	0	17	talker_out	2	2	false											
+18	0	18	talk					59_9		talk							
+19	0	19	battle														24
+20	0	20	bgm				bg_town										
+21	0	21	bgm				bg_town										
+22	0	22	talk					59_11	kanggalo	talker_in			1	1	2	false	
+23	0	23	talk					59_12	kanggalo	talker_in			1	1	2	false	
+24	0	24	talk					59_13		talk							
+25	0	25	talk					59_14		talk							
+26	0	26	talk					59_15	kanggalo	talker_in			1	1	2	false	
+27	0	27	talk					59_16	kanggalo	talker_in			1	4	2	false	
+28	0	28	talk					59_17	kanggalo	talker_in			1	1	2	false	
+29	0	29	talk					59_18	kanggalo	talker_in			1	1	2	false	
+30	0	30	talk					59_19		talk							
+31	0	31	talk					59_20	kanggalo	talker_in			1	2	2	false	
+32	0	32	talker_out	2	2	false											
+33	0	33	talk					59_21		talk							
+34	0	34	talk					59_22		talk							
+35	0	35	talker_out	1	2	false											
+36	0	36	talker_out	2	2	false											
+37	0	37	talker_out	3	2	false											

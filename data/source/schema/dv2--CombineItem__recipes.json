@@ -1,0 +1,20 @@
+{
+  "table": "CombineItem__recipes",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/combine_item.json",
+    "source_sha256": "809170541d5d03b2b66324452ba1ffcaaa3e7a445f38807b5cedddbc77ee942a",
+    "source_row_count": 6
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "CombineItem",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

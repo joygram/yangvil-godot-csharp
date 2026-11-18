@@ -1,0 +1,138 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1	illust	kind	npc_name_guess
+0	0	0	bgm	bg_magicshop													
+1	0	1	talk		34_1	nuri	talker_in	1	6	2	true						
+2	0	2	talk		34_2	jimon	talker_in	1	1	1	true						
+3	0	3	talker_out									2	2	false			
+4	0	4	talk		34_3	popo	talker_in	1	3	2	true						
+5	0	5	talker_out									1	2	false			
+6	0	6	talk		34_4	kanggalo	talker_in	1	2	1	true						
+7	0	7	talker_out									2	2	false			
+8	0	8	talk		34_5	randolph	talker_in	1	2	2	true						
+9	0	9	talker_out									1	2	false			
+10	0	10	talk		34_6	baruseu	talker_in	1	4	1	true						
+11	0	11	talker_out									2	2	false			
+12	0	12	talk		34_7	pino	talker_in	1	3	2	true						
+13	0	13	talk		34_8	popo	talker_in	1	2	3	true						
+14	0	14	talker_out									1	2	false			
+15	0	15	talker_out									2	2	false			
+16	0	16	talk		34_9		talk										
+17	0	17	talk		34_10	yulia	talker_in	1	1	2	true						
+18	0	18	talker_out									2	2	false			
+19	0	19	illust												34	2	
+20	0	20	talk		34_20	nuri	talker_in	2	2	2	true						
+21	0	21	talk		34_11		talk										florence
+22	0	22	talk		34_12	arnold	talker_reorder										
+23	0	23	talk		34_13	arnold	talker_in	1	2	2	false						
+24	0	24	talk		34_14	florence	talker_in	1	2	1	false						
+25	0	25	talk		34_15	florence	talker_reorder										
+26	0	26	talk		34_16		talk										
+27	0	27	talk		34_17	arnold	talker_reorder										
+28	0	28	talk		34_18	arnold	talker_reorder										
+29	0	29	talk		34_19	florence	talker_reorder										
+30	0	30	sfx	effect_door_open													
+31	0	31	talk		34_42	florence	talker_in	1	2	2	true						
+32	0	32	talker_out									1	2	false			
+33	0	33	talk		34_21	jimon	talker_in	1	2	1	true						
+34	0	34	talk		34_22	yulia	talker_in	1	2	3	true						
+35	0	35	talk		34_23		talk										
+36	0	36	talker_out									1	2	false			
+37	0	37	talker_out									2	2	false			
+38	0	38	talker_out									3	2	false			
+39	0	39	bgm	bg_ending													
+40	0	40	illust												34	3	
+41	0	41	talk		34_26	srorin	talker_in	1	1	1	true						
+42	0	42	talk		34_24	arnold	talker_in	1	6	2	true						
+43	0	43	talk		34_25	florence	talker_in	1	6	1	true						
+44	0	44	talker_out									1	2	false			
+45	0	45	talk		34_27	arnold	talker_reorder										
+46	0	46	talker_out									2	2	false			
+47	0	47	talk		34_28	aidra	talker_in	1	1	2	true						
+48	0	48	talker_out									1	2	false			
+49	0	49	talk		34_29	florence	talker_in	1	6	1	true						
+50	0	50	talk		34_30		talk										
+51	0	51	talker_out									1	2	false			
+52	0	52	talk		34_31	srorin	talker_in	1	6	1	true						
+53	0	53	talk		34_33	aidra	talker_reorder										
+54	0	54	talk		34_34	aidra	talker_in	1	2	2	false						
+55	0	55	talk		34_35	aidra	talker_reorder										
+56	0	56	talk		34_36		talk										
+57	0	57	talk		34_37	srorin	talker_in	1	1	1	false						
+58	0	58	talk		34_38	srorin	talker_reorder										
+59	0	59	talk		34_39	aidra	talker_in	1	1	2	false						
+60	0	60	talk		34_40	aidra	talker_reorder										
+61	0	61	talker_out									1	2	false			
+62	0	62	talk		34_41	arnold	talker_in	1	2	1	true						
+63	0	63	talker_out									2	2	false			
+64	0	64	talk		34_43		talk										
+65	0	65	talk		34_44	arnold	talker_reorder										
+66	0	66	talk		34_45	arnold	talker_in	1	7	1	false						
+67	0	67	talk		34_46	florence	talker_reorder										
+68	0	68	talk		34_47	florence	talker_in	1	7	2	false						
+69	0	69	talk		34_48		talk										
+70	0	70	talk		34_49	arnold	talker_in	1	2	1	false						
+71	0	71	talk		34_50	florence	talker_in	1	2	2	false						
+72	0	72	talk		34_51		talk										
+73	0	73	talk		34_52		talk										
+74	0	74	talker_out									1	2	false			
+75	0	75	talker_out									2	2	false			
+76	0	76	illust												34	4	
+77	0	77	talk		34_55		talk										
+78	0	78	talk		34_53	arnold	talker_in	1	2	1	true						
+79	0	79	talk		34_54	florence	talker_in	1	2	2	true						
+80	0	80	talker_out									1	2	false			
+81	0	81	talker_out									2	2	false			
+82	0	82	talk		34_56		talk										
+83	0	83	talk		34_57	nuri	talker_reorder										
+84	0	84	talk		34_58		talk										
+85	0	85	talk		34_59		talk										
+86	0	86	talker_out									1	2	false			
+87	0	87	talker_out									2	2	false			
+88	0	88	bgm	bg_12													
+89	0	89	talk		34_69	nuri	talker_in	1	1	2	true						
+90	0	90	talk		34_60	blackrobe	talker_in	1	1	3	true						
+91	0	91	talk		34_61	who	talk										
+92	0	92	talk		34_62	blackrobe	talker_reorder										
+93	0	93	talk		34_63	who	talk										
+94	0	94	talk		34_64	blackrobe	talker_reorder										
+95	0	95	talk		34_65	who	talk										
+96	0	96	talk		34_66	blackrobe	talker_reorder										
+97	0	97	talk		34_67	who	talk										
+98	0	98	talk		34_68	blackrobe	talker_reorder										
+99	0	99	talk		34_81	raon	talker_in	1	1	3	false						
+100	0	100	bgm	bg_yutakan													
+101	0	101	talk		34_70		talk										
+102	0	102	talk		34_71	nuri	talker_in	1	5	2	false						
+103	0	103	talk		34_72	jimon	talker_in	1	1	1	true						
+104	0	104	talk		34_73	nuri	talker_in	2	2	2	false						
+105	0	105	talk		34_74	nuri	talker_in	1	1	2	false						
+106	0	106	talk		34_75	nuri	talker_in	1	1	2	false						
+107	0	107	talk		34_76	jimon	talker_in	1	1	1	false						
+108	0	108	talk		34_77	nuri	talker_in	1	7	2	false						
+109	0	109	talk		34_78	jimon	talker_in	1	6	1	false						
+110	0	110	talk		34_79	raon	talker_in	1	1	3	true						
+111	0	111	talk		34_80		talk										
+112	0	112	talk		34_82	raon	talker_in	1	3	3	false						
+113	0	113	talk		34_83	nuri	talker_in	1	3	2	false						
+114	0	114	talk		34_84	raon	talker_in	1	2	3	false						
+115	0	115	talk		34_85	nuri	talker_in	1	3	2	false						
+116	0	116	talk		34_86	raon	talker_in	1	3	3	false						
+117	0	117	talk		34_87		talk										
+118	0	118	sfx	effect_walk													
+119	0	119	talk		34_88		talk										
+120	0	120	bgm	bg_yutakan													
+121	0	121	talk		34_89	raon	talker_in	1	2	3	true						
+122	0	122	talk		34_90	raon	talker_in	1	3	3	false						
+123	0	123	talk		34_91	raon	talker_in	1	1	3	false						
+124	0	124	talk		34_92	raon	talker_in	1	1	3	false						
+125	0	125	talk		34_93	raon	talker_in	1	1	3	false						
+126	0	126	sfx	effect_walk													
+127	0	127	talker_out									1	2	false			
+128	0	128	talk		34_94	nuri	talker_in	1	7	2	true						
+129	0	129	talk		34_95	jimon	talker_in	1	1	1	true						
+130	0	130	talk		34_96	nuri	talker_in	1	1	2	false						
+131	0	131	talk		34_97	jimon	talker_in	1	2	1	false						
+132	0	132	talk		34_98		talk										
+133	0	133	talk		34_99		talk										
+134	0	134	talk		34_100	nuri	talker_in	2	2	2	false						
+135	0	135	talk		34_101	jimon	talker_in	1	2	1	false						
+136	0	136	talk		34_102		talk										

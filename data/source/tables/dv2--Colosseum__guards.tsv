@@ -1,0 +1,7 @@
+_row	_parent_row	_idx	order	streak_at	streak_at_first	key	name	orig	skip_if_admin	talk_stage	lines_first	rating
+0	0	0	1	25	0	nuri	#d61251bf	true	false	A	[]	0
+1	0	1	2	50	0	raon	#77b1684c	true	false	A	[]	0
+2	0	2	3	75	0	nuri	#d61251bf	true	false	B	[]	0
+3	0	3	4	100	0	raon	#77b1684c	true	false	B	[]	0
+4	0	4	5	150	0	raon	#77b1684c	true	false	C	[]	0
+5	0	5	6	999	333	sundaegun	선대군	false	true			0

@@ -1,0 +1,259 @@
+_row	_key	name	category	subcategory	element	icon	stack	effect	offline	desc	dragon_id	piece	tier	grade	size	note
+0	alchemy_courage	#561b7171	material	alchemy		item_mtr/item_mtr_alchemy_courage	true		impl							
+1	alchemy_glory	#003516b1	material	alchemy		item_mtr/item_mtr_alchemy_glory	true		impl							
+2	alchemy_justice	#3929da76	material	alchemy		item_mtr/item_mtr_alchemy_justice	true		impl							
+3	alchemy_legend	#daa6acb6	material	alchemy		item_mtr/item_mtr_alchemy_legend	true		impl							
+4	alchemy_moderation	#435c56ba	material	alchemy		item_mtr/item_mtr_alchemy_moderation	true		impl							
+5	alchemy_platinum_01	#f732798a	material	alchemy		item_mtr/item_mtr_alchemy_platinum_01	true		impl							
+6	alchemy_platinum_02	#43fd6b92	material	alchemy		item_mtr/item_mtr_alchemy_platinum_02	true		impl							
+7	alchemy_special	#11dc1520	material	alchemy		item_mtr/item_mtr_alchemy_special	true		impl							
+8	alchemy_wisdom	#721aaf69	material	alchemy		item_mtr/item_mtr_alchemy_wisdom	true		impl							
+9	anima	#7b59060e	material	awaken_mat		item_mtr/item_mtr_anima	true		impl							
+10	ascension	#f9c892b0	consumable	nest		item_etc/item_etc_ascension	true		impl							
+11	aton_egg_1	#59baa8a9	material	shard		item_mtr/item_mtr_aton_egg_1	true		impl		3040	1				
+12	aton_egg_2	#ca950f99	material	shard		item_mtr/item_mtr_aton_egg_2	true		impl		3040	2				
+13	aton_egg_3	#d9fafee6	material	shard		item_mtr/item_mtr_aton_egg_3	true		impl		3040	3				
+14	aton_egg_4	#851c9e25	material	shard		item_mtr/item_mtr_aton_egg_4	true		impl		3040	4				
+15	aton_egg_5	#5aad6daf	material	shard		item_mtr/item_mtr_aton_egg_5	true		impl		3040	5				
+16	aton_egg_6	#558b022f	material	shard		item_mtr/item_mtr_aton_egg_6	true		impl		3040	6				
+17	aton_egg_7	#d3777a04	material	shard		item_mtr/item_mtr_aton_egg_7	true		impl		3040	7				
+18	att_drink1	#f1d830e2	food	drink		item_food/item_food_att_drink1	true		impl				1			
+19	att_drink2	#bb0bebd8	food	drink		item_food/item_food_att_drink2	true		impl				2			
+20	att_drink3	#c4917337	food	drink		item_food/item_food_att_drink3	true		impl				3			
+21	att_powder	#6eb49ff5	material	powder		item_mtr/item_mtr_att_powder	true		impl							
+22	balrog_core	#53a86e43	material	craft		item_mtr/item_mtr_balrog_core	true		impl							
+23	bless_of_amor	#ee271db9	consumable	blessing		item_etc/item_etc_bless_of_amor	true		impl							
+24	bless_of_dersa	#e0a8d3f6	consumable	blessing		item_etc/item_etc_bless_of_dersa	true		impl							
+25	bless_of_dragon	#7e6c978c	consumable	blessing		item_etc/item_etc_bless_of_dragon	true		impl							
+26	bless_of_maia	#18f2b2b0	consumable	blessing		item_etc/item_etc_bless_of_maia	true		impl							
+27	bonner	#a0dd83c3	material	awaken_mat		item_mtr/item_mtr_bonner	true		impl							
+28	box	#aeb357fe	consumable	box		item_etc/item_etc_box	true		impl							
+29	box_dark	#a47b1282	consumable	box		item_etc/item_etc_box_dark	true		impl							
+30	box_gold	#4bd69969	consumable	box		item_etc/item_etc_box_gold	true		todo							
+31	box_silver	#54cbe123	consumable	box		item_etc/item_etc_box_silver	true		todo							
+32	bridle	#69e3693b	consumable	nest		item_etc/item_etc_bridle	true		impl							
+33	chaos_egg_1	#2d95dce0	material	shard		item_mtr/item_mtr_chaos_egg_1	true		impl		3003	1				
+34	chaos_egg_2	#03dd7f7a	material	shard		item_mtr/item_mtr_chaos_egg_2	true		impl		3003	2				
+35	chaos_egg_3	#9389ca70	material	shard		item_mtr/item_mtr_chaos_egg_3	true		impl		3003	3				
+36	chaos_egg_4	#98e998ba	material	shard		item_mtr/item_mtr_chaos_egg_4	true		impl		3003	4				
+37	chaos_egg_5	#433bb9b6	material	shard		item_mtr/item_mtr_chaos_egg_5	true		impl		3003	5				
+38	chaos_egg_6	#0d372464	material	shard		item_mtr/item_mtr_chaos_egg_6	true		impl		3003	6				
+39	chaos_egg_7	#f2493e68	material	shard		item_mtr/item_mtr_chaos_egg_7	true		impl		3003	7				
+40	colosseum_coin	#b6dc30a3	currency	pvp		common_ui/common_honor_small1	true		impl							
+41	cri_drink1	#4539f385	food	drink		item_food/item_food_cri_drink1	true		impl				1			
+42	cri_drink2	#1159516f	food	drink		item_food/item_food_cri_drink2	true		impl				2			
+43	cri_drink3	#e7ecf295	food	drink		item_food/item_food_cri_drink3	true		impl				3			
+44	cronakscale	#b994d0d4	currency	raid_shard		item_etc/item_etc_cronakscale	true		stub							
+45	crystal2_chaos	#2465a91d	material	crystal_ex	chaos	item_mtr/item_mtr_crystal2_chaos	true		impl							
+46	crystal2_dark	#84c6ad04	material	crystal_ex	dark	item_mtr/item_mtr_crystal2_dark	true		impl							
+47	crystal2_earth	#9580ee51	material	crystal_ex	earth	item_mtr/item_mtr_crystal2_earth	true		impl							
+48	crystal2_fire	#b354ac01	material	crystal_ex	fire	item_mtr/item_mtr_crystal2_fire	true		impl							
+49	crystal2_holy	#a86d6d2c	material	crystal_ex	holy	item_mtr/item_mtr_crystal2_holy	true		impl							
+50	crystal2_light	#2c87fc0e	material	crystal_ex	light	item_mtr/item_mtr_crystal2_light	true		impl							
+51	crystal2_water	#09a06afc	material	crystal_ex	aqua	item_mtr/item_mtr_crystal2_water	true		impl							
+52	crystal2_wind	#3cc098ee	material	crystal_ex	wind	item_mtr/item_mtr_crystal2_wind	true		impl							
+53	crystal_chaos	#0eb7122a	material	crystal	chaos	item_mtr/item_mtr_crystal_chaos	true		impl							
+54	crystal_dark	#54d8248d	material	crystal	dark	item_mtr/item_mtr_crystal_dark	true		impl							
+55	crystal_earth	#f53366dc	material	crystal	earth	item_mtr/item_mtr_crystal_earth	true		impl							
+56	crystal_fire	#2afeafcc	material	crystal	fire	item_mtr/item_mtr_crystal_fire	true		impl							
+57	crystal_holy	#512c4f3f	material	crystal	holy	item_mtr/item_mtr_crystal_holy	true		impl							
+58	crystal_light	#89136e33	material	crystal	light	item_mtr/item_mtr_crystal_light	true		impl							
+59	crystal_shadow	#313768e4	material	crystal	shadow	item_mtr/item_mtr_crystal_shadow	true		impl							
+60	crystal_water	#92f5f996	material	crystal	aqua	item_mtr/item_mtr_crystal_water	true		impl							
+61	crystal_wind	#85c171ce	material	crystal	wind	item_mtr/item_mtr_crystal_wind	true		impl							
+62	def_drink1	#74674217	food	drink		item_food/item_food_def_drink1	true		impl				1			
+63	def_drink2	#6827ea70	food	drink		item_food/item_food_def_drink2	true		impl				2			
+64	def_drink3	#58cf2123	food	drink		item_food/item_food_def_drink3	true		impl				3			
+65	def_powder	#070f744a	material	powder		item_mtr/item_mtr_def_powder	true		impl							
+66	dragon_enhance_ticket	#035e7847	material	enchant		item_etc/item_etc_five_star_coupon	true		impl							
+67	dragon_namechange	#056f731d	consumable	qol		item_etc/item_etc_dragon_namechange	true		impl							
+68	drink	#afed9280	food	drink		item_food/item_food_drink	true		impl							
+69	eggmix1	#21543487	document	recipe		item_doc/item_doc_eggmix1	true		impl							
+70	eggmix2	#3b400374	document	recipe		item_doc/item_doc_eggmix2	true		impl							
+71	eggmix3	#e6cb3bac	document	recipe		item_doc/item_doc_eggmix3	true		impl							
+72	eggmix4	#dcc90172	document	recipe		item_doc/item_doc_eggmix4	true		impl							
+73	eggmix5	#35f29221	document	recipe		item_doc/item_doc_eggmix5	true		impl							
+74	ele_chaos	#747b3697	currency	essence	chaos	item_etc/item_etc_ele_chaos	true		impl							
+75	ele_dark	#214dada7	currency	essence	dark	item_etc/item_etc_ele_dark	true		impl							
+76	ele_fire	#f67b0ef1	currency	essence	fire	item_etc/item_etc_ele_fire	true		impl							
+77	ele_ground	#5a5a33e5	currency	essence	earth	item_etc/item_etc_ele_ground	true		impl							
+78	ele_holy	#5408a40c	currency	essence	holy	item_etc/item_etc_ele_holy	true		impl							
+79	ele_light	#58b1863f	currency	essence	light	item_etc/item_etc_ele_light	true		impl							
+80	ele_shadow	#5d89b583	currency	essence	shadow	item_etc/item_etc_ele_shadow	true		impl							
+81	ele_water	#cf7bd50a	currency	essence	aqua	item_etc/item_etc_ele_water	true		impl							
+82	ele_wind	#7ca8a470	currency	essence	wind	item_etc/item_etc_ele_wind	true		impl							
+83	elixir	#a60b1510	food	revive		item_food/item_food_elixir	true		stub							
+84	energy_drink	#3973346f	consumable	qol		item_etc/item_etc_energy_drink	true		dummy							
+85	evol_jewel_3	#9075e42f	material	awaken_stone		item_mtr/item_mtr_evol_jewel_3	true		impl					3		
+86	evol_jewel_4	#f7293e21	material	awaken_stone		item_mtr/item_mtr_evol_jewel_4	true		impl					4		
+87	evol_jewel_5	#403fb4db	material	awaken_stone		item_mtr/item_mtr_evol_jewel_5	true		impl					5		
+88	evol_jewel_6	#40317ebf	material	awaken_stone		item_mtr/item_mtr_evol_jewel_6	true		impl					6		
+89	expx2	#022e3251	consumable	buff		item_etc/item_etc_expx2	true		impl							
+90	expx4	#3734f2cb	consumable	buff		item_etc/item_etc_expx4	true		impl							
+91	food_chaos_tadpole	#b4436813	food	feed	chaos	item_food/item_food_food_chaos_tadpole,	true		impl						#95471f6b	
+92	food_chaos_toud	#0673a775	food	feed	chaos	item_food/item_food_food_chaos_toud	true		impl						#8cbb379d	
+93	food_dark_darkmelon	#37a453bc	food	feed	dark	item_food/item_food_food_dark_darkmelon	true		impl						#8cbb379d	
+94	food_dark_darkmelon_piece	#9776258a	food	feed	dark	item_food/item_food_food_dark_darkmelon_piece	true		impl						#95471f6b	
+95	food_fire_chicken	#02f8213d	food	feed	fire	item_food/item_food_food_fire_chicken	true		impl						#8cbb379d	
+96	food_fire_chickenleg	#19400b08	food	feed	fire	item_food/item_food_food_fire_chickenleg	true		impl						#95471f6b	
+97	food_ground_paopao	#1ace5d0a	food	feed	earth	item_food/item_food_food_ground_paopao	true		impl						#8cbb379d	
+98	food_ground_paopao_half	#7c8ad659	food	feed	earth	item_food/item_food_food_ground_paopao_half	true		impl						#95471f6b	
+99	food_holy_big_ginseng	#7b50d426	food	feed	holy	item_food/item_food_food_holy_big_ginseng	true		impl						#8cbb379d	
+100	food_holy_small_ginseng	#e5ab1ad5	food	feed	holy	item_food/item_food_food_holy_small_ginseng	true		impl						#95471f6b	
+101	food_light_lightmelon	#c45a0102	food	feed	light	item_food/item_food_food_light_lightmelon	true		impl						#8cbb379d	
+102	food_light_lightmelon_piece	#2680e5a5	food	feed	light	item_food/item_food_food_light_lightmelon_piece	true		impl						#95471f6b	
+103	food_shadow_chocolate	#59fbcf97	food	feed	shadow	item_food/item_food_food_shadow_chocolate	true		impl						#8cbb379d	
+104	food_shadow_chocolate_piece	#6ace6726	food	feed	shadow	item_food/item_food_food_shadow_chocolate_piece	true		impl						#95471f6b	
+105	food_water_fly_pirania	#237d748c	food	feed	aqua	item_food/item_food_food_water_fly_pirania	true		impl						#95471f6b	
+106	food_water_pirania	#77b939c1	food	feed	aqua	item_food/item_food_food_water_pirania	true		impl						#8cbb379d	
+107	food_wind_branch_yggdrasil	#41725179	food	feed	wind	item_food/item_food_food_wind_branch_yggdrasil	true		impl						#95471f6b	
+108	food_wind_yggdrasil	#194211e3	food	feed	wind	item_food/item_food_food_wind_yggdrasil	true		impl						#8cbb379d	
+109	gem_init	#cbfee874	consumable	slot		item_etc/item_etc_gem_init	true		impl							
+110	gemslot_change	#f0cb19b7	consumable	slot		item_etc/item_etc_gemslot_change	true		impl							
+111	ginu_coin_green	#0d9abc7f	consumable	slot		item_etc/item_etc_ginu_coin_green	true		impl							
+112	ginu_coin_red	#12aefa8f	consumable	slot		item_etc/item_etc_ginu_coin_red	true		impl							
+113	ginu_coin_yellow	#5be92f5f	consumable	slot		item_etc/item_etc_ginu_coin_yellow	true		impl							
+114	goldx2	#89e6d96f	consumable	buff		item_etc/item_etc_goldx2	true		impl							
+115	goldx4	#71bad7eb	consumable	buff		item_etc/item_etc_goldx4	true		impl							
+116	gudrabox_chaos	#30019412	consumable	box	chaos	item_etc/item_etc_gudrabox_chaos	true		impl							
+117	gudrabox_dark	#62951e06	consumable	box	dark	item_etc/item_etc_gudrabox_dark	true		impl							
+118	gudrabox_earth	#c75c0c60	consumable	box	earth	item_etc/item_etc_gudrabox_earth	true		impl							
+119	gudrabox_fire	#340ef7e5	consumable	box	fire	item_etc/item_etc_gudrabox_fire	true		impl							
+120	gudrabox_holy	#2616bbc7	consumable	box	holy	item_etc/item_etc_gudrabox_holy	true		impl							
+121	gudrabox_light	#fed7fe62	consumable	box	light	item_etc/item_etc_gudrabox_light	true		impl							
+122	gudrabox_shadow	#6aa95138	consumable	box	shadow	item_etc/item_etc_gudrabox_shadow	true		impl							
+123	gudrabox_water	#eb753149	consumable	box	aqua	item_etc/item_etc_gudrabox_water	true		impl							
+124	gudrabox_wind	#31d8ac06	consumable	box	wind	item_etc/item_etc_gudrabox_wind	true		impl							
+125	heal_potion1	#94df44e2	food	heal		item_food/item_food_heal_potion1	true		impl				1			
+126	heal_potion2	#93b18e81	food	heal		item_food/item_food_heal_potion2	true		impl				2			
+127	heal_potion3	#5c9287a3	food	heal		item_food/item_food_heal_potion3	true		impl				3			
+128	hero_auto1	#719d19a9	consumable	qol		item_etc/item_etc_hero_auto1	true		dummy							
+129	hero_auto7	#569016ec	consumable	qol		item_etc/item_etc_hero_auto7	true		dummy							
+130	holy_egg_1	#bf354f48	material	shard		item_mtr/item_mtr_holy_egg_1	true		impl		3002	1				
+131	holy_egg_2	#5e725959	material	shard		item_mtr/item_mtr_holy_egg_2	true		impl		3002	2				
+132	holy_egg_3	#ee476651	material	shard		item_mtr/item_mtr_holy_egg_3	true		impl		3002	3				
+133	holy_egg_4	#cab0d1b1	material	shard		item_mtr/item_mtr_holy_egg_4	true		impl		3002	4				
+134	holy_egg_5	#b7e0dd49	material	shard		item_mtr/item_mtr_holy_egg_5	true		impl		3002	5				
+135	holy_egg_6	#a1ae51fb	material	shard		item_mtr/item_mtr_holy_egg_6	true		impl		3002	6				
+136	holy_egg_7	#5f502508	material	shard		item_mtr/item_mtr_holy_egg_7	true		impl		3002	7				
+137	holynest	#c6f8e797	consumable	nest		item_spc/item_spc_holynest	true		impl							
+138	hp_drink1	#b7f8267d	food	drink		item_food/item_food_hp_drink1	true		impl				1			
+139	hp_drink2	#fb924de3	food	drink		item_food/item_food_hp_drink2	true		impl				2			
+140	hp_drink3	#5bd6d7cd	food	drink		item_food/item_food_hp_drink3	true		impl				3			
+141	hp_powder	#59869bdf	material	powder		item_mtr/item_mtr_hp_powder	true		impl							
+142	item_disconnect	#e1353035	consumable	qol		item_etc/item_etc_item_disconnect	true		impl							
+143	janer_egg_1	#51d37b25	material	shard		item_mtr/item_mtr_janer_egg_1	true		impl		4036	1				
+144	janer_egg_2	#3b528509	material	shard		item_mtr/item_mtr_janer_egg_2	true		impl		4036	2				
+145	janer_egg_3	#d3f58d6f	material	shard		item_mtr/item_mtr_janer_egg_3	true		impl		4036	3				
+146	janer_egg_4	#7f1c50e9	material	shard		item_mtr/item_mtr_janer_egg_4	true		impl		4036	4				
+147	janer_egg_5	#7cefc635	material	shard		item_mtr/item_mtr_janer_egg_5	true		impl		4036	5				
+148	janer_egg_6	#1bcd12d7	material	shard		item_mtr/item_mtr_janer_egg_6	true		impl		4036	6				
+149	janer_egg_7	#678cdbb7	material	shard		item_mtr/item_mtr_janer_egg_7	true		impl		4036	7				
+150	jem_random	#20450656	consumable	box		item_etc/item_etc_jem_random	true		impl							
+151	jewel_amethyst	#917f54a7	material	jewel		item_mtr/item_mtr_jewel_amethyst	true		impl							
+152	jewel_emerald	#52c235b4	material	jewel		item_mtr/item_mtr_jewel_emerald	true		impl							
+153	jewel_ruby	#2423c145	material	jewel		item_mtr/item_mtr_jewel_ruby	true		impl							
+154	jewel_sapphire	#07b29498	material	jewel		item_mtr/item_mtr_jewel_sapphire	true		impl							
+155	kasizclaw	#c36c637a	currency	raid_shard		item_etc/item_etc_kasizclaw	true		stub							
+156	key	#36d0bd41	consumable	key		item_etc/item_etc_key	true		impl							
+157	key_all	#63132fa7	consumable	key		item_etc/item_etc_key_all	true		impl							
+158	key_copper	#584c9462	consumable	key		item_etc/item_etc_key_copper	true		impl							
+159	key_dark	#6d6762ff	consumable	key		item_etc/item_etc_key_dark	true		impl							
+160	key_gold	#11e5520b	consumable	key		item_etc/item_etc_key_gold	true		impl							
+161	key_silver	#449d98d7	consumable	key		item_etc/item_etc_key_silver	true		impl							
+162	level_down	Lv -1	consumable	level		item_etc/item_etc_level_down	true		impl							
+163	level_up	Lv +1	consumable	level		item_etc/item_etc_level_up	true		impl							
+164	lucifer_egg_1	#87058b16	material	shard		item_mtr/item_mtr_lucifer_egg_1	true		impl		3001	1				
+165	lucifer_egg_2	#425ac7ca	material	shard		item_mtr/item_mtr_lucifer_egg_2	true		impl		3001	2				
+166	lucifer_egg_3	#9896d13e	material	shard		item_mtr/item_mtr_lucifer_egg_3	true		impl		3001	3				
+167	lucifer_egg_4	#5dedf777	material	shard		item_mtr/item_mtr_lucifer_egg_4	true		impl		3001	4				
+168	lucifer_egg_5	#04674cea	material	shard		item_mtr/item_mtr_lucifer_egg_5	true		impl		3001	5				
+169	lucifer_egg_6	#ca56fa4e	material	shard		item_mtr/item_mtr_lucifer_egg_6	true		impl		3001	6				
+170	lucifer_egg_7	#9a6ea64c	material	shard		item_mtr/item_mtr_lucifer_egg_7	true		impl		3001	7				
+171	magicbox	#fb8f9bf4	consumable	box		item_etc/item_etc_magicbox	true		impl							
+172	mall_back_egg	#b19e4b0f	egg	dragon_egg	light	item_egg/item_egg_mall_back_egg	true		impl		54					
+173	mall_bagma_egg	#c8a6839f	egg	dragon_egg	light	item_egg/item_egg_mall_bagma_egg	true		impl		4021					
+174	mall_black_egg	#d818b5c7	egg	dragon_egg	dark	item_egg/item_egg_mall_black_egg	true		impl		34					
+175	mall_chaos_egg	#b46f6862	egg	element_egg	chaos	item_egg/item_egg_mall_chaos_egg	true		dummy							
+176	mall_dark_egg	#ff33603d	egg	element_egg	dark	item_egg/item_egg_mall_dark_egg	true		impl							
+177	mall_darkpoll_egg	#7a4095f9	egg	dragon_egg	dark	item_egg/item_egg_mall_darkpoll_egg	true		impl		175					
+178	mall_fire_egg	#c07776f0	egg	element_egg	fire	item_egg/item_egg_mall_fire_egg	true		impl							
+179	mall_gaoron_egg	#5788b5f6	egg	dragon_egg	dark	item_egg/item_egg_mall_gaoron_egg	true		impl		4024					
+180	mall_ground_egg	#582e2152	egg	element_egg	earth	item_egg/item_egg_mall_ground_egg	true		impl							
+181	mall_haetai_egg	#e5eea86f	egg	dragon_egg	wind	item_egg/item_egg_mall_haetai_egg	true		impl		75					
+182	mall_holy_egg	#8dbf81bb	egg	element_egg	holy	item_egg/item_egg_mall_holy_egg	true		dummy							
+183	mall_jaryong_egg	#c4204d99	egg	dragon_egg	fire	item_egg/item_egg_mall_jaryong_egg	true		impl		95					
+184	mall_jin_egg	#b18f1651	egg	dragon_egg	earth	item_egg/item_egg_mall_jin_egg	true		impl		4022					
+185	mall_light_egg	#ef42a9b1	egg	element_egg	light	item_egg/item_egg_mall_light_egg	true		impl							
+186	mall_pang_egg	#a98a98f5	egg	dragon_egg	wind	item_egg/item_egg_mall_pang_egg	true		impl		4019					
+187	mall_question_egg	#ef384934	egg	gacha_egg		item_egg/item_egg_mall_question_egg	true		impl							
+188	mall_question_egg2	#c342632a	egg	gacha_egg		item_egg/item_egg_mall_question_egg2	true		impl							
+189	mall_sion_egg	#63d046a6	egg	dragon_egg	holy	item_egg/item_egg_mall_sion_egg	true		impl		3006					
+190	mall_snake_egg	#189c327a	egg	dragon_egg	dark	item_egg/item_egg_mall_snake_egg	true		impl		69					
+191	mall_toly_egg	#d1798b33	egg	dragon_egg	earth	item_egg/item_egg_mall_toly_egg	true		impl		4026					
+192	mall_tropheus_egg	#f321baec	egg	dragon_egg	aqua	item_egg/item_egg_mall_tropheus_egg	true		impl		4012					
+193	mall_uchi_egg	#e59931a1	egg	dragon_egg	fire	item_egg/item_egg_mall_uchi_egg	true		impl		4027					
+194	mall_ullr_egg	#80b4bbfa	egg	dragon_egg	light	item_egg/item_egg_mall_ullr_egg	true		impl		4028					
+195	mall_water_egg	#7cb7861c	egg	element_egg	aqua	item_egg/item_egg_mall_water_egg	true		impl							
+196	mall_wind_egg	#f05875a6	egg	element_egg	wind	item_egg/item_egg_mall_wind_egg	true		impl							
+197	mall_woods_egg	#057a6e73	egg	dragon_egg	aqua	item_egg/item_egg_mall_woods_egg	true		impl		4025					
+198	mall_wybern_egg	#496cab77	egg	dragon_egg	fire	item_egg/item_egg_mall_wybern_egg	true		impl		74					
+199	mall_zephyros_egg	#2c34bd06	egg	dragon_egg	wind	item_egg/item_egg_mall_zephyros_egg	true		impl		4005					
+200	map_dwarf_hero	#e485e715	document	map		item_doc/item_doc_map_dwarf_hero	true		impl							
+201	map_dwarf_normal	#6e3d0518	document	map		item_doc/item_doc_map_dwarf_normal	true		impl							
+202	map_elf_hero	#75e1b7af	document	map		item_doc/item_doc_map_elf_hero	true		impl							
+203	map_elf_namal	#96cf656b	document	map		item_doc/item_doc_map_elf_namal	true		impl							
+204	map_seal	#6eee348e	document	map		item_doc/item_doc_map_seal	true		impl							
+205	map_utakan_hero	#0b940e31	document	map		item_doc/item_doc_map_utakan_hero	true		impl							
+206	map_utakan_nomal	#8833f173	document	map		item_doc/item_doc_map_utakan_nomal	true		impl							
+207	miss_drink1	#7f447650	food	drink		item_food/item_food_miss_drink1	true		impl				1			
+208	miss_drink2	#66d723d6	food	drink		item_food/item_food_miss_drink2	true		impl				2			
+209	miss_drink3	#81d6d748	food	drink		item_food/item_food_miss_drink3	true		impl				3			
+210	mix_book	#606ac94e	document	mix_book		item_doc/item_doc_mix_book	true		dummy							
+211	mix_perfectbook	#bb04c19a	document	mix_book		item_doc/item_doc_mix_perfectbook	true		dummy							
+212	namechange	#58895fe9	consumable	qol		item_etc/item_etc_namechange	true		impl							
+213	nowaema_egg_1	#953f5f5f	material	shard		item_mtr/item_mtr_nowaema_egg_1	true		impl		4035	1				
+214	nowaema_egg_2	#14e49f1a	material	shard		item_mtr/item_mtr_nowaema_egg_2	true		impl		4035	2				
+215	nowaema_egg_3	#4c88c077	material	shard		item_mtr/item_mtr_nowaema_egg_3	true		impl		4035	3				
+216	nowaema_egg_4	#324a5da3	material	shard		item_mtr/item_mtr_nowaema_egg_4	true		impl		4035	4				
+217	nowaema_egg_5	#78c23d87	material	shard		item_mtr/item_mtr_nowaema_egg_5	true		impl		4035	5				
+218	nowaema_egg_6	#c055882f	material	shard		item_mtr/item_mtr_nowaema_egg_6	true		impl		4035	6				
+219	nowaema_egg_7	#aebbd9cd	material	shard		item_mtr/item_mtr_nowaema_egg_7	true		impl		4035	7				
+220	portal	#c32af170	consumable	ticket		item_etc/item_etc_portal	true		stub							
+221	prodef_drink1	#98d39555	food	drink		item_food/item_food_prodef_drink1	true		impl				1			
+222	prodef_drink2	#4a0a7eed	food	drink		item_food/item_food_prodef_drink2	true		impl				2			
+223	prodef_drink3	#22dbe907	food	drink		item_food/item_food_prodef_drink3	true		impl				3			
+224	quest_herb	#c938ec5e	consumable	story		item_quest/item_quest_quest_herb	true		stub							
+225	rudra_egg_1	#f7322f29	material	shard		item_mtr/item_mtr_rudra_egg_1	true		impl		3039	1				
+226	rudra_egg_2	#78ccee68	material	shard		item_mtr/item_mtr_rudra_egg_2	true		impl		3039	2				
+227	rudra_egg_3	#4650f261	material	shard		item_mtr/item_mtr_rudra_egg_3	true		impl		3039	3				
+228	rudra_egg_4	#80c49e8b	material	shard		item_mtr/item_mtr_rudra_egg_4	true		impl		3039	4				
+229	rudra_egg_5	#2091a847	material	shard		item_mtr/item_mtr_rudra_egg_5	true		impl		3039	5				
+230	rudra_egg_6	#3d63b029	material	shard		item_mtr/item_mtr_rudra_egg_6	true		impl		3039	6				
+231	rudra_egg_7	#71a4e95c	material	shard		item_mtr/item_mtr_rudra_egg_7	true		impl		3039	7				
+232	s_skillbook1	#ca81d3a9	document	memory_select		item_doc/item_doc_s_skillbook1	true		impl							
+233	s_skillbook2	#fb6f2c84	document	memory_select		item_doc/item_doc_s_skillbook2	true		impl							
+234	s_skillbook3	#38a54128	document	memory_select		item_doc/item_doc_s_skillbook3	true		impl							
+235	s_skillbook4	#17cc6ff8	document	memory_select		item_doc/item_doc_s_skillbook4	true		impl							
+236	s_skillbook5	#da68aabb	document	memory_select		item_doc/item_doc_s_skillbook5	true		impl							
+237	scroll_gold	#ca5e68c0	document	memory_random		item_doc/item_doc_scroll_gold	true		impl							
+238	scroll_n1	#1724323a	document	memory_random		item_doc/item_doc_scroll_n1	true		impl							
+239	scroll_n2	#4850e5de	document	memory_random		item_doc/item_doc_scroll_n2	true		impl							
+240	scroll_n3	#ba365101	document	memory_random		item_doc/item_doc_scroll_n3	true		impl							
+241	scroll_n4	#458a9ce6	document	memory_random		item_doc/item_doc_scroll_n4	true		impl							
+242	scroll_n5	#93eccd4a	document	memory_random		item_doc/item_doc_scroll_n5	true		impl							
+243	scroll_silver	#b6092a2f	document	memory_random		item_doc/item_doc_scroll_silver	true		impl							
+244	skillslot_change	#41f35942	consumable	slot		item_etc/item_etc_skillslot_change	true		impl							
+245	slot_reset	#2f684cae	consumable	slot		item_etc/item_etc_slot_reset	true		todo							
+246	stone	#addb5c5d	consumable	story		item_quest/item_quest_stone	true		stub							
+247	stone2	#c5efd21f	consumable	story		item_quest/item_quest_stone2	true		stub							
+248	stone_heart1	#34baa194	material	stone_heart		item_mtr/item_mtr_stone_heart1	true		impl				1			
+249	stone_heart2	#c1a10806	material	stone_heart		item_mtr/item_mtr_stone_heart2	true		impl				2			
+250	stone_heart3	#4d88ad2e	material	stone_heart		item_mtr/item_mtr_stone_heart3	true		impl				3			
+251	stone_heart4	#55d6d159	material	stone_heart		item_mtr/item_mtr_stone_heart4	true		impl				4			
+252	stone_pocket	#1278e87f	consumable	box		item_etc/item_etc_stone_pocket	true		impl							
+253	stone_spirit1	#c94c7bee	material	spirit_stone		item_mtr/item_mtr_stone_spirit1	true		impl				1			
+254	stone_spirit2	#723a49f9	material	spirit_stone		item_mtr/item_mtr_stone_spirit2	true		impl				2			
+255	stone_spirit3	#c86dc144	material	spirit_stone		item_mtr/item_mtr_stone_spirit3	true		impl				3			
+256	stone_spirit4	#0dd26a0f	material	spirit_stone		item_mtr/item_mtr_stone_spirit4	true		impl				4			
+257	ticket	#223085b9	consumable	ticket		item_etc/item_etc_ticket	true		cut							

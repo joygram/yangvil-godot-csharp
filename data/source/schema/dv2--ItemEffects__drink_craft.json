@@ -1,0 +1,22 @@
+{
+  "table": "ItemEffects__drink_craft",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/item_effects.json",
+    "source_sha256": "e9422b5597dd7568fceb1ff92f41dde3ad3cf889dd8db0a1749ea984dbba8da3",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "ItemEffects",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "families"
+  ]
+}

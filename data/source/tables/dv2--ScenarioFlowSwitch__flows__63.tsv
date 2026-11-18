@@ -1,0 +1,68 @@
+_row	_parent_row	_idx	op	talker	n	b1	track	key	npc_name	via	body	state	pos	enter	frame
+0	0	0	talker_out	1	2	false									
+1	0	1	talker_out	2	2	false									
+2	0	2	talker_out	3	2	false									
+3	0	3	bgm				bg_town								
+4	0	4	talk					63_1		talk					
+5	0	5	talk					63_2		talk					
+6	0	6	talk					63_3	dilis	talker_in	1	1	3	true	
+7	0	7	talk					63_4		talk					
+8	0	8	talk					63_5	dilis	talker_in	1	4	3	false	
+9	0	9	talk					63_6		talk					
+10	0	10	talk					63_7		talk					
+11	0	11	talk					63_8		talk					
+12	0	12	talk					63_9	dilis	talker_in	1	4	3	false	
+13	0	13	talk					63_10		talk					
+14	0	14	talk					63_11	dilis	talker_in	1	4	3	false	
+15	0	15	talker_out	3	2	false									
+16	0	16	talk					63_12		talk					
+17	0	17	talk					63_13		talk					
+18	0	18	bgm				bg_1								
+19	0	19	talk					63_14		talk					
+20	0	20	talk					63_15		talk					
+21	0	21	talk					63_16	jimon	talker_in	1	7	3	true	
+22	0	22	talk					63_17		talk					
+23	0	23	talk					63_18		talk					
+24	0	24	talk					63_19	jimon	talker_in	1	5	3	false	
+25	0	25	talk					63_20		talk					
+26	0	26	talk					63_21		talk					
+27	0	27	talk					63_22	jimon	talker_in	1	7	3	false	
+28	0	28	cut												scenario_main_story_sn_63_bg
+29	0	29	talker_out	3	2	false									
+30	0	30	bgm				bg_auction								
+31	0	31	cut												scenario_main_story_sn_63_01
+32	0	32	talk					63_23	jimon	talker_in	1	7	3	true	
+33	0	33	talk					63_24	jimon	talker_in	1	7	3	false	
+34	0	34	cut												scenario_main_story_sn_63_02
+35	0	35	talk					63_25	jimon	talker_in	1	4	3	false	
+36	0	36	talk					63_26	jimon	talker_in	1	4	3	false	
+37	0	37	talk					63_27	jimon	talker_in	1	4	3	false	
+38	0	38	talk					63_28		talk					
+39	0	39	cut												scenario_main_story_sn_63_03
+40	0	40	talk					63_29	jimon	talker_in	1	3	3	false	
+41	0	41	talk					63_30	jimon	talker_in	1	3	3	false	
+42	0	42	talk					63_31	jimon	talker_in	1	3	3	false	
+43	0	43	talk					63_32		talk					
+44	0	44	talk					63_33	jimon	talker_in	1	3	3	false	
+45	0	45	talk					63_34	jimon	talker_in	1	3	3	false	
+46	0	46	talker_out	3	2	false									
+47	0	47	sfx				effect_walk								
+48	0	48	bgm				bg_town								
+49	0	49	sfx				effect_monster_out								
+50	0	50	bgm				bg_auction								
+51	0	51	talk					63_35		talk					
+52	0	52	talk					63_36	dilis	talker_in	1	1	3	true	
+53	0	53	talk					63_37	dilis	talker_in	1	1	3	false	
+54	0	54	talk					63_38		talk					
+55	0	55	talk					63_39	dilis	talker_in	1	4	3	false	
+56	0	56	talk					63_40	dilis	talker_in	1	4	3	false	
+57	0	57	talk					63_41	dilis	talker_in	1	4	3	false	
+58	0	58	talk					63_42	dilis	talker_in	1	2	3	false	
+59	0	59	talk					63_43		talk					
+60	0	60	talk					63_44	dilis	talker_in	1	2	3	false	
+61	0	61	talk					63_45	dilis	talker_in	1	2	3	false	
+62	0	62	talker_out	3	2	false									
+63	0	63	talk					63_46		talk					
+64	0	64	talker_out	1	2	false									
+65	0	65	talker_out	2	2	false									
+66	0	66	talker_out	3	2	false									

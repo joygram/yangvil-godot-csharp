@@ -1,0 +1,96 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1	npc_name_guess	battle	illust	kind
+0	0	0	bgm	bg_10														
+1	0	1	talk		27_1	ghostpirate	talker_in	1	1	2	true							
+2	0	2	talk		27_2	ghostpiratehead	talker_in	1	1	1	true							
+3	0	3	talk		27_3	ghostpirate	talker_reorder											
+4	0	4	talk		27_4	ghostpiratehead	talker_reorder											
+5	0	5	talk		27_5	ghostpirate	talker_reorder											
+6	0	6	sfx	effect_dragon_damaged_1														
+7	0	7	talker_out									1	2	false				
+8	0	8	talker_out									2	2	false				
+9	0	9	sfx	effect_monster_out														
+10	0	10	sfx	effect_door_open														
+11	0	11	bgm	bg_magicshop														
+12	0	12	talk		27_6	arnold	talker_in	1	5	2	true							
+13	0	13	talk		27_7	florence	talker_in	1	5	1	true							
+14	0	14	talk		27_8		talk											
+15	0	15	bgm	bg_colosseum_battle_2														
+16	0	16	sfx	effect_door_open														
+17	0	17	sfx	effect_walk														
+18	0	18	talk		27_9	arnold	talker_in	1	6	2	false							
+19	0	19	talk		27_10	florence	talker_in	1	6	1	false							
+20	0	20	talker_out									2	2	false				
+21	0	21	talk		27_11	nuri	talker_in	1	6	2	true							
+22	0	22	talker_out									1	2	false				
+23	0	23	talk		27_12	jimon	talker_in	1	6	1	true							
+24	0	24	talker_out									2	2	false				
+25	0	25	talk		27_13	arnold	talker_in	1	6	2	true							
+26	0	26	talk		27_14	jimon	talker_in	3	7	1	false							
+27	0	27	talker_out									2	2	false				
+28	0	28	talk		27_15	nuri	talker_in	1	6	2	true							
+29	0	29	talk		27_16		talk											
+30	0	30	talk		27_17	nuri	talker_reorder											
+31	0	31	talk		27_18	jimon	talker_in	1	6	1	false							
+32	0	32	talker_out									2	2	false				
+33	0	33	talk		27_19	arnold	talker_in	3	3	2	true							
+34	0	34	talker_out									1	2	false				
+35	0	35	talk		27_20	florence	talker_in	1	6	1	true							
+36	0	36	talk		27_21	arnold	talker_reorder											
+37	0	37	talk		27_22	florence	talker_in	1	3	1	false							
+38	0	38	talker_out									2	2	false				
+39	0	39	talk		27_23	nuri	talker_in	1	3	2	true							
+40	0	40	talker_out									1	2	false				
+41	0	41	talk		27_24	jimon	talker_in	3	7	1	true							
+42	0	42	talker_out									1	2	false				
+43	0	43	talker_out									2	2	false				
+44	0	44	bgm	bg_10														
+45	0	45	talk		27_25		talk								florence			
+46	0	46	talk		27_26		talk											
+47	0	47	talk		27_27	arnold	talker_reorder											
+48	0	48	talk		27_28	florence	talker_reorder											
+49	0	49	talk		27_29		talk											
+50	0	50	battle													11		
+51	0	51	talker_out									1	2	false				
+52	0	52	talker_out									2	2	false				
+53	0	53	talk		27_30	monsterevent1	talk											
+54	0	54	sfx	effect_monster_in														
+55	0	55	talk		27_31		talk											
+56	0	56	talk		27_57		talk											
+57	0	57	bgm	bg_10														
+58	0	58	talk		27_32		talk											
+59	0	59	talk		27_33	arnold	talker_in	3	3	2	true							
+60	0	60	talk		27_34	florence	talker_in	1	5	1	true							
+61	0	61	talker_out									1	2	false				
+62	0	62	talker_out									2	2	false				
+63	0	63	illust														27	1
+64	0	64	talk		27_35	arnold	talker_in	3	3	2	true							
+65	0	65	talk		27_36	florence	talker_in	1	5	1	true							
+66	0	66	talk		27_37	arnold	talker_reorder											
+67	0	67	talk		27_38	arnold	talker_reorder											
+68	0	68	talk		27_48	florence	talker_in	1	5	1	true							
+69	0	69	talk		27_39		talk											
+70	0	70	talk		27_40	arnold	talker_in	1	7	2	false							
+71	0	71	talk		27_41	florence	talker_in	1	5	1	false							
+72	0	72	talk		27_42		talk											
+73	0	73	talk		27_43		talk											
+74	0	74	talk		27_44		talk											
+75	0	75	talker_out									2	2	false				
+76	0	76	talk		27_45	nuri	talker_in	1	7	2	true							
+77	0	77	talker_out									1	2	false				
+78	0	78	talk		27_46	jimon	talker_in	1	6	1	true							
+79	0	79	talker_out									2	2	false				
+80	0	80	talk		27_47	arnold	talker_in	1	7	2	true							
+81	0	81	talker_out									1	2	false				
+82	0	82	talk		27_49		talk											
+83	0	83	talker_out									2	2	false				
+84	0	84	talk		27_50	nuri	talker_in	1	6	2	true							
+85	0	85	talker_out									1	2	false				
+86	0	86	talk		27_51	jimon	talker_in	1	6	1	true							
+87	0	87	talk		27_52	nuri	talker_reorder											
+88	0	88	talk		27_53	jimon	talker_in	1	5	1	false							
+89	0	89	talk		27_54		talk											
+90	0	90	talk		27_55	nuri	talker_in	1	5	2	false							
+91	0	91	talk		27_56	jimon	talker_reorder											
+92	0	92	talk		27_58	kanggalo	talker_in	1	3	3	true							
+93	0	93	talk		27_59	nuri	talker_in	1	6	2	false							
+94	0	94	talk		27_60	kanggalo	talker_reorder											

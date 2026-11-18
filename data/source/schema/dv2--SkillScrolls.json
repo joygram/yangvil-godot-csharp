@@ -1,0 +1,14 @@
+{
+  "table": "SkillScrolls",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/skill_scrolls.json",
+    "source_sha256": "5bdb393dce128694ba620882921a0ed64dc529ce8cc91a9d5543a014d52b7ffe",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

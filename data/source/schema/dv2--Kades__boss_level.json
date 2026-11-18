@@ -1,0 +1,20 @@
+{
+  "table": "Kades__boss_level",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/kades.json",
+    "source_sha256": "bc71781ac4d6ac5f6066602e59711668dda68bc67f038d312b05dbcd42e0aa79",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Kades",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

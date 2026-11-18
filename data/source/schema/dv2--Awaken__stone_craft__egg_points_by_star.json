@@ -1,0 +1,20 @@
+{
+  "table": "Awaken__stone_craft__egg_points_by_star",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/awaken.json",
+    "source_sha256": "565863f2be07b8229ce5e93f5fba97153afe5e508315c905842240d463145356",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Awaken__stone_craft",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

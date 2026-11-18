@@ -1,0 +1,20 @@
+{
+  "table": "Promote__mate",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/promote.json",
+    "source_sha256": "90b8cfef2da10e318bf928864017488e66a508c3c06a44bc01f0a60fdffb2439",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Promote",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

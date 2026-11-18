@@ -1,0 +1,2 @@
+_row	_parent_row	eye	mouth	arm_r	arm_l
+0	0	+0x150 setNpcEye	+0x15c setNpcMouse	+0x168	+0x174

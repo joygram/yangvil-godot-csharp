@@ -1,0 +1,14 @@
+{
+  "table": "Monsters",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/monsters.json",
+    "source_sha256": "3921d5750c69b5a57025013d99ed8c94205604613a0ca389f7193b2a95f8202a",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

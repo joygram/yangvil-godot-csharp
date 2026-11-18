@@ -1,0 +1,14 @@
+{
+  "table": "UiText",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/ui_text.json",
+    "source_sha256": "1b939ab73d3a4b50264ec262294a3fe37805d90556c93daece033160b1984c8f",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

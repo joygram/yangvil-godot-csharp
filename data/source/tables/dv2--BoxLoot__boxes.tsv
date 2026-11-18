@@ -1,0 +1,14 @@
+_row	_parent_row	_key	name	keys	tiers
+0	0	gudrabox_earth	#c75c0c60	[]	
+1	0	gudrabox_water	#eb753149	[]	
+2	0	gudrabox_wind	#31d8ac06	[]	
+3	0	gudrabox_fire	#340ef7e5	[]	
+4	0	gudrabox_light	#fed7fe62	[]	
+5	0	gudrabox_dark	#62951e06	[]	
+6	0	gudrabox_chaos	#30019412	[]	
+7	0	gudrabox_holy	#2616bbc7	[]	
+8	0	gudrabox_shadow	#6aa95138	[]	
+9	0	box	#aeb357fe	["key","key_all"]	
+10	0	box_dark	#a47b1282	["key_dark","key_all"]	
+11	0	magicbox	#fb8f9bf4	["key_copper","key_silver","key_gold"]	{"copper":{"pool":[{"item":"balrog_core","weight":10,"count":1},{"item":"equip:special:balrog:카이저 발록의 투구","weight":10,"count":1},{"item":"equip:special:balrog:카이저 발록의 팔찌","weight":10,"count":1},{"item":"equip:special:balrog:카이저 발록의 보주","weight":10,"count":1}]},"silver":{"pool":[{"item":"balrog_core","weight":10,"count":1},{"item":"equip:special:balrog:카이저 발록의 투구","weight":10,"count":1},{"item":"equip:special:balrog:카이저 발록의 팔찌","weight":10,"count":1},{"item":"equip:special:balrog:카이저 발록의 보주","weight":10,"count":1}]},"gold":{"pool":[{"item":"balrog_core","weight":10,"count":1},{"item":"equip:special:balrog:카이저 발록의 투구","weight":10,"count":1},{"item":"equip:special:balrog:카이저 발록의 팔찌","weight":10,"count":1},{"item":"equip:special:balrog:카이저 발록의 보주","weight":10,"count":1},{"item":"chaos_egg_1","weight":1,"count":1},{"item":"chaos_egg_2","weight":1,"count":1},{"item":"chaos_egg_3","weight":1,"count":1},{"item":"chaos_egg_4","weight":1,"count":1},{"item":"chaos_egg_5","weight":1,"count":1},{"item":"chaos_egg_6","weight":1,"count":1},{"item":"chaos_egg_7","weight":1,"count":1}]}}
+12	0	stone_pocket	#1278e87f	[]	

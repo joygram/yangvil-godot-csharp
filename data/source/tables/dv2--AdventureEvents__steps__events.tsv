@@ -1,0 +1,5 @@
+_row	_parent_row	_idx	type	weight	needs_hurt	min_enc	fortress_only
+0	0	0	heal_plain	14	true	1	
+1	0	1	heal_holy	6	true	1	
+2	0	2	shop	10			true
+3	0	3	cardgame	9			true

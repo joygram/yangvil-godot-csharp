@@ -1,0 +1,14 @@
+{
+  "table": "NpcTalk",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/npc_talk.json",
+    "source_sha256": "5ae81dca4efefb0ab66fca95dc366cdc91794d29345083134575341a06c650df",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

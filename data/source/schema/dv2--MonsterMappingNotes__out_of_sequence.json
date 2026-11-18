@@ -1,0 +1,20 @@
+{
+  "table": "MonsterMappingNotes__out_of_sequence",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/_monster_mapping_notes.json",
+    "source_sha256": "0d30ef9e9770dc9edc0b6667a568daa8f38490c6541310bb8ebba0bc2160d8fc",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "MonsterMappingNotes",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

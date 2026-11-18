@@ -1,0 +1,14 @@
+{
+  "table": "AdminStory",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/admin_story.json",
+    "source_sha256": "e79061972d38f4878864cea7c7101225dcd55b030f1c5cf07d2fe88118986abb",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

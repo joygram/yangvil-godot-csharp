@@ -1,0 +1,32 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	sfx	effect_egg										
+1	0	1	bgm	bg_1										
+2	0	2	talk		2_1	nuri	talker_in	1	6	2	true			
+3	0	3	talk		2_2	jimon	talker_in	1	5	1	true			
+4	0	4	talk		2_3	nuri	talker_in	1	5	2	false			
+5	0	5	talk		2_4	nuri	talker_in	2	2	2	false			
+6	0	6	talk		2_5	jimon	talker_in	1	1	1	false			
+7	0	7	talk		2_6	nuri	talker_reorder							
+8	0	8	talk		2_7	jimon	talker_in	1	5	1	false			
+9	0	9	talk		2_8	nuri	talker_reorder							
+10	0	10	sfx	effect_bomb										
+11	0	11	sfx	effect_egg										
+12	0	12	talk		2_9	nuri	talker_in	1	6	2	true			
+13	0	13	bgm	bg_auction										
+14	0	14	talk		2_10		talk							
+15	0	15	talk		2_11	nuri	talker_in	1	1	2	false			
+16	0	16	talk		2_12	jimon	talker_in	1	1	1	true			
+17	0	17	talk		2_13		talk							
+18	0	18	talk		2_14	nuri	talker_in	2	2	2	false			
+19	0	19	talk		2_15	jimon	talker_in	1	7	1	false			
+20	0	20	talk		2_16	nuri	talker_in	1	3	2	false			
+21	0	21	talk		2_17	jimon	talker_in	1	3	1	false			
+22	0	22	talk		2_18	nuri	talker_in	1	1	2	false			
+23	0	23	talk		2_19	nuri	talker_in	1	1	2	false			
+24	0	24	talk		2_20	nuri	talker_in	1	1	2	false			
+25	0	25	talk		2_21	jimon	talker_in	1	6	1	false			
+26	0	26	talker_out									1	2	false
+27	0	27	sfx	effect_walk										
+28	0	28	talk		2_22	nuri	talker_in	1	1	3	true			
+29	0	29	bgm	bg_auction										
+30	0	30	talk		2_23	nuri	talker_in	2	2	3	false			

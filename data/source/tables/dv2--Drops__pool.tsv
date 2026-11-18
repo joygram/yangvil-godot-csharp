@@ -1,0 +1,7 @@
+_row	_parent_row	_idx	key	min	max
+0	4	0	ele_holy	1	3
+1	4	1	ele_chaos	1	3
+2	4	2	ele_shadow	1	3
+3	4	3	food_holy_big_ginseng	1	2
+4	4	4	food_chaos_toud	1	2
+5	4	5	food_shadow_chocolate	1	2

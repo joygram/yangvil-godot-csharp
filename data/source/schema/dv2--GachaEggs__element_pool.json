@@ -1,0 +1,22 @@
+{
+  "table": "GachaEggs__element_pool",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/gacha_eggs.json",
+    "source_sha256": "e570948d7f082137b4ea2cc9c1e6ae1ae78f4da967744b43d43fd8bab9969bb7",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "GachaEggs",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "exclude"
+  ]
+}

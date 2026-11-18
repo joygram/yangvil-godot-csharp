@@ -1,0 +1,59 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1	_recovered
+0	0	0	bgm	bg_magicshop											
+1	0	1	talk		25_1	yulia	talker_in	1	6	3	true				
+2	0	2	talk		25_2	arnold	talker_in	1	2	2	true				
+3	0	3	talk		25_3	florence	talker_in	1	2	1	true				
+4	0	4	talk		25_4		talk								
+5	0	5	talk		25_5		talk								
+6	0	6	talk		25_6	yulia	talker_in	1	1	3	false				
+7	0	7	talk		25_7	yulia	talker_in	5	5	3	false				
+8	0	8	talk		25_8	yulia	talker_reorder								
+9	0	9	talk		25_9	yulia	talker_in	1	6	3	false				
+10	0	10	talk		25_10	arnold	talker_in	1	2	2	false				
+11	0	11	talk		25_11	florence	talker_in	1	2	1	false				
+12	0	12	talk		25_12	arnold	talker_in	1	2	2	false				
+13	0	13	talk		25_13	florence	talker_in	1	2	1	false				
+14	0	14	talk		25_14	arnold	talker_in	3	3	2	false				
+15	0	15	talk		25_15	florence	talker_in	1	3	1	false				
+16	0	16	talk		25_16	yulia	talker_in	5	5	3	false				
+17	0	17	talk		25_17		talk								
+18	0	18	talk		25_18	yulia	talker_in	1	6	3	false				
+19	0	19	talk		25_19	yulia	talker_reorder								
+20	0	20	talk		25_20	yulia	talker_in	5	5	3	false				
+21	0	21	talk		25_21	yulia	talker_reorder								
+22	0	22	talk		25_22	yulia	talker_reorder								
+23	0	23	talk		25_23	yulia	talker_reorder								
+24	0	24	talk		25_24		talk								
+25	0	25	talker_out									1	2	false	
+26	0	26	talker_out									2	2	false	
+27	0	27	talker_out									3	2	false	
+28	0	28	sfx	effect_dragon_damaged_1											
+29	0	29	bgm	bg_auction											
+30	0	30	talk		25_25	arnold	talker_in	1	5	2	true				
+31	0	31	talk		25_26	florence	talker_in	1	1	1	true				
+32	0	32	talk		25_27	arnold	talker_in	1	1	2	false				
+33	0	33	talk		25_28	florence	talker_in	1	2	1	false				
+34	0	34	talk		25_29	arnold	talker_in	1	3	2	false				
+35	0	35	talk		25_30										resource
+36	0	36	talk		25_31	florence	talker_in	1	3	1	false				
+37	0	37	talk		25_32	arnold	talker_in	1	3	2	false				
+38	0	38	talker_out									2	2	false	
+39	0	39	talker_out									1	2	false	
+40	0	40	talk		25_33		talk								
+41	0	41	talk		25_34		talk								
+42	0	42	talk		25_35		talk								
+43	0	43	bgm	bg_auction											
+44	0	44	sfx	effect_dragon_damaged_1											
+45	0	45	talker_out									1	2	false	
+46	0	46	talker_out									2	2	false	
+47	0	47	sfx	effect_door_open											
+48	0	48	bgm	bg_auction											
+49	0	49	talk		25_36		talk								
+50	0	50	talk		25_37	florence	talker_in	1	5	1	true				
+51	0	51	talk		25_38	arnold	talker_in	1	3	2	true				
+52	0	52	talk		25_39	arnold	talker_in	1	2	2	false				
+53	0	53	talk		25_40	florence	talker_in	1	3	1	false				
+54	0	54	talk		25_41	arnold	talker_in	1	3	2	false				
+55	0	55	talk		25_42		talk								
+56	0	56	talk		25_43		talk								
+57	0	57	talk		25_44		talk								

@@ -1,0 +1,4 @@
+_row	_parent_row	_key	monster_no	lv	hp	att	def	field_no	monster_anim	event_key	bg	bg_item	flag6
+0	0	26	8	99	90000	90000	90000	602	AdventureMonster1	AdventureEvent88	scene/adventure/bg/602/bg.jpg	scene/adventure/bg/602/item/bg_item.png	0
+1	0	27	181	99	90000	90000	90000	24	AdventureMonster1	AdventureEvent88	scene/adventure/bg/24/bg.jpg	scene/adventure/bg/24/item/bg_item.png	0
+2	0	29	75	50	1100	200	125	601	AdventureMonster1	AdventureEvent88	scene/adventure/bg/601/bg.jpg	scene/adventure/bg/601/item/bg_item.png	1

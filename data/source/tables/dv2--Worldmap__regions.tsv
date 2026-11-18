@@ -1,0 +1,5 @@
+_row	_parent_row	_idx	id	bgm	label_kr	thumb	label_frame	world	unlocked	town
+0	0	0	yutakan	bg_yutakan	#3cd4963a	scene_worldmap_map_world_map_yukatan	scene_worldmap_map_world_label_yukatan_kr	[250,150]	true	elpis
+1	0	1	elf	bg_elysium	#268d461a	scene_worldmap_map_world_map_elf	scene_worldmap_map_world_label_elf_kr	[250,420]	true	
+2	0	2	dwarf	bg_metal_tower	#10f7ce67	scene_worldmap_map_world_map_dwarf	scene_worldmap_map_world_label_dwarf_kr	[250,690]	true	dwarf
+3	0	3	uno	uno_worldmap_bgm	#cff53b94	scene_worldmap_map_world_map_uno	scene_worldmap_map_world_label_uno_kr	[250,900]	true	

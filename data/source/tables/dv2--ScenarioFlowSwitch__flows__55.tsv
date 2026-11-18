@@ -1,0 +1,99 @@
+_row	_parent_row	_idx	op	key	npc_name	via	body	state	pos	enter	track	talker	n	b1
+0	0	0	talk	55_6	florence	talker_in	1	5	2	true				
+1	0	1	bgm								bg_parcondo			
+2	0	2	talk	55_1		talk								
+3	0	3	talk	55_2		talk								
+4	0	4	talk	55_3	who	talker_in	3	1	1	true				
+5	0	5	talker_out									1	2	false
+6	0	6	talk	55_4		talk								
+7	0	7	talk	55_5		talk								
+8	0	8	talk	55_7	florence	talker_in	1	1	2	false				
+9	0	9	talk	55_8	florence	talker_in	1	4	2	false				
+10	0	10	talk	55_9		talk								
+11	0	11	talk	55_10	florence	talker_in	1	2	2	false				
+12	0	12	talk	55_11	aidra	talker_in	1	2	3	true				
+13	0	13	talk	55_12		talk								
+14	0	14	talk	55_13		talk								
+15	0	15	bgm								bg_battle_boss			
+16	0	16	talk	55_14	anjelro	talker_in	3	3	1	false				
+17	0	17	talk	55_15		talk								
+18	0	18	talk	55_16	anjelro	talker_in	3	3	1	false				
+19	0	19	talk	55_17		talk								
+20	0	20	talker_out									2	2	true
+21	0	21	talk	55_18	berutaon	talker_in	1	1	2	true				
+22	0	22	talk	55_19	berutaon	talker_in	1	5	2	false				
+23	0	23	talk	55_20	anjelro	talker_in	3	3	1	false				
+24	0	24	talk	55_21		talk								
+25	0	25	talk	55_22	berutaon	talker_in	1	1	2	false				
+26	0	26	talk	55_23	aidra	talker_in	1	3	3	false				
+27	0	27	talk	55_24		talk								
+28	0	28	talk	55_25	aidra	talker_in	5	5	3	false				
+29	0	29	talk	55_26	aidra	talker_in	5	3	3	false				
+30	0	30	talk	55_27	aidra	talker_in	1	4	3	false				
+31	0	31	talk	55_28	aidra	talker_in	1	1	3	false				
+32	0	32	talk	55_29		talk								
+33	0	33	talk	55_30		talk								
+34	0	34	talk	55_31	anjelro	talker_in	3	3	1	false				
+35	0	35	talk	55_32	anjelro	talker_in	1	1	1	false				
+36	0	36	talk	55_33	anjelro	talker_in	3	3	1	false				
+37	0	37	talk	55_34	aidra	talker_in	1	3	3	false				
+38	0	38	talk	55_35	anjelro	talker_in	1	1	1	false				
+39	0	39	talk	55_36	aidra	talker_in	1	5	3	false				
+40	0	40	talk	55_37	berutaon	talker_in	1	1	2	false				
+41	0	41	talk	55_38		talk								
+42	0	42	talk	55_39	aidra	talker_in	1	1	3	false				
+43	0	43	talker_out									3	2	false
+44	0	44	talker_out									2	2	false
+45	0	45	talk	55_40		talk								
+46	0	46	talk	55_41	anjelro	talker_in	1	1	1	false				
+47	0	47	talk	55_42	anjelro	talker_in	3	3	1	false				
+48	0	48	talker_out									1	2	false
+49	0	49	talk	55_43	florence	talker_in	1	4	3	true				
+50	0	50	talk	55_44		talk								
+51	0	51	talk	55_45		talk								
+52	0	52	talk	55_46		talk								
+53	0	53	bgm								bg_elysium			
+54	0	54	talk	55_47	florence	talker_in	1	6	3	true				
+55	0	55	talk	55_48	florence	talker_in	1	5	3	false				
+56	0	56	talk	55_49	florence	talker_in	1	3	3	false				
+57	0	57	talker_out									3	2	false
+58	0	58	bgm								bg_colosseum_battle_2			
+59	0	59	talk	55_50	florence	talker_in	1	6	2	true				
+60	0	60	talk	55_51		talk								
+61	0	61	bgm								bg_scenario_specter			
+62	0	62	talk	55_57		talk								
+63	0	63	talk	55_52	anjelro	talker_in	1	3	1	true				
+64	0	64	talk	55_53	florence	talker_in	1	3	2	false				
+65	0	65	talk	55_54	anjelro	talker_in	1	3	1	false				
+66	0	66	talk	55_55	anjelro	talker_in	1	1	1	false				
+67	0	67	talk	55_56		talk								
+68	0	68	bgm								bg_battle_boss			
+69	0	69	talker_out									1	2	false
+70	0	70	talker_out									2	2	false
+71	0	71	talk	55_58	florence	talker_in	1	6	2	true				
+72	0	72	talk	55_59	aidra	talker_in	1	3	3	true				
+73	0	73	talk	55_60	florence	talker_in	1	3	2	false				
+74	0	74	talk	55_61	blackrobe	talker_in	1	1	1	true				
+75	0	75	talk	55_62		talk								
+76	0	76	talk	55_63	aidra	talker_in	1	3	3	false				
+77	0	77	talk	55_64	blackrobe	talker_in	1	1	1	false				
+78	0	78	talk	55_65	aidra	talker_in	1	3	3	false				
+79	0	79	talk	55_66	blackrobe	talker_in	1	1	1	false				
+80	0	80	talk	55_67	florence	talker_in	1	3	2	false				
+81	0	81	talk	55_68		talk								
+82	0	82	talk	55_69	blackrobe	talker_in	1	1	1	false				
+83	0	83	talk	55_70	blackrobe	talker_in	1	1	1	false				
+84	0	84	talker_out									1	2	false
+85	0	85	talker_out									2	2	false
+86	0	86	talker_out									3	2	false
+87	0	87	bgm								bg_elysium			
+88	0	88	talk	55_71	aidra	talker_in	1	5	3	true				
+89	0	89	talk	55_72		talk								
+90	0	90	talk	55_73	anjelro	talker_in	1	3	1	true				
+91	0	91	talk	55_74	aidra	talker_in	1	5	3	false				
+92	0	92	talk	55_75	aidra	talker_in	1	5	3	false				
+93	0	93	talk	55_76	anjelro	talker_in	1	3	1	false				
+94	0	94	talk	55_77	aidra	talker_in	1	1	3	false				
+95	0	95	talk	55_78	anjelro	talker_in	1	1	1	false				
+96	0	96	talk	55_79	aidra	talker_in	1	1	3	false				
+97	0	97	talk	55_80		talk								

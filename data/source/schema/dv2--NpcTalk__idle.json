@@ -1,0 +1,33 @@
+{
+  "table": "NpcTalk__idle",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/npc_talk.json",
+    "source_sha256": "5ae81dca4efefb0ab66fca95dc366cdc91794d29345083134575341a06c650df",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "NpcTalk",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "annie",
+    "baruseu",
+    "dilis",
+    "jimon",
+    "kanggalo",
+    "nuri",
+    "pino",
+    "popo",
+    "randolph",
+    "raon",
+    "romini",
+    "yulia"
+  ]
+}

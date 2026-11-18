@@ -1,0 +1,38 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	pos	state	emoticon	enter	npc_name_guess	talker	n	b1	costar	costar_pos
+0	0	0	bgm	bg_town													
+1	0	1	talk		76_1		talk										
+2	0	2	talk		76_2		play	3	1	3	true	randolph					
+3	0	3	talk		76_3		play	3	1	8	false	randolph					
+4	0	4	talk		76_4		talk										
+5	0	5	talk		76_5		play	3	3	1	false	randolph					
+6	0	6	talk		76_6		play	3	1	3	false	randolph					
+7	0	7	talk		76_7		play	3	2		false	randolph					
+8	0	8	talker_out										3	2	false		
+9	0	9	bgm	bg_laboratory													
+10	0	10	sfx	effect_walk													
+11	0	11	talk		76_8		talk										
+12	0	12	talk		76_9		play	3	1	3	true						
+13	0	13	talk		76_10		play	2	1	4	true					true	3
+14	0	14	talk		76_11		play	3	2	5	false					true	2
+15	0	15	talker_out										3	2	false		
+16	0	16	talk		76_12		play	2	3	8	false						
+17	0	17	talk		76_13		play	1	3	1	false					true	2
+18	0	18	talk		76_14		play	2	1	4	false					true	1
+19	0	19	talker_out										2	2	false		
+20	0	20	talker_out										1	2	false		
+21	0	21	talk		76_15		play	3	3	1	true	randolph					
+22	0	22	talk		76_16		play	2	1	4	true	randolph				true	3
+23	0	23	talk		76_17		play	3	3	6	false	randolph				true	2
+24	0	24	talk		76_18		talk										
+25	0	25	talker_out										3	2	false		
+26	0	26	talker_out										2	2	false		
+27	0	27	bgm	bg_magicshop													
+28	0	28	talk		76_19		talk										
+29	0	29	talk		76_20		play	3	1		true						
+30	0	30	talk		76_21		play	2	1	5	true					true	3
+31	0	31	talk		76_22		play	1	2	3	true					true	2
+32	0	32	talk		76_23		play	3	1	1	false					true	1
+33	0	33	talk		76_24		play	2	1	4	false					true	3
+34	0	34	talk		76_25		play	1	1	8	false					true	2
+35	0	35	talk		76_26		play	3	2	5	false					true	1
+36	0	36	talk		76_27		play	3	2		false						

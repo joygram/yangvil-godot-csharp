@@ -1,0 +1,3 @@
+_row	_parent_row	_idx	kind	skill	skill_name	level_weights	weight	chance
+0	0	0	skill_scroll	11	#11e04bba	[7,2,1,1]	1	100.0
+1	0	1	skill_scroll	160	#9d317a17	[7,2,1,1]	1	100.0

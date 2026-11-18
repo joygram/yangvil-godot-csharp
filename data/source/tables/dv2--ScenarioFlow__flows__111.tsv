@@ -1,0 +1,31 @@
+_row	_parent_row	_idx	op	key	npc_name	body	state	_recovered
+0	0	0	talk	111_1				resource
+1	0	1	talk	111_2				resource
+2	0	2	talk	111_3				resource
+3	0	3	talk	111_4				resource
+4	0	4	talk	111_5				resource
+5	0	5	talker_in			1	7	
+6	0	6	talker_in			2	2	
+7	0	7	talker_in			2	2	
+8	0	8	talker_in			1	1	
+9	0	9	talker_in			1	1	
+10	0	10	talker_in			1	5	
+11	0	11	talker_in			2	2	
+12	0	12	talker_in			1	1	
+13	0	13	talker_in			1	1	
+14	0	14	talker_in			1	1	
+15	0	15	talker_in			1	1	
+16	0	16	talker_in			2	2	
+17	0	17	talker_in		nuri	1	1	
+18	0	18	talker_in			1	1	
+19	0	19	talker_in			1	6	
+20	0	20	talker_in			3	7	
+21	0	21	talker_out					
+22	0	22	talker_out					
+23	0	23	talker_in			1	6	
+24	0	24	talker_in			1	1	
+25	0	25	talker_in			1	6	
+26	0	26	talker_in			1	6	
+27	0	27	talker_in			1	5	
+28	0	28	talker_in			1	4	
+29	0	29	talker_in			1	1	

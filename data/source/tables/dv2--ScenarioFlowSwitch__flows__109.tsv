@@ -1,0 +1,60 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	talker	n	b1
+0	0	0	sfx	effect_walk						
+1	0	1	bgm	bg_16						
+2	0	2	talk		p0	hero	talk_auto			
+3	0	3	bgm	bg_16						
+4	0	4	sfx	effect_walk						
+5	0	5	bgm	bg_16						
+6	0	6	sfx	effect_dragon_incubation						
+7	0	7	sfx	effect_walk						
+8	0	8	bgm	bg_16						
+9	0	9	sfx	effect_walk						
+10	0	10	bgm	bg_16						
+11	0	11	sfx	effect_walk						
+12	0	12	bgm	bg_16						
+13	0	13	talker_out					1	2	false
+14	0	14	talker_out					2	2	false
+15	0	15	talk		p23	prologuemonster	talk			
+16	0	16	sfx	effect_walk						
+17	0	17	bgm	bg_16						
+18	0	18	sfx	effect_walk						
+19	0	19	bgm	bg_16						
+20	0	20	bgm	bg_16						
+21	0	21	sfx	effect_bomb						
+22	0	22	sfx	effect_egg						
+23	0	23	sfx	effect_walk						
+24	0	24	bgm	bg_16						
+25	0	25	sfx	effect_walk						
+26	0	26	bgm	bg_16						
+27	0	27	sfx	effect_bomb						
+28	0	28	sfx	effect_egg						
+29	0	29	sfx	effect_walk						
+30	0	30	bgm	bg_16						
+31	0	31	sfx	effect_walk						
+32	0	32	bgm	bg_16						
+33	0	33	sfx	effect_walk						
+34	0	34	bgm	bg_16						
+35	0	35	sfx	effect_walk						
+36	0	36	bgm	bg_16						
+37	0	37	sfx	effect_walk						
+38	0	38	bgm	bg_16						
+39	0	39	sfx	effect_walk						
+40	0	40	bgm	bg_16						
+41	0	41	sfx	effect_walk						
+42	0	42	bgm	bg_16						
+43	0	43	sfx	effect_walk						
+44	0	44	bgm	bg_16						
+45	0	45	sfx	effect_walk						
+46	0	46	bgm	bg_16						
+47	0	47	sfx	effect_walk						
+48	0	48	bgm	bg_16						
+49	0	49	sfx	effect_walk						
+50	0	50	bgm	bg_16						
+51	0	51	sfx	effect_walk						
+52	0	52	bgm	bg_16						
+53	0	53	sfx	effect_walk						
+54	0	54	bgm	bg_16						
+55	0	55	sfx	effect_walk						
+56	0	56	bgm	bg_16						
+57	0	57	sfx	effect_walk						
+58	0	58	bgm	bg_16						

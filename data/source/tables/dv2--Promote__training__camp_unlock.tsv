@@ -1,0 +1,4 @@
+_row	_parent_row	_idx	cond	label	mode	value
+0	0	0	none			
+1	0	1	colosseum_rating	#45bf244a	single	2000
+2	0	2	colosseum_rating	#2954e870	team	2000

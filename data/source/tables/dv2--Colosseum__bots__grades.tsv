@@ -1,0 +1,4 @@
+_row	_parent_row	_key	label	level	awakened	gem	skill	equip
+0	0	novice	#3f25ba4f	50	false	{"categories":["normal","hybrid","soul"],"tier":"random"}	{"count":2,"level_min":1,"level_max":5}	{"slots":4,"grade_min":0,"grade_max":5,"random_catalog":true}
+1	0	adept	#77d05a0d	50	true	{"categories":["hybrid","soul"],"tier":-1}	{"count":2,"level_min":4,"level_max":5}	{"slots":4,"grade_min":3,"grade_max":4,"random_catalog":true}
+2	0	ranker	#f4906da4	50	true	{"categories":["hybrid","soul"],"tier":-1}	{"count":2,"level_min":5,"level_max":5}	{"slots":4,"grade_min":4,"grade_max":5,"random_catalog":true}

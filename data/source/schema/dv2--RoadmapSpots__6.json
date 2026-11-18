@@ -1,0 +1,20 @@
+{
+  "table": "RoadmapSpots__6",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/roadmap_spots.json",
+    "source_sha256": "93b6c2b297c3fca8d4a3beb4b9bb9486ad47d4109f330b076de2d606fa547ae9",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "RoadmapSpots",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

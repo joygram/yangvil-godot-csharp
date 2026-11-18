@@ -1,0 +1,48 @@
+_row	_parent_row	_idx	op	key	npc_name	via	pos	state	enter	track	emoticon	talker	n	b1	costar	costar_pos	illust	kind
+0	0	0	talk	74_10		play	3	1	false									
+1	0	1	talk	74_1		talk												
+2	0	2	talk	74_2		talk												
+3	0	3	talk	74_3		talk												
+4	0	4	bgm							bg_auction								
+5	0	5	talk	74_4		talk												
+6	0	6	sfx							effect_walk								
+7	0	7	talk	74_5		play	3	1	true		5							
+8	0	8	talk	74_6		talk												
+9	0	9	talk	74_7		play	3	1	false		4							
+10	0	10	talk	74_8		play	3	1	false		5							
+11	0	11	talk	74_9		talk												
+12	0	12	talk	74_11		play	3	1	false									
+13	0	13	talk	74_12		talk												
+14	0	14	talker_out									3	2	false				
+15	0	15	talk	74_13		talk												
+16	0	16	bgm							bg_town								
+17	0	17	talk	74_14		talk												
+18	0	18	sfx							effect_walk								
+19	0	19	talk	74_15		play	2	1	true		5							
+20	0	20	talk	74_16		play	2	1	false									
+21	0	21	talk	74_17		play	2	1	false		1							
+22	0	22	talk	74_18		talk												
+23	0	23	talk	74_19		play	1	1	true						true	2		
+24	0	24	talk	74_20		play	3	1	true		6				true	1		
+25	0	25	talker_out									1	2	false				
+26	0	26	talker_out									2	2	false				
+27	0	27	talker_out									3	2	false				
+28	0	28	illust														74	1
+29	0	29	talk	74_21		talk												
+30	0	30	talk	74_22		talk												
+31	0	31	talk	74_23		talk												
+32	0	32	talk	74_24		play	2	1	true		4							
+33	0	33	talk	74_25		play	2	1	false		3							
+34	0	34	talk	74_26		talk												
+35	0	35	talk	74_27		play	1	1	true						true	2		
+36	0	36	talk	74_28		play	1	1	false		6							
+37	0	37	talk	74_29		talk												
+38	0	38	talk	74_30		play	2	1	false						true	1		
+39	0	39	talk	74_31		play	2	1	false		1							
+40	0	40	talk	74_32		play	1	2	false						true	2		
+41	0	41	talk	74_33		play	2	3	false						true	1		
+42	0	42	talk	74_34		play	3	1	false		6				true	2		
+43	0	43	talk	74_35		talk												
+44	0	44	talk	74_36		talk												
+45	0	45	talker_out									2	2	false				
+46	0	46	talker_out									1	2	false				

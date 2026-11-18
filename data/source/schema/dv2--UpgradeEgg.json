@@ -1,0 +1,14 @@
+{
+  "table": "UpgradeEgg",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/upgrade_egg.json",
+    "source_sha256": "7dc28d38104d4460a742f0537523b196fb547e0dc2225d5fceab59ecc5b9db0a",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

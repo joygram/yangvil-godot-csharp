@@ -1,0 +1,10 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter
+0	0	0	bgm	bg_1							
+1	0	1	talk		1_1	nuri	talker_in	2	2	2	true
+2	0	2	talk		1_2	jimon	talker_in	1	5	1	true
+3	0	3	talk		1_3	nuri	talker_in	1	4	2	false
+4	0	4	talk		1_4	jimon	talker_reorder				
+5	0	5	talk		1_5	nuri	talker_in	1	5	2	false
+6	0	6	talk		1_6	jimon	talker_in	1	6	1	false
+7	0	7	talk		1_7	nuri	talker_reorder				
+8	0	8	talk		1_8	jimon	talker_in	1	5	1	false

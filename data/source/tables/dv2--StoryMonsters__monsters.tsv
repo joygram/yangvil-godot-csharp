@@ -1,0 +1,5 @@
+_row	_parent_row	_idx	id	id_confirmed	name	episodes	stage	hp_max	att	def	level	pure
+0	0	0	73	true	#456f7aa4	[27]	10	2170	185	185	50	
+1	0	1	74	true	#516dc282	[28]	11	2170	185	185	50	
+2	0	2	75	true	#6847838a	[32,33,92]	14	1200	160	80	50	1000
+3	0	3	67	false	#cda22f32	[46]						

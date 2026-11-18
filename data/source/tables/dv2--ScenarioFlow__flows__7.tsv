@@ -1,0 +1,28 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter
+0	0	0	bgm	bg_shop							
+1	0	1	talk		7_1	nuri	talker_in	1	6	2	true
+2	0	2	talk		7_2	jimon	talker_in	1	5	1	true
+3	0	3	bgm	bg_scenario_comic							
+4	0	4	talk		7_3	randolph	talker_in	1	3	3	true
+5	0	5	talk		7_4		talk				
+6	0	6	talk		7_5	randolph	talker_in	1	2	3	false
+7	0	7	talk		7_6	randolph	talker_in	1	1	3	false
+8	0	8	talk		7_7	randolph	talker_in	1	2	3	false
+9	0	9	talk		7_8	nuri	talker_in	1	3	2	false
+10	0	10	talk		7_9	jimon	talker_in	1	7	1	false
+11	0	11	talk		7_10	randolph	talker_in	1	3	3	false
+12	0	12	talk		7_11	nuri	talker_in	2	2	2	false
+13	0	13	talk		7_12	jimon	talker_in	2	2	1	false
+14	0	14	talk		7_13	randolph	talker_in	1	3	3	false
+15	0	15	talk		7_14	randolph	talker_in	1	2	3	false
+16	0	16	talk		7_15	randolph	talker_reorder				
+17	0	17	talk		7_16	randolph	talker_reorder				
+18	0	18	sfx	effect_tab							
+19	0	19	talk		7_17		talk				
+20	0	20	talk		7_18	randolph	talker_reorder				
+21	0	21	talk		7_19	nuri	talker_in	1	7	2	false
+22	0	22	talk		7_20	jimon	talker_in	1	7	1	false
+23	0	23	talk		7_21	randolph	talker_reorder				
+24	0	24	talk		7_22	nuri	talker_in	2	2	2	false
+25	0	25	talk		7_23	jimon	talker_in	1	1	1	false
+26	0	26	talk		7_24		talk				

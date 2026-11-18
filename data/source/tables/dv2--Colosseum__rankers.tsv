@@ -1,0 +1,12 @@
+_row	_parent_row	_idx	nick	tier	rating
+0	0	0	#62c1903d	master	6917
+1	0	1	#1c1c5995	master	6834
+2	0	2	#01613d26	master	6751
+3	0	3	claude	master	6668
+4	0	4	gemini	master	6585
+5	0	5	ChatGPT	master	6502
+6	0	6	cosmos3	master	6419
+7	0	7	Haiku	master	6336
+8	0	8	Sonnet	master	6253
+9	0	9	Opus	master	6170
+10	0	10	Fable	master	6087

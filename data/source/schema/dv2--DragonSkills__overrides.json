@@ -1,0 +1,20 @@
+{
+  "table": "DragonSkills__overrides",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/dragon_skills.json",
+    "source_sha256": "9c3fb5e89aa40a0364258e831d5aa34a2a4b72dbbbd067b356ada825fa6cc271",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "DragonSkills",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

@@ -1,0 +1,19 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	bgm	bg_magicshop										
+1	0	1	talk		9_1	yulia	talker_in	1	1	3	true			
+2	0	2	talk		9_2	yulia	talker_in	5	5	3	false			
+3	0	3	talk		9_3	yulia	talker_in	1	1	3	false			
+4	0	4	talk		9_4	yulia	talker_in	1	2	3	false			
+5	0	5	talk		9_5		talk							
+6	0	6	talk		9_6	yulia	talker_in	5	5	3	false			
+7	0	7	talk		9_7	yulia	talker_reorder							
+8	0	8	talk		9_8	yulia	talker_in	1	2	3	false			
+9	0	9	talker_out									3	1	false
+10	0	10	talk		9_9		talk							
+11	0	11	talk		9_10	yulia	talker_in	5	5	3	true			
+12	0	12	sfx	effect_tab										
+13	0	13	talk		9_11	yulia	talker_in	1	2	3	false			
+14	0	14	talk		9_12		talk							
+15	0	15	talk		9_13	yulia	talker_in	1	4	3	false			
+16	0	16	talk		9_14	yulia	talker_in	5	5	3	false			
+17	0	17	talk		9_15		talk							

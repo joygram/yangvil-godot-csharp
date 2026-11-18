@@ -1,0 +1,20 @@
+{
+  "table": "TutorialFlow__talk_offset",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/tutorial_flow.json",
+    "source_sha256": "2342969f371c33b0e54a1d468733dbacd78bf63ded1d1a76c3f01f9c2fd3c352",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "TutorialFlow",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

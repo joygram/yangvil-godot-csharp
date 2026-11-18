@@ -1,0 +1,51 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	_recovered	talker	n	b1	illust	kind
+0	0	0	bgm	bg_scenario_peace													
+1	0	1	talk		12_1	nuri	talker_in	1	1	2	true						
+2	0	2	talk		12_2							literal					
+3	0	3	talker_out										2	1	false		
+4	0	4	illust													12	1
+5	0	5	talk		12_18	baruseu	talker_in	1	1	3	true						
+6	0	6	talk		12_3	nuri	talker_in	2	2	2	true						
+7	0	7	talk		12_4							literal					
+8	0	8	illust													12	2
+9	0	9	talk		12_14	nuri	talker_in	1	5	2	true						
+10	0	10	talk		12_5	jimon	talker_in	1	4	1	false						
+11	0	11	talk		12_6	nuri	talker_in	1	4	2	true						
+12	0	12	talk		12_7	nuri	talker_in	1	5	2	false						
+13	0	13	talk		12_8	jimon	talker_in	1	1	1	false						
+14	0	14	talk		12_9	jimon	talker_in	2	2	1	false						
+15	0	15	talk		12_10	nuri	talker_in	2	2	2	false						
+16	0	16	talk		12_11	jimon	talker_in	1	5	1	false						
+17	0	17	talk		12_12	nuri	talker_in	1	5	2	false						
+18	0	18	talk		12_13		talk										
+19	0	19	bgm	bg_auction													
+20	0	20	talk		12_15	jimon	talker_in	1	1	1	true						
+21	0	21	talk		12_16	nuri	talker_in	1	1	2	false						
+22	0	22	talk		12_17	jimon	talker_in	1	5	1	false						
+23	0	23	talk		12_19	nuri	talker_in	1	6	2	false						
+24	0	24	talk		12_20	baruseu	talker_in	1	1	3	false						
+25	0	25	talk		12_21	baruseu	talker_in	1	1	3	false						
+26	0	26	talk		12_22	nuri	talker_in	1	7	2	false						
+27	0	27	talk		12_23	baruseu	talker_in	1	1	3	false						
+28	0	28	talk		12_24		talk										
+29	0	29	talk		12_25	baruseu	talker_in	1	3	3	false						
+30	0	30	talk		12_26	jimon	talker_in	1	3	1	false						
+31	0	31	talk		12_27		talk										
+32	0	32	talk		12_28	baruseu	talker_in	1	1	3	false						
+33	0	33	talk		12_29	baruseu	talker_in	1	1	3	false						
+34	0	34	talk		12_30	nuri	talker_in	1	1	2	false						
+35	0	35	talk		12_31	baruseu	talker_in	1	1	3	false						
+36	0	36	talk		12_32	jimon	talker_in	1	7	1	false						
+37	0	37	talk		12_33	baruseu	talker_in	1	3	3	false						
+38	0	38	talk		12_34	baruseu	talker_in	1	1	3	false						
+39	0	39	talk		12_35		talk										
+40	0	40	talk		12_36	baruseu	talker_in	1	1	3	true						
+41	0	41	bgm	bg_auction													
+42	0	42	talk		12_37	nuri	talker_in	1	1	2	true						
+43	0	43	talk		12_38	baruseu	talker_in	1	1	3	false						
+44	0	44	talk		12_39	nuri	talker_in	1	7	2	false						
+45	0	45	talk		12_40	jimon	talker_in	1	7	1	true						
+46	0	46	talk		12_41	baruseu	talker_in	1	1	3	false						
+47	0	47	talk		12_42	baruseu	talker_in	1	1	3	false						
+48	0	48	talker_out										3	2	false		
+49	0	49	talk		12_43		talk										

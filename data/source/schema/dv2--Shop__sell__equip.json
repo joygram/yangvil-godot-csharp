@@ -1,0 +1,23 @@
+{
+  "table": "Shop__sell__equip",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/shop.json",
+    "source_sha256": "f84cd7df3617a76279fcaaa794022e138a253abdc0bdc9c97823a7b423a98af5",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Shop__sell",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "group_cost",
+    "rarity_mult"
+  ]
+}

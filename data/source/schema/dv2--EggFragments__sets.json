@@ -1,0 +1,20 @@
+{
+  "table": "EggFragments__sets",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/egg_fragments.json",
+    "source_sha256": "b6645092abed89a55c9694da54e9917b757d3e8b6cb828b02f45148e33536ecc",
+    "source_row_count": 7
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "EggFragments",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

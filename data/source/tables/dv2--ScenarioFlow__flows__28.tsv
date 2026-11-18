@@ -1,0 +1,53 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1	battle	illust	kind
+0	0	0	sfx	effect_monster_in													
+1	0	1	bgm	bg_colosseum_battle_2													
+2	0	2	talk		28_1		talk										
+3	0	3	talk		28_2	arnold	talker_in	1	6	2	true						
+4	0	4	talk		28_3	florence	talker_in	1	6	1	true						
+5	0	5	talk		28_4		talk										
+6	0	6	talker_out									2	2	false			
+7	0	7	talk		28_5	nuri	talker_in	1	6	2	true						
+8	0	8	talker_out									1	2	false			
+9	0	9	talk		28_6	jimon	talker_in	1	7	1	true						
+10	0	10	talker_out									2	2	false			
+11	0	11	talk		28_7	florence	talker_in	1	3	2	true						
+12	0	12	talk		28_8	florence	talker_in	1	6	2	false						
+13	0	13	talker_out									1	2	false			
+14	0	14	talk		28_9	arnold	talker_in	3	3	1	true						
+15	0	15	talk		28_10	florence	talker_in	4	4	2	false						
+16	0	16	talker_out									1	2	false			
+17	0	17	talk		28_11	nuri	talker_in	1	6	1	true						
+18	0	18	talker_out									1	2	false			
+19	0	19	talker_out									2	2	false			
+20	0	20	talk		28_12		talk										
+21	0	21	talk		28_13	jimon	talker_in	1	7	2	true						
+22	0	22	battle												12		
+23	0	23	talker_out									2	1	false			
+24	0	24	sfx	effect_monster_in													
+25	0	25	bgm	bg_scenario_sorrow													
+26	0	26	talk		28_14	arnold	talker_in	1	7	2	true						
+27	0	27	talk		28_15	nuri	talker_in	1	5	1	true						
+28	0	28	talker_out									2	2	false			
+29	0	29	talk		28_16	jimon	talker_in	1	5	2	true						
+30	0	30	talker_out									1	2	false			
+31	0	31	talk		28_17	arnold	talker_in	1	6	1	true						
+32	0	32	talk		28_18	jimon	talker_reorder										
+33	0	33	talker_out									1	2	false			
+34	0	34	talk		28_19	florence	talker_in	1	6	1	true						
+35	0	35	talk		28_20	florence	talker_in	4	4	1	false						
+36	0	36	talk		28_21		talk										
+37	0	37	talk		28_22		talk										
+38	0	38	talker_out									1	2	false			
+39	0	39	talker_out									2	2	false			
+40	0	40	illust													28	1
+41	0	41	talk		28_23		talk										
+42	0	42	talk		28_24	florence	talker_in	4	4	2	true						
+43	0	43	talk		28_25	arnold	talker_in	1	5	1	true						
+44	0	44	talker_out									2	2	false			
+45	0	45	talk		28_26	nuri	talker_in	1	5	2	true						
+46	0	46	talk		28_27	jimon	talker_in	1	6	3	true						
+47	0	47	talker_out									2	2	false			
+48	0	48	talk		28_28	kanggalo	talker_in	1	3	2	true						
+49	0	49	talker_out									1	2	false			
+50	0	50	talk		28_29	florence	talker_in	1	3	1	true						
+51	0	51	talk		28_30		talk										

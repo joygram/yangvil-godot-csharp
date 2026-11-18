@@ -1,0 +1,6 @@
+_row	_parent_row	_key	drink	by_size	by_tier	flat
+0	0	by_item	500			
+1	0	feed		{"소":250,"대":500}		
+2	0	drink			[300,600,1200]	
+3	0	heal			[100,2500,5000]	
+4	0	revive				5000

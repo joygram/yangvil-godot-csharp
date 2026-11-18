@@ -1,0 +1,120 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	battle	talker	n	b1	illust	kind	frame	npc_name_guess
+0	0	0	bgm	bg_9															
+1	0	1	talk		24_1		talk												
+2	0	2	talk		24_2		talk												
+3	0	3	talk		24_3		talk												
+4	0	4	talk		24_4		talk												
+5	0	5	talk		24_5		talk												
+6	0	6	talk		24_6		talk												
+7	0	7	talk		24_7	who	talker_in	1	3	2	true								
+8	0	8	talk		24_8	who	talker_reorder												
+9	0	9	talk		24_9	who	talker_in	3	3	1	true								
+10	0	10	talk		24_10	who	talker_reorder												
+11	0	11	talk		24_11	who	talker_reorder												
+12	0	12	talk		24_12		talk												
+13	0	13	talk		24_13	who	talker_in	1	6	2	false								
+14	0	14	talk		24_14	who	talker_in	1	6	1	false								
+15	0	15	talk		24_15		talk												
+16	0	16	battle									9							
+17	0	17	talker_out										1	1	false				
+18	0	18	talker_out										2	1	false				
+19	0	19	talk		24_17		talk												
+20	0	20	bgm	bg_colosseum_battle_2															
+21	0	21	talk		24_15_1	prologuemonster	talk												
+22	0	22	battle									10							
+23	0	23	bgm	bg_auction															
+24	0	24	bgm	bg_colosseum_battle_2															
+25	0	25	bgm	bg_colosseum_battle_2															
+26	0	26	talk		24_16		talk												
+27	0	27	bgm	bg_auction															
+28	0	28	talk		24_18		talk												
+29	0	29	talk		24_19		talk												
+30	0	30	talk		24_20		talk												
+31	0	31	talk		24_21	arnold	talker_in	1	6	1	false								
+32	0	32	talk		24_22	arnold	talker_in	1	2	1	false								
+33	0	33	talk		24_23	arnold	talker_reorder												
+34	0	34	talk		24_24	arnold	talker_reorder												
+35	0	35	talk		24_25	arnold	talker_reorder												
+36	0	36	talk		24_26	arnold	talker_in	3	3	1	false								
+37	0	37	talk		24_28		talk												
+38	0	38	talk		24_29	florence	talker_in	1	2	2	false								
+39	0	39	talk		24_30	florence	talker_reorder												
+40	0	40	talk		24_31	florence	talker_reorder												
+41	0	41	talk		24_32	florence	talker_in	1	3	2	false								
+42	0	42	talker_out										1	1	false				
+43	0	43	talker_out										2	1	false				
+44	0	44	illust													24	1		
+45	0	45	talk		24_34		talk												
+46	0	46	talk		24_33		talk												
+47	0	47	talk		24_35	arnold	talker_in	1	5	1	false								
+48	0	48	talker_out										1	1	false				
+49	0	49	talker_out										2	1	false				
+50	0	50	illust													24	2		
+51	0	51	cut															scenario_main_story_sn_24_1	
+52	0	52	cut															scenario_main_story_sn_24_2	
+53	0	53	cut															scenario_main_story_sn_24_3	
+54	0	54	cut															scenario_main_story_sn_24_4	
+55	0	55	cut															scenario_main_story_sn_24_5	
+56	0	56	cut															scenario_main_story_sn_24_6	
+57	0	57	cut															scenario_main_story_sn_24_7	
+58	0	58	talk		24_36	arnold	talker_in	1	6	2	true								
+59	0	59	talk		24_37	arnold	talker_reorder												
+60	0	60	talk		24_38	arnold	talker_in	1	5	2	false								
+61	0	61	talk		24_39		talk												
+62	0	62	talk		24_40	arnold	talker_in	1	6	2	false								
+63	0	63	talk		24_41	arnold	talker_in	1	5	2	false								
+64	0	64	talk		24_42	arnold	talker_in	1	2	2	false								
+65	0	65	talk		24_43	arnold	talker_reorder												
+66	0	66	talker_out										2	1	false				
+67	0	67	bgm	bg_colosseum_battle_2															
+68	0	68	cut															scenario_main_story_sn_24_1_add_sn_24_elf_dwarf	
+69	0	69	cut															scenario_main_story_sn_24_1_add_sn_24_pirate	
+70	0	70	talk		24_44	arnold	talker_in	1	5	2	true								
+71	0	71	talk		24_45	arnold	talker_in	3	3	2	false								
+72	0	72	talk		24_46	arnold	talker_reorder												
+73	0	73	talk		24_47	arnold	talker_in	1	4	2	false								
+74	0	74	talk		24_48	arnold	talker_reorder												
+75	0	75	talk		24_49	arnold	talker_in	3	3	2	false								
+76	0	76	talk		24_50		talker_in	1	3	1	true								florence
+77	0	77	talk		24_51	florence	talker_reorder												
+78	0	78	talk		24_52	florence	talker_in	1	3	1	false								
+79	0	79	talk		24_53	florence	talker_in	4	4	1	false								
+80	0	80	sfx	effect_dragon_damaged_1															
+81	0	81	talker_out										1	2	false				
+82	0	82	talker_out										2	2	false				
+83	0	83	bgm	bg_auction															
+84	0	84	sfx	effect_door_open															
+85	0	85	talk		24_54	florence	talker_in	1	5	1	false								
+86	0	86	talk		24_55		talk												
+87	0	87	talk		24_56		talk												
+88	0	88	talk		24_57		talk												
+89	0	89	talk		24_58	arnold	talker_in	1	5	2	false								
+90	0	90	talk		24_59	arnold	talker_reorder												
+91	0	91	talk		24_60	arnold	talker_reorder												
+92	0	92	talk		24_61	arnold	talker_in	1	4	2	false								
+93	0	93	talk		24_62	arnold	talker_in	1	5	2	false								
+94	0	94	talk		24_63	arnold	talker_reorder												
+95	0	95	talk		24_64	arnold	talker_in	3	3	2	false								
+96	0	96	talk		24_65		talk												
+97	0	97	talk		24_66	florence	talker_in	1	1	1	false								
+98	0	98	talk		24_67	florence	talker_in	1	5	1	false								
+99	0	99	talk		24_68		talk												
+100	0	100	talk		24_69	florence	talker_reorder												
+101	0	101	talk		24_70		talk												
+102	0	102	talk		24_71	arnold	talker_in	3	3	2	false								
+103	0	103	talk		24_72	arnold	talker_reorder												
+104	0	104	talk		24_73	arnold	talker_in	1	6	2	false								
+105	0	105	talk		24_74	florence	talker_in	1	7	1	false								
+106	0	106	talk		24_75	arnold	talker_in	3	3	2	false								
+107	0	107	talk		24_76		talk												
+108	0	108	talk		24_77		talk												
+109	0	109	talk		24_78		talk												
+110	0	110	talk		24_79		talk												
+111	0	111	talk		24_80	arnold	talker_in	1	5	2	false								
+112	0	112	talk		24_81	florence	talker_in	1	5	1	false								
+113	0	113	talk		24_82	arnold	talker_in	1	2	2	false								
+114	0	114	talk		24_83	florence	talker_in	1	2	1	false								
+115	0	115	talk		24_84	arnold	talker_in	3	3	2	false								
+116	0	116	talk		24_85	florence	talker_in	1	3	1	false								
+117	0	117	talk		24_86		talk												
+118	0	118	talk		24_87		talk												

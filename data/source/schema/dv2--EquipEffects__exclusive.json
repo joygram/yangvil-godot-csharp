@@ -1,0 +1,26 @@
+{
+  "table": "EquipEffects__exclusive",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/equip_effects.json",
+    "source_sha256": "b8c19ad0559465feb71960998a27c8d965a4a4f3d8d06c1f4650f5a9cd372e89",
+    "source_row_count": 97
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "EquipEffects",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "awaken_mod",
+    "cond",
+    "dyn",
+    "ops",
+    "react"
+  ]
+}

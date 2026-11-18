@@ -1,0 +1,5 @@
+_row	_parent_row	_idx	item	price	cur
+0	0	0	alchemy_glory	8000	gold
+1	0	1	alchemy_legend	25	diamond
+2	0	2	alchemy_platinum_01	15	diamond
+3	0	3	alchemy_platinum_02	30	diamond

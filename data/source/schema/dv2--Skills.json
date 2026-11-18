@@ -1,0 +1,14 @@
+{
+  "table": "Skills",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/skills.json",
+    "source_sha256": "ba385e44ef517b0509d88e25db4ee0ad4b3f18e0fa0221e7b9eb602d3bbd4c57",
+    "source_row_count": 39
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

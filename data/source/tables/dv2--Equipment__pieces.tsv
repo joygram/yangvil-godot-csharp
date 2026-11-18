@@ -1,0 +1,2 @@
+_row	_parent_row	slots	option_stats	grades	implemented
+0	0	3	["hp","hp_pct","hp_cap","att","att_pct","att_cap","def","def_pct","def_cap","evd","cri_pow","blk","cri"]	["#aef1a1e7","#c01e9ae7","#4cd2c49d","#c824e35d"]	true

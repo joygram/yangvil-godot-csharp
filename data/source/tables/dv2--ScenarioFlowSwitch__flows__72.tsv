@@ -1,0 +1,33 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	pos	state	emoticon	enter	talker	n	b1
+0	0	0	bgm	bg_auction										
+1	0	1	talk		72_1		talk							
+2	0	2	talk		72_2		talk							
+3	0	3	talk		72_3		talk							
+4	0	4	talk		72_4		play	3	1	5	true			
+5	0	5	talk		72_5		play	3	2		false			
+6	0	6	talk		72_6		play	3	2		false			
+7	0	7	talk		72_7		talk							
+8	0	8	talk		72_8		play	3	1	4	false			
+9	0	9	talk		72_9		talk							
+10	0	10	talk		72_10		play	3	1		false			
+11	0	11	talk		72_11		play	3	2	4	false			
+12	0	12	talk		72_12		talk							
+13	0	13	talker_out									3	2	false
+14	0	14	sfx	effect_monster_in										
+15	0	15	bgm	bg_auction										
+16	0	16	talk		72_13		talk							
+17	0	17	talk		72_14		talk							
+18	0	18	talk		72_15		talk							
+19	0	19	talk		72_16		play	3	1		true			
+20	0	20	talk		72_17		talk							
+21	0	21	talk		72_18		play	3	2		false			
+22	0	22	talk		72_19		talk							
+23	0	23	talk		72_20		play	3	2	4	false			
+24	0	24	talk		72_21		talk							
+25	0	25	talk		72_22		play	3	1	8	true			
+26	0	26	talk		72_23		talk							
+27	0	27	talk		72_24		play	3	2		false			
+28	0	28	talk		72_25		talk							
+29	0	29	talk		72_26		play	3	1	6	false			
+30	0	30	talk		72_27		play	3	2		false			
+31	0	31	talk		72_28		talk							

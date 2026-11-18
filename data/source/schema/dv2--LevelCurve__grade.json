@@ -1,0 +1,20 @@
+{
+  "table": "LevelCurve__grade",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/level_curve.json",
+    "source_sha256": "24f18114ec7c8a5bca9f13a3ed63501cf99f8e61c946d982972af1ef805ff5cb",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "LevelCurve",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

@@ -1,0 +1,14 @@
+{
+  "table": "Items",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/items.json",
+    "source_sha256": "f30d09dde7ffa7ed6ebaab3e36433296d8c819c4d4836d242fb00ca64e4e3e09",
+    "source_row_count": 258
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

@@ -1,0 +1,26 @@
+_row	_parent_row	_idx	op	npc_name	body	state
+0	0	0	talker_in	p2	1	7
+1	0	1	talker_in	p3	2	2
+2	0	2	talker_in	p4	2	2
+3	0	3	talker_in	p5	1	1
+4	0	4	talker_in	p6	1	1
+5	0	5	talker_in	p7	1	5
+6	0	6	talker_in	p9	2	2
+7	0	7	talker_in	p10	1	1
+8	0	8	talker_in	p12	1	1
+9	0	9	talker_in	p14	1	1
+10	0	10	talker_in	p15	1	1
+11	0	11	talker_in	p17	2	2
+12	0	12	talker_in	NPC_nuri	1	1
+13	0	13	talker_in	p19	1	1
+14	0	14	talker_in	p20	1	6
+15	0	15	talker_in	p21	3	7
+16	0	16	talker_out			
+17	0	17	talker_out			
+18	0	18	talker_in	p26	1	6
+19	0	19	talker_in	p27	1	1
+20	0	20	talker_in	p29	1	6
+21	0	21	talker_in	p30	1	6
+22	0	22	talker_in	p31	1	5
+23	0	23	talker_in	p32	1	4
+24	0	24	talker_in	p33	1	1

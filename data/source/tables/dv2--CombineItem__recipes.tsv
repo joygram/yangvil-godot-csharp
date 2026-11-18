@@ -1,0 +1,7 @@
+_row	_parent_row	_idx	target	item1	item1_cnt	item2	item2_cnt	cost	cost_type
+0	0	0	stone_spirit2	stone_spirit1	12		0	5000	gold
+1	0	1	stone_spirit3	stone_spirit2	6		0	20000	gold
+2	0	2	stone_spirit4	stone_spirit3	3		0	60000	gold
+3	0	3	stone_heart2	stone_heart1	12		0	5000	gold
+4	0	4	stone_heart3	stone_heart2	6		0	20000	gold
+5	0	5	stone_heart4	stone_heart3	3		0	60000	gold

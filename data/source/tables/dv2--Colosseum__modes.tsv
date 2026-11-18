@@ -1,0 +1,3 @@
+_row	_parent_row	_key	label	party	rating_key	streak_key	energy_key	energy_at_key
+0	0	single	1 vs 1	1	single	straight_single	energy_single	energy_at_single
+1	0	team	3 vs 3	3	tournament	straight_team	energy_team	energy_at_team

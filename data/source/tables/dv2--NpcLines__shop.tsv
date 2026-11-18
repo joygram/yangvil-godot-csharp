@@ -1,0 +1,5 @@
+_row	_parent_row	_key	pino	randolph	popo	baruseu	romini	raon	hot	food	item	egg	etc	sell
+0	0	welcome	["#a4e276fb","#b3275630","#ee2df743"]	["#6f09cb46","#c03852cc","#7b271228"]	["#0a5c0647","#defd838d","#5e00c75b"]	["#fd28a18c","#d02f198b","#968f8af8"]	["#fcce586b","#2e2134ba","#f68a3d0e"]	["#04e259fc","#e8218351","#e11d61a4"]						
+1	0	buy	["#8fdaf8df","#9999f8df"]	["#68f0647b","#e190cb31","#68f0647b","#b016d792"]	["#b4849e36","#c4b2d150","#b225f816","#49390f01"]	["#2cb080d8","#3e7de55a"]		["#4cdfcd32","#81cbd311"]						
+2	0	sell					["#7374f290","#2f1fea73"]							
+3	0	tab							#22dd751c	#26cb28a3	#3e541388	#0a5c0647	#c620fc73	#4f0e08ad

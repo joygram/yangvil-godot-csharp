@@ -1,0 +1,22 @@
+{
+  "table": "StatTable",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/stat_table.json",
+    "source_sha256": "fc15f60bab757b6013c5795337a4811851885b4ac7ba5d97e2191ec4a9008de2",
+    "source_row_count": 6
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6a",
+    "6b",
+    "custom"
+  ]
+}

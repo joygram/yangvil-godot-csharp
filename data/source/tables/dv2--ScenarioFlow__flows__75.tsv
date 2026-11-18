@@ -1,0 +1,39 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	pos	state	emoticon	enter	costar	costar_pos	talker	n	b1	illust	kind	npc_name_guess
+0	0	0	bgm	bg_parcondo															
+1	0	1	talk		75_1		play	2	1	3	true								
+2	0	2	talk		75_2		play	1	1	8	true	true	2						
+3	0	3	talk		75_3		play	2	3	1	false	true	1						
+4	0	4	talk		75_4		play	1	1	5	false	true	2						
+5	0	5	talk		75_5		play	2	3	5	false	true	1						
+6	0	6	talker_out											2	2	false			
+7	0	7	talker_out											1	2	false			
+8	0	8	illust														75	1	
+9	0	9	talk		75_6		talk												
+10	0	10	talk		75_7		talk												
+11	0	11	talk		75_8		talk												
+12	0	12	talk		75_9		play	2	4	8	true								
+13	0	13	talk		75_10		play	1	3	8	true	true	2						
+14	0	14	talk		75_11		play	3	1	5	true	true	1						baruseu
+15	0	15	talk		75_12		play	2	6	1	false	true	3						
+16	0	16	talker_out											3	2	false			
+17	0	17	talker_out											2	2	false			
+18	0	18	talker_out											1	2	false			
+19	0	19	talk		75_13		play	3	1	1	true								baruseu
+20	0	20	talk		75_14		play	2	3	8	true	true	3						
+21	0	21	talk		75_15		play	1	3	1	true	true	2						
+22	0	22	talk		75_16		play	3	1	4	false	true	1						baruseu
+23	0	23	talk		75_17		play	3	1		false								baruseu
+24	0	24	talk		75_18		play	2	1	5	false	true	3						
+25	0	25	talk		75_19		play	3	1	5	false	true	2						baruseu
+26	0	26	talk		75_20		play	1	5	3	false	true	3						
+27	0	27	talk		75_21		play	2	3	1	false	true	1						
+28	0	28	talk		75_22		play	3	3	6	false	true	2						baruseu
+29	0	29	talk		75_23		talk												
+30	0	30	talk		75_24		play	2	1	3	false	true	3						
+31	0	31	talk		75_25		play	1	3	6	false	true	2						
+32	0	32	talk		75_26		play	3	1	5	false	true	1						baruseu
+33	0	33	talk		75_27		play	3	1	4	false								baruseu
+34	0	34	talk		75_28		play	2	1	4	false	true	3						
+35	0	35	talk		75_29		play	1	2	4	false	true	2						
+36	0	36	talk		75_30		play	3	3	1	false	true	1						baruseu
+37	0	37	talk		75_31		talk												

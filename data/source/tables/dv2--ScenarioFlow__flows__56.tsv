@@ -1,0 +1,22 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	bgm	bg_elysium										
+1	0	1	talk		56_1	florence	talker_in	1	3	3	true			
+2	0	2	talk		56_2		talk							
+3	0	3	talk		56_3	florence	talker_in	1	5	3	false			
+4	0	4	talk		56_4	florence	talker_in	1	7	3	false			
+5	0	5	talk		56_5		talk							
+6	0	6	talk		56_6	florence	talker_in	1	1	3	false			
+7	0	7	talk		56_7	florence	talker_in	1	3	3	false			
+8	0	8	talk		56_8	florence	talker_in	1	6	3	false			
+9	0	9	talk		56_9	florence	talker_in	1	5	3	false			
+10	0	10	talk		56_10	florence	talker_in	1	1	3	false			
+11	0	11	talk		56_11		talk							
+12	0	12	talk		56_12	florence	talker_in	1	2	3	false			
+13	0	13	talker_out									3	1	false
+14	0	14	talk		56_13		talk							
+15	0	15	talk		56_14		talk							
+16	0	16	talk		56_15		talk							
+17	0	17	sfx	effect_dragon_damaged_1										
+18	0	18	sfx	effect_evade										
+19	0	19	talk		56_16		talk							
+20	0	20	bgm	bg_elysium										

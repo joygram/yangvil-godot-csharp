@@ -1,0 +1,67 @@
+_row	_parent_row	_idx	op	title	b1	field	color	fade_out	opacity	line	npc	state	pos	emoticon	b2	b3	bg	delay	n	pass_	talker
+0	0	0	title	100	true																
+1	0	1	talk_init																		
+2	0	2	field_bgm			27															
+3	0	3	color_on				4278190335	1	125												
+4	0	4	monster_cry																		
+5	0	5	user_talk		true					{"m":1,"k":1}											
+6	0	6	npc_talk		false					{"m":1,"k":2}	28	1	3	0	false	false					
+7	0	7	npc_talk		false					{"m":1,"k":3}	28	1	3	0	false	false					
+8	0	8	npc_talk		false					{"m":1,"k":4}	17	3	2	5	false	false					
+9	0	9	npc_talk		false					{"m":1,"k":5}	12	3	1	5	false	false					
+10	0	10	npc_talk		false					{"m":1,"k":6}	28	1	3	0	false	false					
+11	0	11	npc_talk		false					{"m":1,"k":7}	28	1	3	0	false	false					
+12	0	12	subquest																		
+13	0	13	chaos_fear																		
+14	0	14	field_bgm			7															
+15	0	15	color_on				4278190335	0	125												
+16	0	16	monster_cry																		
+17	0	17	user_talk		true					{"m":2,"k":1}											
+18	0	18	npc_talk		false					{"m":2,"k":2}	28	1	3	0	false	false					
+19	0	19	npc_talk		false					{"m":2,"k":3}	28	1	3	0	false	false					
+20	0	20	npc_talk		false					{"m":2,"k":4}	28	1	3	0	false	false					
+21	0	21	blackout																		
+22	0	22	field_bgm			27															
+23	0	23	illust_9																		
+24	0	24	user_talk		true					{"m":2,"k":5}											
+25	0	25	npc_talk		false					{"m":2,"k":6}	28	1	3	0	false	false					
+26	0	26	npc_talk		false					{"m":2,"k":7}	28	1	3	0	false	false					
+27	0	27	npc_talk		false					{"m":2,"k":8}	28	1	3	0	false	false					
+28	0	28	blackout																		
+29	0	29	field_bgm			23															
+30	0	30	bg_pass														27				
+31	0	31	npc_talk		false					{"m":2,"k":9}	12	7	1	3	true	false					
+32	0	32	npc_talk		false					{"m":2,"k":10}	17	1	2	0	false	false					
+33	0	33	npc_talk		false					{"m":2,"k":11}	12	6	1	5	false	false					
+34	0	34	npc_talk		false					{"m":2,"k":12}	17	2	2	0	false	false					
+35	0	35	npc_talk		false					{"m":2,"k":13}	12	5	1	0	false	false					
+36	0	36	walk_delay																2		
+37	0	37	npc_talk		false					{"m":2,"k":14}	3	2	3	5	false	false					
+38	0	38	npc_talk		false					{"m":2,"k":15}	3	1	3	0	false	false					
+39	0	39	npc_talk		false					{"m":2,"k":16}	3	1	3	0	false	false					
+40	0	40	npc_talk		false					{"m":2,"k":17}	17	1	2	2	false	false					
+41	0	41	npc_talk		false					{"m":2,"k":18}	12	1	1	5	false	false					
+42	0	42	npc_talk		false					{"m":2,"k":19}	17	2	2	0	false	false					
+43	0	43	npc_talk		false					{"m":2,"k":20}	12	2	1	0	false	false					
+44	0	44	user_talk		false					{"m":2,"k":21}											
+45	0	45	user_talk		false					{"m":2,"k":22}											
+46	0	46	user_talk		false					{"m":2,"k":23}											
+47	0	47	blackout																		
+48	0	48	bg														23			false	
+49	0	49	field_bgm			7															
+50	0	50	walk_delay																2		
+51	0	51	npc_talk		false					{"m":2,"k":24}	28	1	3	0	true	false					
+52	0	52	npc_talk		true					{"m":2,"k":25}	26	1	2	0	false	false					
+53	0	53	npc_talk		false					{"m":2,"k":26}	28	1	3	0	false	false					
+54	0	54	npc_talk		true					{"m":2,"k":27}	26	1	2	0	false	false					
+55	0	55	npc_talk		false					{"m":2,"k":28}	28	1	3	0	false	false					
+56	0	56	npc_talk		true					{"m":2,"k":29}	26	1	2	0	false	false					
+57	0	57	npc_talk		false					{"m":2,"k":30}	28	1	3	0	false	false					
+58	0	58	npc_talk		true					{"m":2,"k":31}	26	1	2	0	false	false					
+59	0	59	npc_talk		false					{"m":2,"k":32}	28	1	3	0	false	false					
+60	0	60	talker_out		true														2		3
+61	0	61	npc_talk		true					{"m":2,"k":33}	26	1	2	0	false	false					
+62	0	62	npc_talk		true					{"m":2,"k":34}	26	1	2	0	false	false					
+63	0	63	npc_talk		true					{"m":2,"k":35}	26	1	2	0	false	false					
+64	0	64	talker_out		false														2		2
+65	0	65	walk_delay																2		

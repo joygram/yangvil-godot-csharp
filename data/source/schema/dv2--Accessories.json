@@ -1,0 +1,16 @@
+{
+  "table": "Accessories",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/accessories.json",
+    "source_sha256": "f67fd834e7cf14268f41010442788264b356c4684727fa70b915082f7942b782",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": [
+    "grade_names"
+  ]
+}

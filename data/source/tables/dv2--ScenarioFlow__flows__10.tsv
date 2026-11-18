@@ -1,0 +1,21 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter
+0	0	0	bgm	bg_shop							
+1	0	1	talk		10_1	baruseu	talker_in	1	1	3	true
+2	0	2	talk		10_2	baruseu	talker_reorder				
+3	0	3	talk		10_3	baruseu	talker_in	1	1	3	false
+4	0	4	talk		10_4	baruseu	talker_in	1	1	3	false
+5	0	5	talk		10_5	baruseu	talker_reorder				
+6	0	6	talk		10_6	baruseu	talker_in	1	1	3	false
+7	0	7	talk		10_7	baruseu	talker_in	1	1	3	false
+8	0	8	talk		10_8		talk				
+9	0	9	talk		10_9	baruseu	talker_in	1	1	3	false
+10	0	10	sfx	effect_tab							
+11	0	11	talk		10_10		talk				
+12	0	12	talk		10_11	baruseu	talker_in	1	1	3	false
+13	0	13	talk		10_12	baruseu	talker_in	1	1	3	false
+14	0	14	talk		10_13	baruseu	talker_in	1	1	3	false
+15	0	15	talk		10_14		talk				
+16	0	16	talk		10_15	baruseu	talker_in	1	1	3	false
+17	0	17	talk		10_16	baruseu	talker_in	1	4	3	false
+18	0	18	talk		10_17	baruseu	talker_in	1	1	3	false
+19	0	19	talk		10_18		talk				

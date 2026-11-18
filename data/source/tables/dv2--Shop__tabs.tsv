@@ -1,0 +1,8 @@
+_row	_parent_row	_idx	id	label	icon	tab_bg	npc	wallet	line	extra
+0	0	0	hot	HOT	tab_osusume_en	tab_bg4	pino	money		
+1	0	1	pvp	PVP	colosseum_ui/scene_colosseum_icon_fist1	tab_bg3	raon	pvp		
+2	0	2	food	FOOD	tab_food_en	tab_bg	pino	money		
+3	0	3	item	ITEM	tab_item_en	tab_bg	randolph	money		["gem_gacha","gem_shop","equip_shop"]
+4	0	4	egg	EGG	tab_egg_en	tab_bg	popo	element		
+5	0	5	etc	ETC	tab_etc_en	tab_bg	baruseu	money		["cash"]
+6	0	6	sell	SELL	tab_sell_en	tab_bg2	romini	money		

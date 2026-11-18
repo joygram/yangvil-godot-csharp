@@ -1,0 +1,18 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter
+0	0	0	bgm	bg_scenario_peace							
+1	0	1	talk		37_1	baruseu	talker_in	1	1	2	true
+2	0	2	talk		37_2	baruseu	talker_reorder				
+3	0	3	talk		37_3		talk				
+4	0	4	talk		37_4	baruseu	talker_in	1	1	2	false
+5	0	5	talk		37_5	baruseu	talker_reorder				
+6	0	6	talk		37_6	baruseu	talker_reorder				
+7	0	7	talk		37_7		talk				
+8	0	8	talk		37_8	baruseu	talker_reorder				
+9	0	9	talk		37_9		talk				
+10	0	10	talk		37_10	who	talk				
+11	0	11	talk		37_11		talk				
+12	0	12	talk		37_12	popo	talker_in	1	2	1	true
+13	0	13	talk		37_13		talk				
+14	0	14	talk		37_14	popo	talker_in	1	6	1	false
+15	0	15	talk		37_15		talk				
+16	0	16	talk		37_16	popo	talker_reorder				

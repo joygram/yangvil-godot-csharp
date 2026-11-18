@@ -1,0 +1,22 @@
+{
+  "table": "Equipment__special__items",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/equipment.json",
+    "source_sha256": "f8939f5b6b3f1d08444891cc82f3fc7f7905774e443359924ed773abc5a5c222",
+    "source_row_count": 12
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Equipment__special",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "main"
+  ]
+}

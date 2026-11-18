@@ -1,0 +1,26 @@
+_row	_parent_row	_key	dir	frame	from_wiki
+0	0	크리스마스 별장식	item_accessory	item_accessory_christmas_star	
+1	0	눈사람 인형	item_accessory	item_accessory_christmas_snow	
+2	0	크리스마스 리본	item_accessory	item_accessory_christmas_ribbon	
+3	0	어린이 풍선	item_accessory	item_accessory_children_balloon	
+4	0	장난감 총	item_accessory	item_accessory_children_popgun	
+5	0	곰 인형	item_accessory	item_accessory_children_teddy	
+6	0	크리스마스 종	equip_wiki	equip_wiki_event03	true
+7	0	오색 비치볼	equip_wiki	equip_wiki_event07	true
+8	0	멋진 선글라스	equip_wiki	equip_wiki_event08	true
+9	0	시원한 밀짚모자	equip_wiki	equip_wiki_event09	true
+10	0	유타칸의 바람	equip_wiki	equip_wiki_event10	true
+11	0	유타칸의 별빛	equip_wiki	equip_wiki_event11	true
+12	0	유타칸의 햇빛	equip_wiki	equip_wiki_event12	true
+13	0	온화한 호박 반지	equip_wiki	equip_wiki_event13	true
+14	0	사악한 호박 반지	equip_wiki	equip_wiki_event14	true
+15	0	할로윈 바구니	equip_wiki	equip_wiki_event15	true
+16	0	붉은 달의 조각	equip_wiki	equip_wiki_event16	true
+17	0	허리케인의 뱃지	equip_wiki	equip_wiki_event17	true
+18	0	팔라곤의 뱃지	equip_wiki	equip_wiki_event18	true
+19	0	발록의 뱃지	equip_wiki	equip_wiki_event19	true
+20	0	다르고스의 뱃지	equip_wiki	equip_wiki_event20	true
+21	0	포세이돈의 뱃지	equip_wiki	equip_wiki_event21	true
+22	0	그라노스의 뱃지	equip_wiki	equip_wiki_event22	true
+23	0	잠뜰의 모자	equip_wiki	equip_wiki_event23	true
+24	0	마룡의 보옥	equip_wiki	equip_wiki_event24	true

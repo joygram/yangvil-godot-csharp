@@ -1,0 +1,20 @@
+{
+  "table": "Laboratory__lab_upgrade",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/laboratory.json",
+    "source_sha256": "396cd7ccf213b6d016c8f197cfe192763259ef2d0e127fbccdf9b5855484aba8",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Laboratory",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

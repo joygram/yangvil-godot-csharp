@@ -1,0 +1,31 @@
+_row	_parent_row	_idx	no	name	effect_text	img	icon_frames
+0	0	0	1	#7878e812	HP+30%	flood	["battle/flood/combine_mark.png","battle/flood/combine_outline.png"]
+1	0	1	2	#807e28eb	HP+10% ATK+20%	apocalypse	["battle/apocalypse/combine_mark.png","battle/apocalypse/combine_outline.png"]
+2	0	2	3	#a8aa0976	HP+10% ATK+10% CRT+5%	amagethon	["battle/amagethon/combine_mark.png","battle/amagethon/combine_outline.png"]
+3	0	3	4	#a9b12c9c	DEF+25%	gaia	["battle/gaia/combine_mark.png","battle/gaia/combine_outline.png"]
+4	0	4	5	#a962494b	ATK+25%	corona	["battle/corona/combine_mark.png","battle/corona/combine_outline.png"]
+5	0	5	6	#12bb6083	HP+10% DEF+20%	highness	["battle/highness/combine_mark.png","battle/highness/combine_outline.png"]
+6	0	6	7	#39a2ea1e	EVD+11%	supernova	["battle/supernova/combine_mark.png","battle/supernova/combine_outline.png"]
+7	0	7	8	#3d22c9b0	BLK+15%	hurricane	["battle/hurricane/combine_mark.png","battle/hurricane/combine_outline.png"]
+8	0	8	9	#36f016ae	CRT+10% ATK+15%	legion	["battle/legion/combine_mark.png","battle/legion/combine_outline.png"]
+9	0	9	10	#98954671	CRT+5% DEF+15%	avatar	["battle/avatar/combine_mark.png","battle/avatar/combine_outline.png"]
+10	0	10	11	#f066024a	HP+10% ATK+5% EVD+5%	rainbow	["battle/rainbow/combine_mark.png","battle/rainbow/combine_outline.png"]
+11	0	11	12	#b2c68e30	CRT+10% ATK+15%	dark	["battle/dark/combine_mark.png","battle/dark/combine_outline.png"]
+12	0	12	13	#29f84945	CRT+10% DEF+15%	light	["battle/light/combine_mark.png","battle/light/combine_outline.png"]
+13	0	13	14	#4d9dc5eb	DEF+10% BLK+5% CRT+5%	storm	["battle/storm/combine_mark.png","battle/storm/combine_outline.png"]
+14	0	14	15	#1222eb68	DEF+10% BLK+5% CRT+5%	aqualight	["battle/aqualight/combine_mark.png","battle/aqualight/combine_outline.png"]
+15	0	15	16	#c4239d20	ATK+15% DEF+10%	shimmer	["battle/shimmer/combine_mark.png","battle/shimmer/combine_outline.png"]
+16	0	16	17	#82c5090a	DEF+15% BLK+6%	landslide	["battle/landslide/combine_mark.png","battle/landslide/combine_outline.png"]
+17	0	17	18	#6f27cc53	BLK+8% EVD+5%	blackwind	["battle/blackwind/combine_mark.png","battle/blackwind/combine_outline.png"]
+18	0	18	19	#9055ef52	HP+14% BLK+10%	tearsofagod	["battle/tearsofagod/combine_mark.png","battle/tearsofagod/combine_outline.png"]
+19	0	19	20	#3ac5603c	ATK+15% BLK+8%	hellfire	["battle/hellfire/combine_mark.png","battle/hellfire/combine_outline.png"]
+20	0	20	21	#ed321a0f	HP+4% DEF+10% EVD+5%	lavastorm	["battle/lavastorm/combine_mark.png","battle/lavastorm/combine_outline.png"]
+21	0	21	22	#4d3fb597	DEF+5% BLK+4% CRT+10%	mirinae	["battle/mirinae/combine_mark.png","battle/mirinae/combine_outline.png"]
+22	0	22	23	#a7251040	HP+8% ATK+10% EVD+5%	asgard	["battle/asgard/combine_mark.png","battle/asgard/combine_outline.png"]
+23	0	23	24	#0f903b7a	HP+8% ATK+5% BLK+10%	dyingbreath	["battle/dyingbreath/combine_mark.png","battle/dyingbreath/combine_outline.png"]
+24	0	24	25	#3986301d	EVD+5% PURE+10%		
+25	0	25	26	#7ed23c40	CRT+10% CRIPW+30%		
+26	0	26	27	#64f6fa07	CRT+10% DEF+10%		
+27	0	27	28	#64a393a3	ATK+5% CRT+5% PURE+5%		
+28	0	28	29	#d6990215	CRT+10% EVD+5%		
+29	0	29	30	#132fa34e	DEF+15% EVD+5%		

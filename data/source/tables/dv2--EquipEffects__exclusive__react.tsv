@@ -1,0 +1,13 @@
+_row	_parent_row	_idx	on	do	value	to	pct	max	stats	mode	max_total	ops	ratio	left	when	stat	plant	turns	fix
+0	17	0	evade	skill_restore	1														
+1	18	0	evade	skill_restore	1														
+2	19	0	crit	skill_restore	1														
+3	20	0	evade	skill_restore	1	ally													
+4	21	0	crit				10	300											
+5	22	0	hit_taken	stack	2				["blk"]	flat	20								
+6	69	0	death	party_buff		ally						[{"kind":"awaken_dmg","pct":50}]							
+7	82	0	double	heal_dealt									1.0	3					
+8	83	0	attack_done	heal_pct			1								{"kind":"self_hp_at_most","pct":20}				
+9	84	0	attack_done	stack_from_target			10				1000				{"kind":"has_debuff","except_src":[23]}	att			
+10	87	0	death	party_buff		ally						[{"kind":"stat","stat":"att","mode":"pct","value":50}]					ally_element:shadow	5	
+11	88	0	pre_damage											1			ally		1

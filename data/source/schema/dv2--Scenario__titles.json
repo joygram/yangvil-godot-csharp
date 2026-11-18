@@ -1,0 +1,20 @@
+{
+  "table": "Scenario__titles",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/scenario.json",
+    "source_sha256": "9e5fb8f4392c6f76f822c87eb80662d80a02f524eaf9d21f82b98f078941f81e",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Scenario",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

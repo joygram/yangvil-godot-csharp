@@ -1,0 +1,36 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	pos	state	emoticon	enter	npc_name_guess	costar	costar_pos	talker	n	b1
+0	0	0	bgm	bg_auction													
+1	0	1	talk		77_1		play	3	3	1	true	kanggalo					
+2	0	2	talk		77_2		play	2	3	6	true	kanggalo	true	3			
+3	0	3	talk		77_3		play	1	3	8	true		true	2			
+4	0	4	talk		77_4		play	3	1	1	false	kanggalo	true	1			
+5	0	5	talk		77_5		play	3	2	1	false	kanggalo					
+6	0	6	talk		77_6		play	2	3	6	false	kanggalo	true	3			
+7	0	7	talk		77_7		play	3	3	1	false	kanggalo	true	2			
+8	0	8	talk		77_8		talk										
+9	0	9	talk		77_9		play	3	3		false	kanggalo					
+10	0	10	talk		77_10		play	3	3	8	false	kanggalo					
+11	0	11	talk		77_11		play	2	7	8	false	kanggalo	true	3			
+12	0	12	talk		77_12		play	1	5	3	false		true	2			
+13	0	13	talk		77_13		play	2	3	6	false		true	1			
+14	0	14	talker_out												1	2	false
+15	0	15	talker_out												2	2	false
+16	0	16	talker_out												3	2	false
+17	0	17	talk		77_14		play	2	1	5	true						
+18	0	18	talk		77_15		play	1	1	4	true		true	2			
+19	0	19	talker_out												2	2	false
+20	0	20	talker_out												1	2	false
+21	0	21	bgm	bg_magicshop													
+22	0	22	talk		77_16		play	3	1		true						
+23	0	23	talk		77_17		play	3	5	3	false						
+24	0	24	talk		77_18		play	2	5	3	true		true	3			
+25	0	25	talk		77_19		play	3	5	8	false		true	2			
+26	0	26	talk		77_20		play	1	5	8	true		true	3			
+27	0	27	talk		77_21		play	3	5		false		true	1			
+28	0	28	talk		77_22		play	3	5		false						
+29	0	29	talk		77_23		play	2	5	8	false		true	3			
+30	0	30	talk		77_24		talk										
+31	0	31	talk		77_25		play	3	5	5	false		true	2			
+32	0	32	talk		77_26		play	3	5	5	false						
+33	0	33	talk		77_27		play	2	5	8	false		true	3			
+34	0	34	talk		77_28		play	1	1		false		true	2			

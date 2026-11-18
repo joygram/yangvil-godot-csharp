@@ -1,0 +1,56 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	bgm	bg_elysium										
+1	0	1	talk		54_1	florence	talker_in	1	2	2	true			
+2	0	2	talk		54_2		talk							
+3	0	3	talk		54_3	florence	talker_in	1	5	2	false			
+4	0	4	talk		54_4		talk							
+5	0	5	talk		54_5	florence	talker_in	1	1	2	false			
+6	0	6	talk		54_6	florence	talker_in	1	5	2	false			
+7	0	7	talk		54_7		talk							
+8	0	8	talk		54_8	florence	talker_in	1	6	2	false			
+9	0	9	talk		54_9		talk							
+10	0	10	talk		54_10	florence	talker_in	1	5	2	false			
+11	0	11	talk		54_11	florence	talker_in	1	5	2	false			
+12	0	12	talk		54_12	florence	talker_in	4	4	2	false			
+13	0	13	talk		54_13		talk							
+14	0	14	talk		54_14	florence	talker_in	1	5	2	false			
+15	0	15	talk		54_15	florence	talker_in	1	5	2	false			
+16	0	16	talk		54_16	florence	talker_in	4	4	2	false			
+17	0	17	talk		54_17	florence	talker_in	1	2	2	false			
+18	0	18	talk		54_18	florence	talker_in	1	2	2	false			
+19	0	19	talk		54_19	florence	talker_in	1	5	2	false			
+20	0	20	talk		54_20		talk							
+21	0	21	talk		54_21	florence	talker_in	1	5	2	false			
+22	0	22	talk		54_22	florence	talker_in	1	1	2	false			
+23	0	23	talk		54_23	florence	talker_in	4	4	2	false			
+24	0	24	talk		54_24	florence	talker_in	1	2	2	false			
+25	0	25	talker_out									2	2	false
+26	0	26	talk		54_25		talk							
+27	0	27	talk		54_26		talk							
+28	0	28	talk		54_27		talk							
+29	0	29	talk		54_28		talk							
+30	0	30	talk		54_29		talk							
+31	0	31	bgm	bg_colosseum_battle_2										
+32	0	32	talk		54_30	florence	talker_in	1	7	3	true			
+33	0	33	talk		54_31	florence	talker_in	1	5	3	false			
+34	0	34	talk		54_32	florence	talker_in	1	3	3	false			
+35	0	35	talk		54_33		talk							
+36	0	36	talker_out									3	2	false
+37	0	37	talk		54_34		talk							
+38	0	38	bgm	bg_scenario_specter										
+39	0	39	talk		54_35	florence	talker_in	1	6	3	true			
+40	0	40	talk		54_36		talk							
+41	0	41	talker_out									3	2	false
+42	0	42	talk		54_37	florence	talker_in	1	4	3	false			
+43	0	43	bgm	bg_scenario_specter										
+44	0	44	talker_out									3	2	false
+45	0	45	talk		54_38		talk							
+46	0	46	bgm	bg_scenario_specter										
+47	0	47	talk		54_39	florence	talker_in	1	5	3	true			
+48	0	48	talker_out									3	2	false
+49	0	49	sfx	effect_dragon_damaged_1										
+50	0	50	sfx	effect_evade										
+51	0	51	talk		54_40	florence	talker_in	1	5	3	false			
+52	0	52	bgm	bg_auction										
+53	0	53	talk		54_41		talk							
+54	0	54	talk		54_42	florence	talker_in	1	2	3	false			

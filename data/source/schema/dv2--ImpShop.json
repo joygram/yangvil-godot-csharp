@@ -1,0 +1,14 @@
+{
+  "table": "ImpShop",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/imp_shop.json",
+    "source_sha256": "abfaffd508c92b768915c7e000032b48ed0d8f2ba5586d9373593bb092f83f91",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

@@ -1,0 +1,43 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	_recovered	talker	n	b1
+0	0	0	bgm	bg_shop											
+1	0	1	talk		38_1	popo	talker_in	1	6	3	true				
+2	0	2	talk		38_2	popo	talker_reorder								
+3	0	3	talk		38_3							resource			
+4	0	4	talk		38_4	popo	talker_in	1	5	3	false				
+5	0	5	talk		38_5	popo	talker_reorder								
+6	0	6	talk		38_6	popo	talker_reorder								
+7	0	7	talk		38_7		talk								
+8	0	8	talk		38_8		talk								
+9	0	9	talk		38_9	popo	talker_reorder								
+10	0	10	talk		38_10		talk								
+11	0	11	talk		38_11	popo	talker_in	1	2	3	false				
+12	0	12	talk		38_12		talk								
+13	0	13	talk		38_13	popo	talker_reorder								
+14	0	14	talk		38_14	popo	talker_reorder								
+15	0	15	talk		38_15		talk								
+16	0	16	talk		38_16	popo	talker_reorder								
+17	0	17	talk		38_17		talk								
+18	0	18	talk		38_18		talk								
+19	0	19	talk		38_19		talk								
+20	0	20	talker_out										1	2	false
+21	0	21	talk		38_20		talk								
+22	0	22	bgm	bg_auction											
+23	0	23	talk		38_21	popo	talker_in	1	2	3	true				
+24	0	24	talk		38_22	nuri	talker_in	1	1	2	true				
+25	0	25	talk		38_23	popo	talker_in	1	2	3	false				
+26	0	26	talk		38_24	nuri	talker_in	1	5	2	false				
+27	0	27	talk		38_25	popo	talker_in	1	2	3	false				
+28	0	28	talk		38_26	jimon	talker_in	1	3	1	true				
+29	0	29	talk		38_27	popo	talker_in	1	3	3	false				
+30	0	30	talk		38_28		talk								
+31	0	31	talk		38_29	popo	talker_in	1	1	3	false				
+32	0	32	talk		38_30	popo	talker_in	1	2	3	false				
+33	0	33	talk		38_31	nuri	talker_in	1	5	2	false				
+34	0	34	talk		38_32	jimon	talker_in	1	1	1	false				
+35	0	35	talk		38_33	popo	talker_in	1	2	3	false				
+36	0	36	talk		38_34		talk								
+37	0	37	talker_out										1	2	false
+38	0	38	talk		38_35	jimon	talker_in	1	1	1	true				
+39	0	39	bgm	bg_auction											
+40	0	40	talk		38_36	nuri	talker_in	1	1	2	true				
+41	0	41	talk		38_37		talk								

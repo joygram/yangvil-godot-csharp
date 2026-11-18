@@ -1,0 +1,20 @@
+{
+  "table": "AdventureEvents__steps__events",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/adventure_events.json",
+    "source_sha256": "bc357304d6b490896e028b8298fba2c0d91737605ab78ece49c241ad563da714",
+    "source_row_count": 4
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "AdventureEvents__steps",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

@@ -1,0 +1,7 @@
+_row	_parent_row	_key	power_lv	proc_add	foe_proc_sub	skill_dmg_taken_pct	req_hp_relax_pct
+0	0	BOOST	[1,1,2,2,3,3]				
+1	0	BNR	[1,1,1,2,2,2]	[2,3,5,6,8,9]			
+2	0	INRATE		[3,5,7,9,11,12]			
+3	0	DERATE			[3,5,7,9,11,12]		
+4	0	DEDMG				[5,8,11,15,19,22]	
+5	0	REQHP					[5,8,11,15,19,22]

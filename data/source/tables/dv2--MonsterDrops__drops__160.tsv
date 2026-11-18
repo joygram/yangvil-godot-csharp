@@ -1,0 +1,5 @@
+_row	_parent_row	_idx	kind	key	item_name	weight	chance	min	max
+0	0	0	item	jewel_amethyst	#917f54a7	3	100.0	5	15
+1	0	1	item	jewel_emerald	#52c235b4	2	100.0	5	15
+2	0	2	item	jewel_ruby	#2423c145	1	100.0	5	15
+3	0	3	item	jewel_sapphire	#07b29498	1	100.0	5	15

@@ -1,0 +1,29 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	pos	state	enter	emoticon	talker	n	b1	npc_name_guess	costar	costar_pos
+0	0	0	bgm	bg_auction													
+1	0	1	talk		73_1		play	3	1	true							
+2	0	2	talk		73_2		play	3	2	false	4						
+3	0	3	talk		73_3		talk										
+4	0	4	talker_out									3	2	false			
+5	0	5	bgm	bg_auction													
+6	0	6	talk		73_4		play	3	2	true	4						
+7	0	7	talk		73_5		play	3	2	false							
+8	0	8	talk		73_6		talk										
+9	0	9	talk		73_7		talk										
+10	0	10	talker_out									3	2	false			
+11	0	11	talk		73_8		talk										
+12	0	12	talk		73_9		play	3	1	true	6						
+13	0	13	talk		73_10		talk										
+14	0	14	talk		73_11		play	3	1	false	6						
+15	0	15	talk		73_12		play	3	4	false							
+16	0	16	talk		73_13		play	3	1	false	6						
+17	0	17	talk		73_14		talk										
+18	0	18	talker_out									3	2	false			
+19	0	19	talk		73_15		talk										
+20	0	20	talk		73_16		talk										
+21	0	21	talk		73_17		play	3	3	true	5				randolph		
+22	0	22	talk		73_18		play	2	4	true	8				randolph	true	3
+23	0	23	talk		73_19		play	3	3	false	1				randolph	true	2
+24	0	24	talk		73_20		play	2	4	false	3				randolph	true	3
+25	0	25	talk		73_21		talk										
+26	0	26	talk		73_22		play	3	3	false	5				randolph	true	2
+27	0	27	talk		73_23		play	3	3	false	1				randolph		

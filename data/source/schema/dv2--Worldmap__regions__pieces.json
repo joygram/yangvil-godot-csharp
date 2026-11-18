@@ -1,0 +1,24 @@
+{
+  "table": "Worldmap__regions__pieces",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/worldmap.json",
+    "source_sha256": "aef1a50909811dc82bf0ae556c1771946aa71921f178c0c19c0c9a8ee3819fb1",
+    "source_row_count": 32
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Worldmap__regions",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "label_offset",
+    "label_pos",
+    "pos"
+  ]
+}

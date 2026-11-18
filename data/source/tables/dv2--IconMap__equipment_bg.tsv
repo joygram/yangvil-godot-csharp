@@ -1,0 +1,85 @@
+_row	_parent_row	_key	dir	frame	fallback
+0	0	깃털:0	item_accessory	item_accessory_feather1_bg	
+1	0	깃털:1	item_accessory	item_accessory_feather2_bg	
+2	0	깃털:2	item_accessory	item_accessory_feather3_bg	
+3	0	깃털:3	item_accessory	item_accessory_feather4_bg	
+4	0	깃털:4	item_accessory	item_accessory_feather5_bg	
+5	0	깃털:5	item_accessory	item_accessory_feather6_bg	
+6	0	깃털:6	item_accessory	item_accessory_feather7_bg	
+7	0	발톱:0	item_accessory	item_accessory_claw1_bg	
+8	0	발톱:1	item_accessory	item_accessory_claw2_bg	
+9	0	발톱:2	item_accessory	item_accessory_claw3_bg	
+10	0	발톱:3	item_accessory	item_accessory_claw4_bg	
+11	0	발톱:4	item_accessory	item_accessory_claw5_bg	
+12	0	발톱:5	item_accessory	item_accessory_claw6_bg	
+13	0	발톱:6	item_accessory	item_accessory_claw7_bg	
+14	0	부적:0	item_accessory	item_accessory_talisman6_bg	true
+15	0	부적:1	item_accessory	item_accessory_talisman6_bg	true
+16	0	부적:2	item_accessory	item_accessory_talisman6_bg	true
+17	0	부적:3	item_accessory	item_accessory_talisman6_bg	true
+18	0	부적:4	item_accessory	item_accessory_talisman6_bg	true
+19	0	부적:5	item_accessory	item_accessory_talisman6_bg	
+20	0	부적:6	item_accessory	item_accessory_talisman6_bg	true
+21	0	묘안석:0	item_accessory	item_accessory_catseye1_bg	
+22	0	묘안석:1	item_accessory	item_accessory_catseye2_bg	
+23	0	묘안석:2	item_accessory	item_accessory_catseye3_bg	
+24	0	묘안석:3	item_accessory	item_accessory_catseye4_bg	
+25	0	묘안석:4	item_accessory	item_accessory_catseye5_bg	
+26	0	묘안석:5	item_accessory	item_accessory_catseye6_bg	
+27	0	묘안석:6	item_accessory	item_accessory_catseye6_bg	true
+28	0	흑요석:0	item_accessory	item_accessory_obsidian1_bg	
+29	0	흑요석:1	item_accessory	item_accessory_obsidian2_bg	
+30	0	흑요석:2	item_accessory	item_accessory_obsidian3_bg	
+31	0	흑요석:3	item_accessory	item_accessory_obsidian4_bg	
+32	0	흑요석:4	item_accessory	item_accessory_obsidian5_bg	
+33	0	흑요석:5	item_accessory	item_accessory_obsidian6_bg	
+34	0	흑요석:6	item_accessory	item_accessory_obsidian6_bg	true
+35	0	백금석:0	item_accessory	item_accessory_platinum1_bg	
+36	0	백금석:1	item_accessory	item_accessory_platinum2_bg	
+37	0	백금석:2	item_accessory	item_accessory_platinum3_bg	
+38	0	백금석:3	item_accessory	item_accessory_platinum4_bg	
+39	0	백금석:4	item_accessory	item_accessory_platinum5_bg	
+40	0	백금석:5	item_accessory	item_accessory_platinum6_bg	
+41	0	백금석:6	item_accessory	item_accessory_platinum6_bg	true
+42	0	이그니스:0	item_accessory	item_accessory_artifact1_bg	
+43	0	이그니스:1	item_accessory	item_accessory_artifact2_bg	
+44	0	이그니스:2	item_accessory	item_accessory_artifact3_bg	
+45	0	이그니스:3	item_accessory	item_accessory_artifact4_bg	
+46	0	이그니스:4	item_accessory	item_accessory_artifact5_bg	
+47	0	이그니스:5	item_accessory	item_accessory_artifact6_bg	
+48	0	마리스:0	item_accessory	item_accessory_artifact1_bg	
+49	0	마리스:1	item_accessory	item_accessory_artifact2_bg	
+50	0	마리스:2	item_accessory	item_accessory_artifact3_bg	
+51	0	마리스:3	item_accessory	item_accessory_artifact4_bg	
+52	0	마리스:4	item_accessory	item_accessory_artifact5_bg	
+53	0	마리스:5	item_accessory	item_accessory_artifact6_bg	
+54	0	벤투스:0	item_accessory	item_accessory_artifact1_bg	
+55	0	벤투스:1	item_accessory	item_accessory_artifact2_bg	
+56	0	벤투스:2	item_accessory	item_accessory_artifact3_bg	
+57	0	벤투스:3	item_accessory	item_accessory_artifact4_bg	
+58	0	벤투스:4	item_accessory	item_accessory_artifact5_bg	
+59	0	벤투스:5	item_accessory	item_accessory_artifact6_bg	
+60	0	루멘:0	item_accessory	item_accessory_artifact1_bg	
+61	0	루멘:1	item_accessory	item_accessory_artifact2_bg	
+62	0	루멘:2	item_accessory	item_accessory_artifact3_bg	
+63	0	루멘:3	item_accessory	item_accessory_artifact4_bg	
+64	0	루멘:4	item_accessory	item_accessory_artifact5_bg	
+65	0	루멘:5	item_accessory	item_accessory_artifact6_bg	
+66	0	옵스큐럼:0	item_accessory	item_accessory_artifact1_bg	
+67	0	옵스큐럼:1	item_accessory	item_accessory_artifact2_bg	
+68	0	옵스큐럼:2	item_accessory	item_accessory_artifact3_bg	
+69	0	옵스큐럼:3	item_accessory	item_accessory_artifact4_bg	
+70	0	옵스큐럼:4	item_accessory	item_accessory_artifact5_bg	
+71	0	옵스큐럼:5	item_accessory	item_accessory_artifact6_bg	
+72	0	테라:0	item_accessory	item_accessory_artifact1_bg	
+73	0	테라:1	item_accessory	item_accessory_artifact2_bg	
+74	0	테라:2	item_accessory	item_accessory_artifact3_bg	
+75	0	테라:3	item_accessory	item_accessory_artifact4_bg	
+76	0	테라:4	item_accessory	item_accessory_artifact5_bg	
+77	0	테라:5	item_accessory	item_accessory_artifact6_bg	
+78	0	크리스마스 별장식	item_accessory	item_accessory_christmas_star_bg	
+79	0	눈사람 인형	item_accessory	item_accessory_christmas_snow_bg	
+80	0	크리스마스 리본	item_accessory	item_accessory_christmas_ribbon_bg	
+81	0	어린이 풍선	item_accessory	item_accessory_children_balloon_bg	
+82	0	장난감 총	item_accessory	item_accessory_children_popgun_bg	
+83	0	곰 인형	item_accessory	item_accessory_children_teddy_bg	

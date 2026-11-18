@@ -1,0 +1,7 @@
+_row	_parent_row	_key	opens	name	tier
+0	0	key	["box"]	#36d0bd41	
+1	0	key_dark	["box_dark"]	#6d6762ff	
+2	0	key_all	["box","box_dark"]	#63132fa7	
+3	0	key_copper	["magicbox"]	#584c9462	copper
+4	0	key_silver	["magicbox"]	#449d98d7	silver
+5	0	key_gold	["magicbox"]	#11e5520b	gold

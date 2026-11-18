@@ -1,0 +1,91 @@
+_row	_parent_row	_key	action	talk_index	talk	text	field	battle	frames	target	target_basis	skip	highlight	cut	press_target	press_basis	gate	gate_basis	gate_wait_talk	gate_wait_text	gate_howto_basis	from	to
+0	0	SN_0_18	name_dragon	18	p18																		
+1	0	SN_0_20		20	p20																		
+2	0	SN_0_26	adventure	26	p26		1	4															
+3	0	SN_0_35		35																			
+4	0	SN_0_41		41	Tutorial_5				["scene/worldmap/ma_btn_cave_image.png"]	cave	#bafa2680	#37a61052											
+5	0	SN_0_42		42	Tutorial_6																		
+6	0	SN_0_45		45	Tutorial_9					dragon_list	#448dbe6c		true										
+7	0	SN_0_48		48	Tutorial_12				["scene/cave/book.png"]	skin	#448dbe6c		true										
+8	0	SN_0_51		51	Tutorial_15				["scene/cave/book.png"]	book	#448dbe6c		true										
+9	0	SN_0_53		53	Tutorial_17				["scene/cave/card.png"]	card	#448dbe6c		true										
+10	0	SN_0_56		56	Tutorial_20				["scene/cave/bag.png"]	bag	#448dbe6c		true										
+11	0	SN_0_58		58	Tutorial_22					slot_item	#448dbe6c		true										
+12	0	SN_0_60		60	Tutorial_24					slot_gem	#448dbe6c		true										
+13	0	SN_0_63		63	Tutorial_27					slot_skill	#448dbe6c		true										
+14	0	SN_0_66		66	Tutorial_30					slot_item	#448dbe6c		true										
+15	0	SN_0_69		69	Tutorial_33																		
+16	0	SN_0_77		77	Tutorial_41				["stand/stand1.png"]	stand	#0818e145	#19cb2adf											
+17	0	SN_0_81		81	Tutorial_45																		
+18	0	SN_0_82	finish	82	Tutorial_46																		
+19	0	SN_0_17_4_reset		17	p17									〃									
+20	0	SN_0_14_1		14	p14				["scene/worldmap/ma_btn_cave_image.png"]	cave	#bafa2680				true	#c14a7711							
+21	0	SN_0_14_2	enter_cave	14	p14																		
+22	0	SN_0_17_1		17	p17				["scene/cave/bag.png"]	bag	#9cf1d6ab		true				hatched_dragon	#aa329b14	["p15","p16"]	#87aebca3	#f073078a		
+23	0	SN_0_17_2		17	p17				["common/element_bg.png"]					#713b4f4f									
+24	0	SN_0_17_3		17	p17									〃									
+25	0	SN_0_17_4		17	p17									〃									
+26	0	SN_0_17_5		17	p17									〃									
+27	0	SN_0_17_6	hatch_confirm	17	p17									#2c7bf7d2									
+28	0	SN_0_17_7		17	p17									〃									
+29	0	SN_0_17_8	dialog	17	p17									〃									
+30	0	SN_0_20_1		20	p20																		
+31	0	SN_0_67_1		67	Tutorial_31				["scene/cave/bag.png"]	bag	#9cf1d6ab												
+32	0	SN_0_67_2		67	Tutorial_31				["common/element_bg.png"]														
+33	0	SN_0_67_3		67	Tutorial_31																		
+34	0	SN_0_67_4		67	Tutorial_31																		
+35	0	SN_0_69_1		69	Tutorial_33																		
+36	0	SN_0_69_2		69	Tutorial_33																		
+37	0	SN_0_69_3		69	Tutorial_33																		
+38	0	SN_0_69_4		69	Tutorial_33																		
+39	0	SN_0_77_1		77	Tutorial_41				["scene/cave/bag.png"]	bag	#9cf1d6ab												
+40	0	SN_0_77_2		77	Tutorial_41																		
+41	0	SN_0_77_3		77	Tutorial_41																		
+42	0	SN_0_77_4	dialog	77	Tutorial_41																		
+43	0	SN_0_0		0	p0																		
+44	0	SN_0_1		1	p1																		
+45	0	SN_0_2		2	p2																		
+46	0	SN_0_3		3	p3																		
+47	0	SN_0_4		4	p4																		
+48	0	SN_0_5		5	p5																		
+49	0	SN_0_6		6	p6																		
+50	0	SN_0_7		7	p7																		
+51	0	SN_0_8		8	p8																		
+52	0	SN_0_9		9	p9																		
+53	0	SN_0_10		10	p10																		
+54	0	SN_0_11		11	p11																		
+55	0	SN_0_12		12	p12																		
+56	0	SN_0_13		13	p13																		
+57	0	SN_0_37		37	Tutorial_1																		
+58	0	SN_0_38		38	Tutorial_2																		
+59	0	SN_0_39		39	Tutorial_3																		
+60	0	SN_0_43		43	Tutorial_7																		
+61	0	SN_0_44		44	Tutorial_8																		
+62	0	SN_0_46		46	Tutorial_10																		
+63	0	SN_0_47		47	Tutorial_11					dragon_list	#448dbe6c		true										
+64	0	SN_0_49		49	Tutorial_13																		
+65	0	SN_0_50		50	Tutorial_14																		
+66	0	SN_0_52		52	Tutorial_16																		
+67	0	SN_0_59		59	Tutorial_23																		
+68	0	SN_0_61		61	Tutorial_25																		
+69	0	SN_0_62		62	Tutorial_26																		
+70	0	SN_0_64		64	Tutorial_28																		
+71	0	SN_0_65		65	Tutorial_29																		
+72	0	SN_0_67		67	Tutorial_31																		
+73	0	SN_0_68		68	Tutorial_32					slot_gem	#448dbe6c		true										
+74	0	SN_0_71		71	Tutorial_35																		
+75	0	SN_0_72		72	Tutorial_36																		
+76	0	SN_0_73		73	Tutorial_37																		
+77	0	SN_0_74		74	Tutorial_38																		
+78	0	SN_0_75		75	Tutorial_39																		
+79	0	SN_0_76		76	Tutorial_40					bag	#448dbe6c		true										
+80	0	CUTSCENE_VILLAGE_1	cutscene																			19	25
+81	0	CUTSCENE_VILLAGE_2	cutscene																			26	33
+82	0	SN_0_40		40	Tutorial_4							#0174a21d											
+83	0	SN_0_54		54	Tutorial_18							#9383d40a											
+84	0	SN_0_55		55	Tutorial_19							#6d957fc0											
+85	0	SN_0_57		57	Tutorial_21							#7cd5b18d											
+86	0	SN_0_70		70	Tutorial_34							#f7f41d56											
+87	0	SN_0_78		78	Tutorial_42							〃											
+88	0	SN_0_79		79	Tutorial_43							〃											
+89	0	SN_0_80		80	Tutorial_44							〃											

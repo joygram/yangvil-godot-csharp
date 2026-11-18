@@ -1,0 +1,21 @@
+{
+  "table": "Combat",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/combat.json",
+    "source_sha256": "a1cb25b9db785b3de964672872d1519a20fff4dbe6cb7686d7a1d8c2c9f4e4c2",
+    "source_row_count": 11
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": [
+    "bad_vs",
+    "categories",
+    "good_vs",
+    "heal_categories",
+    "hits_by_element",
+    "skills"
+  ]
+}

@@ -1,0 +1,5 @@
+_row	_parent_row	_key	axis	mult
+0	0	expx2	exp	2
+1	0	expx4	exp	4
+2	0	goldx2	gold	2
+3	0	goldx4	gold	4

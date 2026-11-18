@@ -1,0 +1,24 @@
+{
+  "table": "CardGame__talk__raid",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/card_game.json",
+    "source_sha256": "d26021b8cda9f472de3172b55bf6e7b89f7533fe7df987d1cd6325d8b916539a",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "CardGame__talk",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "fail",
+    "ready",
+    "success"
+  ]
+}

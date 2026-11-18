@@ -1,0 +1,97 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	bgm	bg_odaron										
+1	0	1	talk		50_1		talk							
+2	0	2	talk		50_2		talk							
+3	0	3	talk		50_3		talk							
+4	0	4	talk		50_4	arnold	talker_in	1	1	2	true			
+5	0	5	talk		50_5		talk							
+6	0	6	talk		50_6		talk							
+7	0	7	talk		50_7		talk							
+8	0	8	talk		50_8	who	talker_in	1	3	1	true			
+9	0	9	talk		50_9		talk							
+10	0	10	talk		50_10	borutus	talker_in	1	3	1	false			
+11	0	11	talk		50_11		talk							
+12	0	12	talk		50_12	arnold	talker_in	1	6	2	false			
+13	0	13	talk		50_13	arnold	talker_in	1	6	2	false			
+14	0	14	talk		50_14	borutus	talker_in	1	3	1	false			
+15	0	15	talk		50_15	arnold	talker_in	1	3	2	false			
+16	0	16	talk		50_16	srorin	talker_in	1	3	3	false			
+17	0	17	talk		50_17	srorin	talker_in	1	3	3	false			
+18	0	18	talk		50_18	borutus	talker_in	1	1	1	false			
+19	0	19	talker_out									1	2	false
+20	0	20	talk		50_19	arnold	talker_in	1	5	2	false			
+21	0	21	talk		50_21		talk							
+22	0	22	talk		50_22	srorin	talker_in	5	5	3	false			
+23	0	23	talk		50_23		talk							
+24	0	24	talk		50_24	srorin	talker_in	5	5	3	false			
+25	0	25	talk		50_25	srorin	talker_in	5	5	3	false			
+26	0	26	talk		50_26	srorin	talker_in	5	3	3	false			
+27	0	27	talk		50_27		talk							
+28	0	28	talk		50_28	srorin	talker_in	1	4	3	false			
+29	0	29	talk		50_29	srorin	talker_in	1	4	3	false			
+30	0	30	talk		50_30	srorin	talker_in	5	5	3	false			
+31	0	31	talk		50_31	srorin	talker_in	1	1	3	false			
+32	0	32	talk		50_32	srorin	talker_in	1	1	3	false			
+33	0	33	talk		50_33		talk							
+34	0	34	bgm	bg_battle_boss										
+35	0	35	talk		50_34	borutus	talker_in	1	3	1	true			
+36	0	36	talk		50_35	srorin	talker_in	1	3	3	false			
+37	0	37	talk		50_36	borutus	talker_in	1	3	1	false			
+38	0	38	talk		50_37	srorin	talker_in	1	3	3	false			
+39	0	39	talk		50_38	srorin	talker_in	5	3	3	false			
+40	0	40	talk		50_39	arnold	talker_in	1	3	2	false			
+41	0	41	talk		50_40		talk							
+42	0	42	talk		50_41	borutus	talker_in	1	1	1	false			
+43	0	43	talker_out									1	2	false
+44	0	44	talk		50_42	arnold	talker_in	1	3	2	false			
+45	0	45	talk		50_43		talk							
+46	0	46	bgm	bg_odaron										
+47	0	47	talk		50_44	arnold	talker_in	1	3	3	true			
+48	0	48	bgm	bg_colosseum_battle_2										
+49	0	49	talk		50_45	arnold	talker_in	1	3	3	false			
+50	0	50	talk		50_46	arnold	talker_in	1	3	3	false			
+51	0	51	talker_out									3	2	false
+52	0	52	bgm	bg_odaron										
+53	0	53	bgm	bg_scenario_specter										
+54	0	54	talk		50_47	arnold	talker_in	1	3	3	true			
+55	0	55	talk		50_48	arnold	talker_in	1	3	3	false			
+56	0	56	talker_out									3	2	false
+57	0	57	talk		50_49		talk							
+58	0	58	talk		50_50	blackrobe	talker_in	1	1	2	true			
+59	0	59	talk		50_51		talk							
+60	0	60	talk		50_52	blackrobe	talker_in	1	1	2	false			
+61	0	61	talk		50_53		talk							
+62	0	62	talk		50_54	blackrobe	talker_in	1	1	2	false			
+63	0	63	talk		50_55	blackrobe	talker_in	1	1	2	false			
+64	0	64	talk		50_56	arnold	talker_in	1	3	3	true			
+65	0	65	talk		50_57	blackrobe	talker_in	1	1	2	false			
+66	0	66	talk		50_58	blackrobe	talker_in	1	1	2	false			
+67	0	67	talker_out									2	1	false
+68	0	68	bgm	bg_odaron										
+69	0	69	talk		50_59	borutus	talker_in	1	3	1	true			
+70	0	70	talk		50_60	arnold	talker_in	1	6	3	false			
+71	0	71	talk		50_61	blackrobe	talker_in	1	1	2	false			
+72	0	72	talker_out									3	2	true
+73	0	73	talker_out									2	1	false
+74	0	74	talk		50_62	srorin	talker_in	1	3	3	true			
+75	0	75	talk		50_63		talk							
+76	0	76	talk		50_64	blackrobe	talker_in	1	1	2	true			
+77	0	77	talk		50_65	blackrobe	talker_in	1	1	2	false			
+78	0	78	talker_out									2	2	true
+79	0	79	talk		50_66	borutus	talker_in	1	3	1	false			
+80	0	80	talk		50_67	srorin	talker_in	1	1	3	false			
+81	0	81	talk		50_68	borutus	talker_in	1	1	1	false			
+82	0	82	talk		50_69	srorin	talker_in	1	3	3	false			
+83	0	83	talk		50_70		talk							
+84	0	84	talker_out									1	2	false
+85	0	85	talker_out									3	2	false
+86	0	86	bgm	bg_odaron										
+87	0	87	talk		50_71	borutus	talker_in	1	3	1	true			
+88	0	88	bgm	bg_metal_tower										
+89	0	89	talk		50_72	srorin	talker_in	1	3	3	true			
+90	0	90	talk		50_73	borutus	talker_in	1	1	1	false			
+91	0	91	talk		50_74	dogi	talker_in	1	3	2	true			
+92	0	92	talk		50_75	srorin	talker_in	1	1	3	false			
+93	0	93	talk		50_76	dogi	talker_in	1	1	2	false			
+94	0	94	talk		50_77	dogi	talker_in	1	1	2	false			
+95	0	95	talk		50_78		talk							

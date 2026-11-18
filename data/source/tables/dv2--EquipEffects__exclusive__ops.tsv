@@ -1,0 +1,46 @@
+_row	_parent_row	_idx	kind	stat	mode	value	pct	from	to	element	flag	skill_id	per	max
+0	0	0	stat	depure	flat	50								
+1	1	0	stat	pure	flat	50								
+2	2	0	stat	depure	flat	40								
+3	3	0	stat	cri_pow	flat	150								
+4	4	0	dmg_deal				30							
+5	5	0	stat	hp	pct	-10								
+6	5	1	stat	att	pct	30								
+7	5	2	stat	def	pct	30								
+8	6	0	stat	hp	pct			{"stat":"cri","ratio":1.0}						
+9	7	0	skill_uses			2								
+10	8	0	skill_uses			2								
+11	9	0	skill_uses			2								
+12	10	0	skill_uses			2								
+13	11	0	dmg_cap_pct				30							
+14	11	1	dmg_deal				10		ally					
+15	12	0	dmg_cap_pct				30							
+16	13	0	dmg_taken_flat			20								
+17	14	0	dmg_deal_vs_element				50			fire				
+18	15	0	dmg_deal_vs_element				50			aqua				
+19	16	0	dmg_deal_vs_element				100			holy				
+20	16	1	dmg_deal_vs_element				100			light				
+21	23	0	flag								survive_once			
+22	51	0	skill_dmg_deal				200					21		
+23	58	0	dmg_taken_flat					{"stat":"skill_level_sum","ratio":4.0}						
+24	62	0	flag								crit_ignores_evade			
+25	64	0	stat	def	pct	50								
+26	67	0	flag								no_attack			
+27	68	0	awaken_dmg				20						ally_element:earth	60
+28	70	0	awaken_dmg				30							
+29	77	0	stat	att	pct			{"stat":"explore_gold_pct","ratio":1.0}						
+30	78	0	pen_share											
+31	79	0	crit_pen				50							
+32	80	0	flag								crit_sure_if_no_evade			
+33	81	0	double_dmg				50							
+34	91	0	skill_dmg_deal					{"stat":"cri","ratio":1.0}						
+35	92	0	stat	hp	pct			{"stat":"blk","ratio":1.0}	ally_element:aqua					30
+36	93	0	dmg_deal				10		ally_element:aqua					
+37	94	0	stat	evd	flat	33								
+38	94	1	dmg_taken_flat					{"stat":"skill_level_sum","ratio":4.0}						
+39	94	2	dmg_deal				30		ally					
+40	95	0	stat	cri	flat	75								
+41	95	1	stat	evd	flat	25								
+42	95	2	skill_uses			2								
+43	95	3	crit_pen				50							
+44	96	0	flag								no_attack			

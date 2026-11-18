@@ -1,0 +1,22 @@
+{
+  "table": "CombineEgg__recipes",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/combine_egg.json",
+    "source_sha256": "caeb797444980ebf1996d20fc960baa57200199d86db51e97ac9e43ca1fed696",
+    "source_row_count": 6
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "CombineEgg",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "materials"
+  ]
+}

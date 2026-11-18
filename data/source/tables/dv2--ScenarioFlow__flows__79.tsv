@@ -1,0 +1,25 @@
+_row	_parent_row	_idx	op	bg	track	npc	state	pos	emoticon	talker	n	b1	illust	kind
+0	0	0	bg	4										
+1	0	1	bgm		bg_town									
+2	0	2	npc_talk			7	1	3	8					
+3	0	3	user_talk											
+4	0	4	talker_out							3	2	false		
+5	0	5	illust										79	1
+6	0	6	sfx		effect_walk									
+7	0	7	user_talk											
+8	0	8	npc_talk			7	3	3	5					
+9	0	9	npc_talk			7	1	3	0					
+10	0	10	talker_out							3	2	false		
+11	0	11	sfx		effect_walk									
+12	0	12	user_talk											
+13	0	13	user_talk											
+14	0	14	bgm		bg_town									
+15	0	15	user_talk											
+16	0	16	user_talk											
+17	0	17	user_talk											
+18	0	18	user_talk											
+19	0	19	bgm		bg_town									
+20	0	20	npc_talk			7	4	3	5					
+21	0	21	user_talk											
+22	0	22	npc_talk			7	4	3	8					
+23	0	23	user_talk											

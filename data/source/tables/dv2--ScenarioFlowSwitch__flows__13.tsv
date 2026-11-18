@@ -1,0 +1,18 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter
+0	0	0	bgm	bg_shop							
+1	0	1	talk		13_1	pino	talker_in	1	2	3	true
+2	0	2	talk		13_2	pino	talker_in	1	2	3	false
+3	0	3	talk		13_3		talk				
+4	0	4	talk		13_4	pino	talker_in	1	1	3	false
+5	0	5	talk		13_5	pino	talker_in	1	2	3	false
+6	0	6	talk		13_6	pino	talker_in	1	1	3	false
+7	0	7	talk		13_7	pino	talker_in	1	2	3	false
+8	0	8	talk		13_8		talk				
+9	0	9	talk		13_9	pino	talker_in	1	2	3	false
+10	0	10	talk		13_10		talk				
+11	0	11	talk		13_11	pino	talker_in	1	1	3	false
+12	0	12	talk		13_12	pino	talker_in	1	2	3	false
+13	0	13	talk		13_13		talk				
+14	0	14	talk		13_14	pino	talker_in	1	1	3	false
+15	0	15	talk		13_15	pino	talker_reorder				
+16	0	16	talk		13_16	pino	talker_in	1	2	3	false

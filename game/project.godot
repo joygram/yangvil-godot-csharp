@@ -1,0 +1,42 @@
+; 냥빌 — godot-enhanced 4.7 .NET (YangVil Unity 판 이식)
+config_version=5
+
+[application]
+
+config/name="냥빌"
+run/main_scene="res://scenes/boot.tscn"
+config/features=PackedStringArray("4.7", "C#")
+
+[display]
+
+window/size/viewport_width=540
+window/size/viewport_height=960
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/handheld/orientation=1
+
+[dotnet]
+
+project/assembly_name="YangVil"
+
+[gui]
+
+theme/custom_font="res://assets/third_party/galmuri/Galmuri11.ttf"
+
+[importer_defaults]
+
+texture={
+"compress/mode": 1,
+"compress/lossy_quality": 0.85,
+"mipmaps/generate": false
+}
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=false
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/canvas_textures/default_texture_filter=1

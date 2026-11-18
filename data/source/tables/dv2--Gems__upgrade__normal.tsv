@@ -1,0 +1,2 @@
+_row	_parent_row	gold_per_tier	rate
+0	0	500	{"base":35.0,"target_step":2.5,"mat_step":1.0,"divisor":25.0,"floor_pct":5}

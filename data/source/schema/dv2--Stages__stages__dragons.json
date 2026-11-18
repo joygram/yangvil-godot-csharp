@@ -1,0 +1,20 @@
+{
+  "table": "Stages__stages__dragons",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/stages.json",
+    "source_sha256": "866cfda6e5e621a4efa4bc1019f50388e47c1251049a56fa490f147c8492e237",
+    "source_row_count": 82
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Stages__stages",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

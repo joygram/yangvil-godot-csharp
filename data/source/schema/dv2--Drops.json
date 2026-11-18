@@ -1,0 +1,43 @@
+{
+  "table": "Drops",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/drops.json",
+    "source_sha256": "e1d4bf9e3c358efe32e9f8b87342f3be6c0e82760842eac4963260f30d04958f",
+    "source_row_count": 14
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": [
+    "artifact_by_dungeon",
+    "artifact_chance",
+    "artifact_grade",
+    "artifact_types",
+    "chance",
+    "count",
+    "dia_pack",
+    "equip",
+    "equip_grade",
+    "equip_grades",
+    "equip_kinds",
+    "equip_price",
+    "exp",
+    "gem",
+    "gem_pool",
+    "gem_price",
+    "gem_tier",
+    "gem_tiers",
+    "gold",
+    "gold_pack",
+    "hero_chance",
+    "items",
+    "jem_random",
+    "kind_weights",
+    "modes",
+    "sources",
+    "tiers",
+    "weights"
+  ]
+}

@@ -1,0 +1,6 @@
+_row	_parent_row	_key	0	2	3	4
+0	0	drop	70	20	8	2
+1	0	shop_gold	100			
+2	0	shop_gacha		60	30	10
+3	0	shop_gacha_special		30	40	30
+4	0	imp_shop	40	30	20	10

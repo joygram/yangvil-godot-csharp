@@ -1,0 +1,7 @@
+_row	_parent_row	_idx	id	key	name	min_rating	icon_fallback
+0	0	0	0	bronze	BRONZE	0	
+1	0	1	1	silver	SILVER	2000	
+2	0	2	2	gold	GOLD	3000	
+3	0	3	3	platinum	PLATINUM	4000	
+4	0	4	4	diamond	DIAMOND	5000	platinum
+5	0	5	5	master	MASTER	6000	

@@ -1,0 +1,2 @@
+_row	_parent_row	success_pct	essence_per_craft	base_item	families	max_tier
+0	0	100	3	drink	["att","def","hp","cri","miss","prodef"]	3

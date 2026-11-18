@@ -1,0 +1,12 @@
+_row	_key	model	attack_scale	stat_pivot	attack_exponent	defense_exponent	guard_exponent	crit_mult	rand_min	rand_max	block_reduction	prob_cap	crit_cap	pure_cap	crit_hits	damage_mult	ignore_evade	ignore_block	charge_per_turn	charge_per_hit	hits_by_element	good_mult	bad_mult	neutral_mult	good_vs	bad_vs	base_pct	low_hp_pct	categories	power_pct	heal_use_bonus	level_bonus	heal_categories	threshold_pct	skills	30	55
+0	damage	measured_defense_saturation	0.9489	127.9008	1.0	1.2	0.48	1.5	0.95	1.05																											
+1	judge										0.5	70	80	100	2																						
+2	awaken															2.0	true	true	2.5	2.5	{"aqua":{"hits":11,"steps":[{"n":10,"flat":1,"min_total":51}]},"chaos":{"hits":1,"steps":[]},"dark":{"hits":16,"steps":[{"n":15,"div":30,"jitter":60,"min_total":30}]},"earth":{"hits":6,"steps":[{"n":4,"div":10,"jitter":20,"min_total":10},{"n":1,"div":5,"jitter":10,"min_total":5}]},"fire":{"hits":20,"steps":[{"n":19,"div":20}]},"holy":{"hits":3,"steps":[{"n":2,"div":3}]},"light":{"hits":31,"steps":[{"n":1,"flat":1,"min_total":11},{"n":29,"div":31,"jitter":60,"min_total":31}]},"wind":{"hits":46,"steps":[{"n":1,"flat":1,"min_total":11},{"n":44,"div":46,"jitter":90,"min_total":46}]},"shadow":{"hits":6,"steps":[{"n":4,"div":10,"jitter":20,"min_total":10},{"n":1,"div":5,"jitter":10,"min_total":5}]}}																
+3	double																																				
+4	element																					1.25	0.85	1.0	{"aqua":["fire"],"fire":["wind"],"wind":["earth"],"earth":["aqua"],"light":["dark"],"dark":["aqua","earth","fire","wind"],"holy":["aqua","earth","fire","wind","light","dark","chaos"],"chaos":["aqua","earth","fire","wind","light","dark","holy"],"shadow":[]}	{"aqua":["earth"],"fire":["aqua"],"wind":["fire"],"earth":["wind"],"light":["aqua","earth","fire","wind"],"dark":["light"],"holy":[],"chaos":[],"shadow":[]}											
+5	skill_proc																										20.0	66.0									
+6	free_cast																												["buff","debuff"]								
+7	skill_slot_match																													15	1	1	["heal","cleanse"]				
+8	skill_hp_gate																																	50	[25,29,30,36]		
+9	skill_damage_cap_pct																																			70	
+10	skill_damage_cap_flat																																				2000

@@ -1,0 +1,14 @@
+{
+  "table": "DexMeta",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/dex_meta.json",
+    "source_sha256": "fbabfa67b3f3e18fe97652f08a3987aef76205ec283da1beaf5da15eadfe7d58",
+    "source_row_count": 372
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

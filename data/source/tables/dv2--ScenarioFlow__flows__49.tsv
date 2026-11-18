@@ -1,0 +1,35 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	bgm	bg_auction										
+1	0	1	talk		49_1	arnold	talker_in	1	1	2	true			
+2	0	2	talk		49_2	arnold	talker_in	1	1	2	false			
+3	0	3	talk		49_3	arnold	talker_in	1	5	2	false			
+4	0	4	talk		49_4	arnold	talker_in	1	5	2	false			
+5	0	5	talk		49_5		talk							
+6	0	6	talk		49_6	arnold	talker_in	1	5	2	false			
+7	0	7	talk		49_7		talk							
+8	0	8	talk		49_8	arnold	talker_in	1	5	2	false			
+9	0	9	talk		49_9	arnold	talker_in	1	7	2	false			
+10	0	10	talk		49_10	arnold	talker_in	1	3	2	false			
+11	0	11	talk		49_11	arnold	talker_in	1	5	2	false			
+12	0	12	talk		49_12	arnold	talker_in	1	2	2	false			
+13	0	13	talk		49_13		talk							
+14	0	14	talker_out									2	2	false
+15	0	15	talk		49_14	arnold	talker_in	1	1	3	true			
+16	0	16	bgm	bg_auction										
+17	0	17	talk		49_15	arnold	talker_in	1	3	3	false			
+18	0	18	talk		49_16	arnold	talker_in	1	1	3	false			
+19	0	19	talk		49_17	arnold	talker_in	1	2	3	false			
+20	0	20	talker_out									3	2	false
+21	0	21	bgm	bg_scenario_specter										
+22	0	22	talk		49_18		talk							
+23	0	23	bgm	bg_scenario_specter										
+24	0	24	talk		49_19	arnold	talker_in	1	5	3	true			
+25	0	25	talker_out									3	2	false
+26	0	26	bgm	bg_scenario_specter										
+27	0	27	talk		49_20		talk							
+28	0	28	talk		49_21	arnold	talker_in	1	5	3	true			
+29	0	29	talker_out									3	2	false
+30	0	30	bgm	bg_auction										
+31	0	31	talk		49_22	arnold	talker_in	1	1	3	true			
+32	0	32	talk		49_23		talk							
+33	0	33	talk		49_24	arnold	talker_in	1	2	3	false			

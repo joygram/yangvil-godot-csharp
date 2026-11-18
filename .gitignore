@@ -1,0 +1,12 @@
+/game/.godot/
+/game/bin/
+/game/obj/
+/[Bb]uilds/
+/.wrangler/
+.vs/
+.vscode/
+*.suo
+*.user
+*.pdb
+*.apk
+*.aab

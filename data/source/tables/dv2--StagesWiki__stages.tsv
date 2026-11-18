@@ -1,0 +1,40 @@
+_row	_parent_row	_idx	region	name	level	phase	monsters	boss
+0	0	0	yutakan	#df1f3303	1	day	["#43944140","#f4e5c2d9","#fcacd4f9","#1e4950d4","#8f155a19"]	#8f155a19
+1	0	1	yutakan	#47e22ec2	5	day	["#d47c09a5","#10777429","#d76fbffc","#955eab42","#45fbe17c"]	#45fbe17c
+2	0	2	yutakan	#6e6dd496	10	day	["#c3a496b1","#5c2e77a5","#2a27c6c5","#e10b984e","#084c5e12"]	#084c5e12
+3	0	3	yutakan	#f3c1fcd7	15	day	["#a6adef34","#0b231031","#c70ab792","#e30d8ec6","#973ec08e"]	#973ec08e
+4	0	4	yutakan	#aa185ae3	20	day	["#d20bc3c4","#6b923f0b","#f631ddaf","#76dec74b","#f7bee648"]	#f7bee648
+5	0	5	yutakan	#f5355ac9	25	day	["#bc5f5d95","#4d387153","#789193d5","#9e685270","#1b50f919"]	#1b50f919
+6	0	6	yutakan	#fc2d24cd	30	day	["#c7d60d30","#a96a4559","#05df082e","#94bfd4ef","#40efaaa8"]	#40efaaa8
+7	0	7	yutakan	#e87e6d0f	33	day	["#9f9707d3","#bbdcc6e3","#a13bfe7f","#c446ec85","#456f7aa4","#898ce388"]	#898ce388
+8	0	8	yutakan	#754efc23	36	day	["#370d4d82","#856ad419","#f1b53152","#1b32ecc7","#516dc282","#04f9b06b"]	#04f9b06b
+9	0	9	yutakan	#c8575920	38	day	["#0f09601e","#0c5ebee9","#3cdd741e","#a9a80ea3","#aee154c0"]	#aee154c0
+10	0	10	yutakan	#a5e60872	40	day	["#fbb6c95d","#6f0e7641","#ab8fc786","#5cce4fc1","#0b6df8aa"]	#0b6df8aa
+11	0	11	yutakan	#bd8bc787	42	day	["#34543bf8","#5ba25660","#6afc06b0","#182816f4","#a3bbb9ef"]	#a3bbb9ef
+12	0	12	yutakan	#317c71af	45	day	["#ddc213c0","#732fb68e","#66cd2e1e","#0ba7015a","#86836494","#cda22f32"]	#cda22f32
+13	0	13	yutakan	#cb197b33		day	["#2e9c5b64","#c8416a52","#ed2ae59d","#ba21129a","#dcdfb712"]	#dcdfb712
+14	0	14	yutakan	#f2d33da5		day	["#bce27801","#3869fbbd","#0ef1b9c0"]	#0ef1b9c0
+15	0	15	yutakan	#5706f152		night	["#fc37f8b1","#178f4710","#d19ee1db"]	#d19ee1db
+16	0	16	yutakan	#df1f3303	50	night	["#98c03092"]	#98c03092
+17	0	17	yutakan	#47e22ec2	50	night	["#42d0ccb8"]	#42d0ccb8
+18	0	18	yutakan	#38894d60	50	night	["#97393b0e"]	#97393b0e
+19	0	19	yutakan	#f3c1fcd7	50	night	["#5949dc8c"]	#5949dc8c
+20	0	20	yutakan	#aa185ae3	50	night	["#a3c58969"]	#a3c58969
+21	0	21	yutakan	#f5355ac9	50	night	["#07666dfa"]	#07666dfa
+22	0	22	yutakan	#fc2d24cd	50	night	["#4ef197dd"]	#4ef197dd
+23	0	23	yutakan	#e87e6d0f	50	night	["#9a1b1553"]	#9a1b1553
+24	0	24	yutakan	#754efc23	50	night	["#68a17ef4"]	#68a17ef4
+25	0	25	yutakan	#c8575920	50	night	["#cec8e766"]	#cec8e766
+26	0	26	yutakan	#a5e60872	50	night	["#803453e0"]	#803453e0
+27	0	27	yutakan	#bd8bc787	50	night	["#7d9c7fb4"]	#7d9c7fb4
+28	0	28	yutakan	#44650a96		night	["#86bd9bee"]	#86bd9bee
+29	0	29	dwarf	#9d784e02	25	day	["#89c90e2d","#266eaa52","#3e4fbeae","#9f0ed877","#d08833c6"]	#d08833c6
+30	0	30	dwarf	#3c5047c6	30	day	["#4380079d","#9fb2a8f4","#16841b75","#6b0b84a0","#bddf2098"]	#bddf2098
+31	0	31	dwarf	#55100696	35	day	["#a6a1872c","#cf8fdcca","#473f7c39","#4703a55d","#d541dfbc"]	#d541dfbc
+32	0	32	dwarf	#306ac99a	45	day	["#a37782ef","#193e030f","#9995a257","#ca9bdc76","#691f2c0b"]	#691f2c0b
+33	0	33	dwarf	#b97c13ff		day	["#b97c13ff"]	#b97c13ff
+34	0	34	elf	#7adde1de	25	day	["#5fd94eae","#e626cb46","#7600ba6d","#1c4598fa","#1c79c2ec"]	#1c79c2ec
+35	0	35	elf	#dff8d9a9	30	day	["#ad611c44","#9aecfb72","#5af251c8","#4d13f414","#24b3f1a8"]	#24b3f1a8
+36	0	36	elf	#35b47280	35	day	["#7a5c7ba1","#cd2f0572","#465f7fa0","#9d0d260a","#7e8de9d4"]	#7e8de9d4
+37	0	37	elf	#71883df3	45	day	["#53a9b98d","#152d4361","#607cb5eb","#bb7b13a7","#52accb4e"]	#52accb4e
+38	0	38	uno	#25eaeb97	50	day	["#30b24f88","#1a4bc2e6","#6bf51b71","#0a4187d7","#203889af"]	#203889af

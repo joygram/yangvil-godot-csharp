@@ -1,0 +1,40 @@
+_row	_key	id	name	slot	active	category	target	number_limit	number_limit_raw	effect_text	desc	notes	usable	max_level
+0	10	10	#0a981102		true							#632f9846	false	5
+1	11	11	#11e04bba	tri	true	defense	self	3	3				true	5
+2	12	12	#d3bef3ca	sq	true	defense	self	5	5				true	5
+3	13	13	#6ca3a9b4	cir	true	defense	single	3	3				true	5
+4	14	14	#69038aaa	cir	true	buff	self	3	3				true	5
+5	15	15	#0147be21	tri	true	debuff	single		#5244c856				true	5
+6	20	20	#4345d40f	tri	true	defense	self	3	3				true	5
+7	21	21	#b9e4800f	cir	true	attack	single	2	2				true	5
+8	22	22	#69b282ec	tri	true	debuff	single	3	3				true	5
+9	23	23	#bc1afe3c	sq	true	debuff	single		#5244c856				true	5
+10	24	24	#aa677f3d	sq	true	buff	self	3	3				true	5
+11	25	25	#2bb02ec9	cir	true	buff	self	3	3				true	5
+12	26	26	#cad12ed3	tri	true	cleanse	ally_all	3	3				true	5
+13	28	28	#392e58a3	cir	true	defense	self	3	3				true	5
+14	29	29	#2c19cd00	cir	true	heal	ally_all	3	3				true	5
+15	30	30	#2c3e72c8	tri	true	attack	single	3	3				true	5
+16	31	31	#880a11f2	sq	true	buff	self		#5244c856				true	5
+17	32	32	#cf4094e4	cir	true	debuff	single		#804772ac				true	5
+18	36	36	#9207b1cb	tri	true	attack	single	3	3			#fb15b463	true	5
+19	38	38	#123b9ee2	cir	true	buff	self	3	3				true	5
+20	46	46	#f8c7f1d7	sq	true	debuff	single	3	3				true	5
+21	50	50	#13c99189	tri	true	buff	self	3	3				true	5
+22	53	53	#1f5dca53	sq	true	attack	single	1	1				true	5
+23	54	54	#2a82b0e2	cir	true	attack	single	3	3				true	5
+24	55	55	#f8da8a5b	tri	true	attack	single	3	3				true	5
+25	56	56	#b5313763	sq	true	interrupt	single	3	3			#756d09be	true	5
+26	57	57	#2bf78f28	sq	true	buff	self	3	3				true	5
+27	60	60	#cd0326ab	sq	true	buff	self	3	3				true	5
+28	70	70	#eaf110f8	cir	true	buff	self	3	3				true	5
+29	80	80	#6f9e8ece	sq	true	buff	self	3	3				true	5
+30	90	90	#cba0f1d0	cir	false	buff	self		n/a				true	5
+31	100	100	#f187a28a	cir	false	buff	self		n/a				true	5
+32	110	110	#317ffd35	sq	false	buff	self		n/a				true	5
+33	120	120	#62d71b10	tri	true	debuff	enemy_all	3	3				true	5
+34	130	130	#a7f05c3e	sq	true	debuff	enemy_all	3	3				true	5
+35	140	140	#c54bbf7c	tri	true	debuff	enemy_all	3	3				true	5
+36	150	150	#50cc2492	tri	true	debuff	enemy_all	3	3				true	5
+37	160	160	#9d317a17	cir	true	debuff	enemy_all	3	3				true	5
+38	170	170	#80d97aee	sq	true	debuff	enemy_all	3	3				true	5

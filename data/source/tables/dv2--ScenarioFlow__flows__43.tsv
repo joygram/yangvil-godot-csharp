@@ -1,0 +1,94 @@
+_row	_parent_row	_idx	op	talker	n	b1	track	key	npc_name	via	body	state	pos	enter	frame	_recovered	illust	kind
+0	0	0	talker_out	1	2	false												
+1	0	1	talker_out	2	2	false												
+2	0	2	talker_out	1	1	false												
+3	0	3	bgm				bg_4											
+4	0	4	talk					43_1	nuri	talker_in	1	5	2	true				
+5	0	5	talk					43_2	jimon	talker_in	1	5	1	true				
+6	0	6	talk					43_3	nuri	talker_in	1	3	2	false				
+7	0	7	talk					43_4	jimon	talker_reorder								
+8	0	8	talk					43_5	nuri	talker_in	2	2	2	false				
+9	0	9	talk					43_6	jimon	talker_in	1	5	1	false				
+10	0	10	talk					43_7		talk								
+11	0	11	talk					43_8	nuri	talker_reorder								
+12	0	12	talk					43_9	jimon	talker_in	1	5	1	false				
+13	0	13	talk					43_10	nuri	talker_in	1	3	2	false				
+14	0	14	talk					43_11	jimon	talker_in	2	2	1	false				
+15	0	15	talk					43_12	nuri	talker_reorder								
+16	0	16	talk					43_13		talk								
+17	0	17	talker_out	1	2	false												
+18	0	18	talker_out	2	2	false												
+19	0	19	talk					43_18		talk								
+20	0	20	talk					43_14		talk								
+21	0	21	talk					43_15		talk								
+22	0	22	talk					43_16		talk								
+23	0	23	talk					43_17		talk								
+24	0	24	cut												scenario_main_story_sn_43_1			
+25	0	25	talk					43_19		talk								
+26	0	26	talk					43_20		talk								
+27	0	27	talk					43_21		talk								
+28	0	28	talk					43_22		talk								
+29	0	29	talk					43_23		talk								
+30	0	30	talk					43_24		talk								
+31	0	31	talk					43_25								literal		
+32	0	32	talk					43_26		talk								
+33	0	33	talk					43_27		talk								
+34	0	34	illust														43	2
+35	0	35	illust														43	1
+36	0	36	talk					43_28		talk								
+37	0	37	bgm				bg_4											
+38	0	38	talk					43_29	nuri	talker_in	1	4	2	true				
+39	0	39	talk					43_30	jimon	talker_in	3	7	1	true				
+40	0	40	talk					43_31	nuri	talker_in	1	3	2	false				
+41	0	41	talk					43_32	jimon	talker_in	1	6	1	false				
+42	0	42	talk					43_33		talk								
+43	0	43	talk					43_34		talk								
+44	0	44	talk					43_35	nuri	talker_in	1	6	2	false				
+45	0	45	talk					43_36	jimon	talker_in	1	5	1	false				
+46	0	46	talk					43_37		talk								
+47	0	47	talk					43_38	jimon	talker_in	1	6	1	false				
+48	0	48	talk					43_39	jimon	talker_reorder								
+49	0	49	talk					43_40	nuri	talker_in	2	2	2	false				
+50	0	50	talk					43_41	nuri	talker_reorder								
+51	0	51	talk					43_42	nuri	talker_reorder								
+52	0	52	talker_out	1	2	false												
+53	0	53	talker_out	2	2	false												
+54	0	54	sfx				effect_walk											
+55	0	55	bgm				bg_auction											
+56	0	56	talk					43_43	nuri	talker_in	2	2	2	true				
+57	0	57	talk					43_44	jimon	talker_in	1	1	1	true				
+58	0	58	talk					43_45	nuri	talker_in	1	1	2	false				
+59	0	59	talk					43_46	randolph	talker_in	1	1	3	true				
+60	0	60	talk					43_47		talk								
+61	0	61	talk					43_48	randolph	talker_in	1	1	3	false				
+62	0	62	talk					43_49	nuri	talker_in	1	7	2	false				
+63	0	63	talk					43_50	jimon	talker_in	1	7	1	false				
+64	0	64	talk					43_51	randolph	talker_in	1	1	3	false				
+65	0	65	talk					43_52	randolph	talker_in	1	3	3	false				
+66	0	66	talk					43_53	nuri	talker_in	1	3	2	false				
+67	0	67	talk					43_54	randolph	talker_in	1	2	3	false				
+68	0	68	talk					43_55	nuri	talker_in	1	3	2	false				
+69	0	69	talk					43_56	randolph	talker_in	1	1	3	false				
+70	0	70	talk					43_57	jimon	talker_in	1	7	1	false				
+71	0	71	talk					43_58		talk								
+72	0	72	talk					43_59	randolph	talker_in	1	2	3	false				
+73	0	73	talker_out	1	2	false												
+74	0	74	talker_out	2	2	false												
+75	0	75	talker_out	3	2	false												
+76	0	76	sfx				effect_walk											
+77	0	77	sfx				effect_headbutt											
+78	0	78	bgm				bg_auction											
+79	0	79	talk					43_60	nuri	talker_in	1	1	2	true				
+80	0	80	talk					43_61	randolph	talker_in	1	2	3	true				
+81	0	81	talk					43_62	randolph	talker_in	1	1	3	false				
+82	0	82	talk					43_63	randolph	talker_in	1	2	3	false				
+83	0	83	talker_out	3	2	true												
+84	0	84	sfx				effect_walk											
+85	0	85	sfx				effect_headbutt											
+86	0	86	talker_out	1	1	false												
+87	0	87	talker_out	2	1	false												
+88	0	88	talk					43_64	jimon	talker_in	1	1	1	true				
+89	0	89	talk					43_65	nuri	talker_in	1	5	2	false				
+90	0	90	talker_out	1	2	false												
+91	0	91	talker_out	2	2	false												
+92	0	92	talker_out	1	1	false												

@@ -1,0 +1,72 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	pos	state	emoticon	enter	costar	costar_pos	talker	n	b1	illust	kind	npc_name_guess
+0	0	0	bgm	bg_auction															
+1	0	1	talk		78_1		play	2	1	5	true								
+2	0	2	talk		78_2		play	1	2	4	true	true	2						
+3	0	3	talker_out											1	2	false			
+4	0	4	talker_out											2	2	false			
+5	0	5	bgm	bg_15															
+6	0	6	talk		78_3		talk												
+7	0	7	talk		78_4		play	2	6	5	true								
+8	0	8	talk		78_5		play	1	3	5	true	true	2						
+9	0	9	talk		78_6		talk												
+10	0	10	talk		78_7		talk												
+11	0	11	talk		78_8		play	2	6		false	true	1						
+12	0	12	talk		78_9		play	1	5	8	false	true	2						
+13	0	13	talker_out											2	2	false			
+14	0	14	talker_out											1	2	false			
+15	0	15	talker_out											2	2	false			
+16	0	16	talker_out											1	2	false			
+17	0	17	talker_out											2	2	false			
+18	0	18	talker_out											1	2	false			
+19	0	19	talk		78_22		play	2	6	3	true								
+20	0	20	talk		78_10		talk												
+21	0	21	talk		78_11		play	2	6	8	true								
+22	0	22	talk		78_12		play	1	6	5	true	true	2						
+23	0	23	talker_out											1	2	false			
+24	0	24	talker_out											2	2	false			
+25	0	25	bgm	bg_magicshop															
+26	0	26	talk		78_13		play	3	1	5	true								
+27	0	27	talk		78_14		play	2	6	3	true	true	3						
+28	0	28	talk		78_15		play	1	5	1	true	true	2						
+29	0	29	talk		78_16		play	3	1	8	false	true	1						
+30	0	30	talk		78_17		play	3	1	5	false								
+31	0	31	talk		78_18		talk												
+32	0	32	talk		78_19		play	3	2		false								
+33	0	33	talk		78_20		talk												
+34	0	34	talk		78_21		talk												
+35	0	35	talker_out											3	2	false			
+36	0	36	talker_out											2	2	false			
+37	0	37	talker_out											1	2	false			
+38	0	38	illust														78	1	
+39	0	39	talk		78_23		play	3	5		true	true	2						
+40	0	40	talk		78_24		play	1	6	8	true	true	3						
+41	0	41	talk		78_25		talk												
+42	0	42	talk		78_26		play	2	6	1	false	true	1						
+43	0	43	talk		78_27		play	1	6	8	false	true	2						
+44	0	44	talker_out											3	2	false			
+45	0	45	talker_out											2	2	false			
+46	0	46	talker_out											1	2	false			
+47	0	47	talk		78_28		play	2	1	4	true								
+48	0	48	talk		78_29		play	1	2	4	true	true	2						
+49	0	49	talk		78_30		play	3	2		true	true	1						
+50	0	50	talk		78_31		play	3	2	1	false								
+51	0	51	talk		78_32		play	3	2	8	false								
+52	0	52	talk		78_33		play	3	2		false								
+53	0	53	talk		78_34		play	2	3	8	false	true	3						
+54	0	54	talk		78_35		play	1	3	8	false	true	2						
+55	0	55	talk		78_36		talk												
+56	0	56	talker_out											3	2	false			
+57	0	57	talker_out											2	2	false			
+58	0	58	talker_out											1	2	false			
+59	0	59	talk		78_37		play	3	1	4	true								baruseu
+60	0	60	talk		78_38		talk												
+61	0	61	talk		78_39		play	3	1	8	false								baruseu
+62	0	62	talk		78_40		play	3	1	1	false								baruseu
+63	0	63	talk		78_41		play	3	1	1	false								baruseu
+64	0	64	talker_out											3	2	false			
+65	0	65	talk		78_42		talk												
+66	0	66	talk		78_43		talk												
+67	0	67	talker_out											1	2	false			
+68	0	68	talker_out											2	2	false			
+69	0	69	talker_out											1	2	false			
+70	0	70	talker_out											2	2	false			

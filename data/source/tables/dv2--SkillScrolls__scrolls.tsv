@@ -1,0 +1,13 @@
+_row	_parent_row	_key	levels	select
+0	0	scroll_n1	[1]	false
+1	0	scroll_n2	[2]	false
+2	0	scroll_n3	[3]	false
+3	0	scroll_n4	[4]	false
+4	0	scroll_n5	[5]	false
+5	0	scroll_silver	[1,2,3]	false
+6	0	scroll_gold	[2,3,4]	false
+7	0	s_skillbook1	[1]	true
+8	0	s_skillbook2	[2]	true
+9	0	s_skillbook3	[3]	true
+10	0	s_skillbook4	[4]	true
+11	0	s_skillbook5	[5]	true

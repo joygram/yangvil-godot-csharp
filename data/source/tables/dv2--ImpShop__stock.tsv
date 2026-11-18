@@ -1,0 +1,25 @@
+_row	_parent_row	_idx	key	name	kind	grade	currency	price
+0	0	0	basic:묘안석:0	#d3defdb5	#37b8235f	0	jewel_amethyst	12
+1	0	1	basic:묘안석:1	#418f6378	#37b8235f	1	jewel_amethyst	30
+2	0	2	basic:묘안석:2	#37b8235f	#37b8235f	2	jewel_emerald	20
+3	0	3	basic:묘안석:3	#6880ced0	#37b8235f	3	jewel_emerald	45
+4	0	4	basic:묘안석:4	#ab9245c4	#37b8235f	4	jewel_ruby	30
+5	0	5	basic:묘안석:5	#7446747e	#37b8235f	5	jewel_sapphire	25
+6	0	6	basic:흑요석:0	#5b13ca27	#a6eb559c	0	jewel_amethyst	12
+7	0	7	basic:흑요석:1	#0f0847e4	#a6eb559c	1	jewel_amethyst	30
+8	0	8	basic:흑요석:2	#a6eb559c	#a6eb559c	2	jewel_emerald	20
+9	0	9	basic:흑요석:3	#254fbc19	#a6eb559c	3	jewel_emerald	45
+10	0	10	basic:흑요석:4	#2555bc85	#a6eb559c	4	jewel_ruby	30
+11	0	11	basic:흑요석:5	#ee3b6133	#a6eb559c	5	jewel_sapphire	25
+12	0	12	basic:백금석:0	#79a45ba4	#faca7a18	0	jewel_amethyst	12
+13	0	13	basic:백금석:1	#d3b6a0ff	#faca7a18	1	jewel_amethyst	30
+14	0	14	basic:백금석:2	#faca7a18	#faca7a18	2	jewel_emerald	20
+15	0	15	basic:백금석:3	#015e1414	#faca7a18	3	jewel_emerald	45
+16	0	16	basic:백금석:4	#9e36c3db	#faca7a18	4	jewel_ruby	30
+17	0	17	basic:백금석:5	#2ff206d1	#faca7a18	5	jewel_sapphire	25
+18	0	18	special:skull:엘더 블랙퀸의 스태프	#655a9782	#f6415490		jewel_sapphire	120
+19	0	19	special:skull:엘더 블랙퀸의 목걸이	#21028247	#f6415490		jewel_sapphire	120
+20	0	20	special:skull:엘더 블랙퀸의 목도리	#ee77fa59	#f6415490		jewel_sapphire	120
+21	0	21	special:skull:G스컬의 은빛망토	#f80b0f52	#f6415490		jewel_sapphire	120
+22	0	22	special:skull:G스컬의 붉은장갑	#b9c32370	#f6415490		jewel_sapphire	120
+23	0	23	special:skull:G스컬의 영혼불길	#f0602633	#f6415490		jewel_sapphire	120

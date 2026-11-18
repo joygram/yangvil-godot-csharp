@@ -1,0 +1,49 @@
+_row	_parent_row	_idx	op	title	b1	field	bg	line	npc	state	pos	emoticon	b2	b3	illust	kind
+0	0	0	title	98	true											
+1	0	1	talk_init													
+2	0	2	field_bgm			11										
+3	0	3	bg_pass				12									
+4	0	4	user_talk		true			{"m":1,"k":1}								
+5	0	5	npc_talk		false			{"m":1,"k":2}	12	4	1	8	false	false		
+6	0	6	npc_talk		false			{"m":1,"k":3}	17	1	2	1	false	false		
+7	0	7	npc_talk		false			{"m":1,"k":4}	2	1	3	0	false	false		
+8	0	8	user_talk		false			{"m":1,"k":5}								
+9	0	9	npc_talk		false			{"m":1,"k":6}	2	5	3	0	false	false		
+10	0	10	npc_talk		false			{"m":1,"k":7}	2	5	3	8	false	false		
+11	0	11	npc_talk		false			{"m":1,"k":8}	2	5	3	0	false	false		
+12	0	12	npc_talk		false			{"m":1,"k":9}	2	5	3	0	false	false		
+13	0	13	npc_talk		false			{"m":1,"k":10}	2	5	3	0	false	false		
+14	0	14	npc_talk		false			{"m":1,"k":11}	12	3	1	0	false	false		
+15	0	15	npc_talk		false			{"m":1,"k":12}	17	3	2	0	false	false		
+16	0	16	npc_talk		false			{"m":1,"k":13}	2	4	3	0	false	false		
+17	0	17	npc_talk		false			{"m":1,"k":14}	2	1	3	0	false	false		
+18	0	18	npc_talk		false			{"m":1,"k":15}	2	1	3	0	false	false		
+19	0	19	npc_talk		false			{"m":1,"k":16}	17	4	2	8	false	false		
+20	0	20	npc_talk		false			{"m":1,"k":17}	12	3	1	5	false	false		
+21	0	21	npc_talk		false			{"m":1,"k":18}	2	5	3	0	false	false		
+22	0	22	user_talk		false			{"m":1,"k":19}								
+23	0	23	blackout													
+24	0	24	field_bgm			5										
+25	0	25	bg_pass				22									
+26	0	26	npc_talk		false			{"m":1,"k":20}	30	1	3	0	true	false		
+27	0	27	npc_talk		false			{"m":1,"k":21}	30	1	3	0	false	false		
+28	0	28	blackout													
+29	0	29	field_bgm			34										
+30	0	30	illust		false										98	1
+31	0	31	npc_talk		false			{"m":1,"k":22}	30	1	3	0	true	false		
+32	0	32	npc_talk		false			{"m":1,"k":23}	17	6	2	5	false	false		
+33	0	33	npc_talk		false			{"m":1,"k":24}	12	5	1	8	false	false		
+34	0	34	npc_talk		false			{"m":1,"k":25}	30	1	3	0	false	false		
+35	0	35	field_bgm			5										
+36	0	36	blackout													
+37	0	37	npc_talk		false			{"m":1,"k":26}	30	1	3	0	true	false		
+38	0	38	npc_talk		false			{"m":1,"k":27}	30	1	3	0	false	false		
+39	0	39	npc_talk		false			{"m":1,"k":28}	30	1	3	0	false	false		
+40	0	40	subquest													
+41	0	41	bg_pass				28									
+42	0	42	npc_talk		false			{"m":2,"k":1}	17	6	2	5	true	false		
+43	0	43	npc_talk		false			{"m":2,"k":2}	12	5	1	0	false	false		
+44	0	44	user_talk		false			{"m":2,"k":3}								
+45	0	45	npc_talk		false			{"m":2,"k":4}	12	5	1	0	false	false		
+46	0	46	npc_talk		false			{"m":2,"k":5}	17	5	2	0	false	false		
+47	0	47	user_talk		false			{"m":2,"k":6}								

@@ -1,0 +1,2 @@
+_row	_parent_row	stats	enhance_per_option	extra_option_possible	pct_stats	percent_display	bind_grade	unbind_item	rarity_colors	rarity_text_colors	enhance_step_pct
+0	0	["hp","att","def","blk","gold","exp","pure"]	5	true	["hp","att","def"]	["hp","att","def","blk","exp","gold","accuracy"]	2	item_disconnect	[null,"E6E6E6","7AF04C","FFF600","FF3924","00FFEA"]	["D2D2D2","FFFFFF","7AF04C","FFF600","FF3924","00FFEA"]	20

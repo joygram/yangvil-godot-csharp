@@ -1,0 +1,98 @@
+_row	_parent_row	_key	impl	react	dyn	text	cond	partial	ops	awaken_mod	why
+0	0	고대신룡의 금관	true	[]	[]						
+1	0	다크닉스의 구슬	true	[]	[]						
+2	0	에메랄드 드래곤의 보석 왕관	true	[]	[]						
+3	0	루너스의 달빛불꽃	true	[]	[]						
+4	0	루미네스의 빙결신발	true	[]	[]						
+5	0	아가레스의 투구	true	[]	[]						
+6	0	트로페우스의얼음결정	true	[]	[]						
+7	0	라 솔라의 불꽃	true	[]	[]						
+8	0	팡팡드래곤의풍선	true	[]	[]						
+9	0	섬머샤인의 선글라스	true	[]	[]						
+10	0	소라게 드래곤의 마법의 소라	true	[]	[]						
+11	0	노웨마의 갈기	true	[]	[]						
+12	0	설리반의 가면	true	[]	[]		{"kind":"party_has_element","value":"holy"}				
+13	0	가오론의 뿔갑옷	true	[]	[]						
+14	0	빙하고룡의 칼날	true	[]	[]						
+15	0	파워드래곤의장갑	true	[]	[]						
+16	0	즈믄의 빛나는갑주	true	[]	[]						
+17	0	백룡의 보주	true		[]				[]		
+18	0	네시의 머리장식	true		[]				[]		
+19	0	흑룡의 보주	true		[]				[]		
+20	0	시타엘의 신성한 뿔	true		[]				[]		
+21	0	저네르의 정기	true		[]				[]		
+22	0	다크나이트의투구	true		[]				[]		
+23	0	레드와이번의뿔	true	[]	[]						
+24	0	발레포르의 고리	true	[]	[]				[]	{"skill":"#0438286d","patch":{"ops.0.pct":"+20"},"no":16}	
+25	0	프로스티의 무늬	true	[]	[]				[]	{"skill":"#7af5671c","patch":{"ops.0.pct":-20},"no":39}	
+26	0	프리스트의 빛나는 날개	true	[]	[]				[]	{"skill":"#09c2c687","patch":{"ops.0.to":"self|ally_element:holy|ally_element:light","ops.0.value":"+15"},"no":62}	
+27	0	아틀라스의 마력 수정	true	[]	[]				[]	{"skill":"#2b7c79be","patch":{"ops.0.pct":"+30","ops.1.pct":"+30"},"no":27}	
+28	0	금오드래곤의고대목걸이	true	[]	[]				[]	{"skill":"#9765c279","patch":{"ops.0.value":"*2","ops.1.value":"*2","ops.2.value":"*2"},"no":56}	
+29	0	루시퍼의 날개장식	true	[]	[]				[]	{"skill":"#a9cc759c","patch":{"ops.0.value":100},"no":32}	
+30	0	살라의 화염창	true	[]	[]				[]	{"skill":"#abd1015f","add_ops":[{"kind":"dmg_deal","pct":50}],"no":95}	
+31	0	라이오스의 바람방패	true	[]	[]				[]	{"skill":"#01fa0687","add_ops":[{"kind":"dmg_taken_flat","from":{"stat":"def","ratio":0.03}}],"no":14}	
+32	0	파이썬의 갑옷	true	[]	[]				[]	{"skill":"#1fe7987b","add_ops":[{"kind":"flag","flag":"awaken_taken_applies","to":"ally_element:earth"}],"no":28}	
+33	0	발칸의 푸른불꽃	true	[]	[]				[]	{"skill":"#46e14e23","add_ops":[{"kind":"stat","stat":"cri_pow","mode":"flat","value":30,"to":"ally"}],"no":88}	
+34	0	헤네스의 지성의 왕관	true	[]	[]				[]	{"skill":"#375c743a","patch":{"react.0.left":"+3"},"no":81}	
+35	0	다르고스의 파괴의 힘	true	[]	[]				[]	{"skill":"#9febc569","add_react":[{"on":"pre_damage","fix":1,"left":2}],"no":94}	
+36	0	팔라곤의 권위의 투구	true	[]	[]				[]	{"skill":"#2d1b46bf","patch":{"ops.0.from.ratio":1.5},"no":18}	
+37	0	루키르의 바람의 날개	true	[]	[]				[]	{"skill":"#fe712ac4","patch":{"react.0.to":"ally"},"no":63}	
+38	0	나이트 드래곤의 기사 투구	true	[]	[]				[]	{"skill":"#920cc9da","patch":{"ops.0.from.ratio":"*2","ops.0.max":"*2"},"no":48}	
+39	0	말덱의 흡수의서	true	[]	[]				[]	{"skill":"#e5b98937","patch":{"ops.0.effective":true},"no":100}	
+40	0	스트라의 방출의 서	true	[]	[]				[]	{"skill":"#61460d65","patch":{"react.0.gauge_pct":"*2"},"no":38}	
+41	0	푸르푸르의 혼돈의 번개	true	[]	[]				[]	{"skill":"#f5a10904","patch":{"react.0.left":"+2"},"no":85}	
+42	0	사이커드래곤의 초록 번개	true	[]	[]				[]	{"skill":"#be9468c2","patch":{"ops.0.pct":10,"ops.1.pct":30},"no":20}	
+43	0	데스퍼라티오의 용암신발	true	[]	[]				[]	{"skill":"#d5d50175","patch":{"ops.0.pct":100,"ops.0.value":2},"no":83}	
+44	0	제피로스의 보석	true	[]	[]				[]	{"skill":"#d5d50175","patch":{"ops.0.pct":"+15"},"no":83}	
+45	0	크로우 드래곤의 해골투구	true	[]	[]				[]	{"skill":"#1969ca28","add_react":[{"on":"block","do":"react_restore","target_no":40,"max":4},{"on":"evade","do":"react_restore","target_no":40,"max":4}],"no":40}	
+46	0	쏜 네일의 가시갑옷	true	[]	[]				[]	{"skill":"#41449bfd","patch":{"ops.0.from.ratio":-2.0,"ops.1.from.ratio":2.0},"no":102}	
+47	0	아카이아의 성물	true	[]	[]				[]	{"skill":"#d3355e7d","patch":{"dyn.0.ops.0.to":"ally","dyn.0.ops.1.to":"ally"},"no":66}	
+48	0	샤마쉬의 흉갑	true	[]	[]				[]	{"skill":"#540165f6","patch":{"ops.1.to":"ally"},"no":86}	
+49	0	샤크곤의 물안경	true	[]	[]				[]	{"skill":"#fbb50ed8","explore":{"artifact_chance_pct":100},"no":17}	
+50	0	오르페우스의비석	true	[]	[]				[]	{"skill":"#fbb50ed8","explore":{"artifact_chance_pct":100},"no":17}	
+51	0	번개고룡의 팬던트	true	[]	[]						
+52	0	포세이돈의 삼지창	true	[]	[]				[]	{"skill":"#467508d2","patch":{"react.0.target_value":"*2","react.0.self_value":"*2"},"no":25}	
+53	0	블랙홀의 암흑결정체	true	[]	[]				[]	{"skill":"#48411a5d","patch":{"react.0.ratio":1.0,"react.0.value":20,"react.0.max_total":100},"no":46}	
+54	0	아루루가의 물갈퀴	true	[]	[]				[]	{"skill":"#d0fcd980","patch":{"react.0.plant.left":"+2"},"no":35}	
+55	0	커스리퍼의 뼈투구	true	[]	[]				[]	{"skill":"#17f18fc5","patch":{"ops.0.value":"*2","react.0.value":"*2"},"no":52}	
+56	0	콜테일의 헛된희망	true	[]	[]				[]	{"skill":"#38805d72","add_ops":[{"kind":"stat","stat":"att","mode":"pct","value":15},{"kind":"stat","stat":"def","mode":"pct","value":15}],"no":91}	
+57	0	루페스의 결정화된 분노	false	[]	[]				[]		skill:복수의 거울
+58	0	불나래의 불꽃구슬	true	[]	[]						
+59	0	미니드래곤 고리	false	[]	[]				[]		#620c7a50
+60	0	투탕카의 도리깨	false	[]	[]				[]		#199bc1e8
+61	0	번네스의 화염신발	false	[]	[]				[]		#93c047db
+62	0	홀리의 빛나는양뿔	true	[]	[]						
+63	0	레이어스의 반석 방패	true	[]	[]				[]	{"skill":"#a50281ed","patch":{"ops.0.from.ratio":4.0,"ops.1.from.ratio":2.0},"no":92}	
+64	0	실러캔스의 물빛 투구	true	[]	[]					{"skill":"#493486e9","patch":{"dyn.0.ops.0.from.ratio":-1.0,"dyn.1.ops.0.from.ratio":1.0},"no":13}	
+65	0	카일루스의 신성 방패	true	[]	[]				[]	{"skill":"#bb761516","patch":{"react.0.pct":10},"no":65}	
+66	0	디기의 금빛장식	true	[]	[]				[]	{"skill":"#2bc815b7","patch":{"react.0.max":250},"no":71}	
+67	0	세로님의 전쟁보닛	true	[]	[]		{"kind":"team_buff_active","value":"#6f27cc53"}				
+68	0	진의 나무비늘	true	[]	[]						
+69	0	레지아나의 빛나는 깃털	true		[]				[]		
+70	0	발로드의 갈기	true	[]	[]						
+71	0	청룡의 여의주	false	[]	[]				[]		#70e419a9
+72	0	익시아의 왕관	true	[]	[]				[]	{"skill":"#84946513","patch":{"ops.0.value":"+30","ops.1.value":"+30","ops.2.value":"+30"},"no":7}	
+73	0	솔라의 불꽃구슬	true	[]	[]				[]	{"skill":"#37e59a62","patch":{"ops.0.value":"+30","ops.1.value":"+30","ops.2.value":"+30"},"no":9}	
+74	0	수라드래곤의고대 장식	true	[]	[]				[]	{"skill":"#929bdfbf","patch":{"ops.0.value":"+30","ops.1.value":"+30","ops.2.value":"+30"},"no":8}	
+75	0	프로스트랩터의 얼음수정	true	[]	[]				[]	{"skill":"#9902ffae","patch":{"ops.0.value":"+30","ops.1.value":"+30","ops.2.value":"+30"},"no":10}	
+76	0	바리안의 백색갑옷	false	[]	[]				[]		#e1769a64
+77	0	다크프로스티의 무늬	true	[]	[]						
+78	0	엔젤 드래곤의티아라	true	[]	[]						
+79	0	엔투라스의 불꽃 주먹	true	[]	[]						
+80	0	글라시아의 왕관	true	[]	[]						
+81	0	일란의 영예의관	true	[]	[]						
+82	0	세크라포의 어깨보호대	true		[]				[]		
+83	0	완숙이의 후라이팬	true						[]		
+84	0	워든의 부유검	true		[]				[]		
+85	0	모노케로스의붉은 보주	false	[]	[]				[]		#77b49b1c
+86	0	발록의 전투갑주	false	[]	[]				[]		#7d978fdb
+87	0	쿠르파의 푸른갑주	true		[]				[]		
+88	0	오울드라의 어둠갑옷	true		[]				[]		
+89	0	페이스리스의사슬	false	[]	[]				[]		#d2f116b7
+90	0	미르의 별빛방울	true	[]					[]		
+91	0	타로스의 용암구슬	true	[]	[]						
+92	0	운디네의 물방울	true	[]	[]						
+93	0	현무드래곤의동방갑옷	true	[]	[]						
+94	0	샛별의 날개장식	true	[]	[]						
+95	0	한울의 불꽃	true	[]	[]						
+96	0	멜로우 드래곤의 부메랑	true	[]	[]		{"kind":"party_element_count","value":"wind","min":2}				

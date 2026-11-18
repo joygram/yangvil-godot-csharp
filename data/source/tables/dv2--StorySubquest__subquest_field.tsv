@@ -1,0 +1,33 @@
+_row	_parent_row	_key	field	night	requires
+0	0	79	7	true	
+1	0	80	4	true	
+2	0	81	4	true	
+3	0	82	1	true	
+4	0	83	1	true	
+5	0	84	9	true	
+6	0	85	1	true	
+7	0	86	1	true	
+8	0	89	9	true	
+9	0	93	9	false	{"kades":1}
+10	0	94	5	false	{"kades":1}
+11	0	95	1	false	{"kades":1}
+12	0	96	22	false	{"selectmap":1}
+13	0	97	17	false	{"selectmap":2}
+14	0	98	14	false	{"kades":1}
+15	0	99	7	false	{"kades":1}
+16	0	102	32	false	
+17	0	104	32	false	
+18	0	106	33	false	
+19	0	107	34	false	
+20	0	109	23	false	
+21	0	111	17	false	
+22	0	114	35	false	
+23	0	117	36	false	
+24	0	118	36	false	
+25	0	120	37	false	
+26	0	121	35	false	
+27	0	124	32	false	
+28	0	131	25	false	
+29	0	132	18	false	
+30	0	141	15	false	
+31	0	145	1007	false	

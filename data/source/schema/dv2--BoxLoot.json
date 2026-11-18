@@ -1,0 +1,14 @@
+{
+  "table": "BoxLoot",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/box_loot.json",
+    "source_sha256": "0baf154ed837083c42985b1e7ddd2eabf90a77df4242c33fb3082ee230991c4a",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

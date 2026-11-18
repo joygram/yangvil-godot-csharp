@@ -1,0 +1,222 @@
+_row	_parent_row	_idx	op	talker	n	b1	key	npc_name	via	track	body	state	pos	enter	illust	kind	frame	_recovered	battle
+0	0	0	talker_out	1	2	false													
+1	0	1	talker_out	2	2	false													
+2	0	2	talker_out	1	1	false													
+3	0	3	talk				46_75		talk										
+4	0	4	bgm							bg_15									
+5	0	5	talk				46_1	nuri	talker_in		1	6	2	true					
+6	0	6	talk				46_2	jimon	talker_in		1	6	1	true					
+7	0	7	talk				46_3	nuri	talker_in		1	5	2	false					
+8	0	8	talk				46_4	jimon	talker_in		1	5	1	false					
+9	0	9	talk				46_5	nuri	talker_in		1	6	2	false					
+10	0	10	bgm							bg_colosseum_battle_2									
+11	0	11	talk				46_13	nuri	talker_in		1	6	2	false					
+12	0	12	talk				46_6	stonekeeper	talk										
+13	0	13	talk				46_7		talk										
+14	0	14	talk				46_8	nuri	talker_reorder										
+15	0	15	talk				46_9	nuri	talker_reorder										
+16	0	16	talk				46_10	stonekeeper	talk										
+17	0	17	talk				46_11		talk										
+18	0	18	talk				46_12	nuri	talker_in		1	3	2	false					
+19	0	19	talk				46_14	jimon	talker_in		3	7	1	false					
+20	0	20	talk				46_15	jimon	talker_reorder										
+21	0	21	talk				46_16	stonekeeper	talk										
+22	0	22	talk				46_17	jimon	talker_in		1	6	1	false					
+23	0	23	talk				46_18	nuri	talker_reorder										
+24	0	24	talker_out	1	2	false													
+25	0	25	talker_out	2	2	false													
+26	0	26	bgm							bg_15									
+27	0	27	talk				46_19		talk										
+28	0	28	talk				46_20		talk										
+29	0	29	talk				46_21		talk										
+30	0	30	talk				46_22		talk										
+31	0	31	bgm							bg_auction									
+32	0	32	illust												46	1			
+33	0	33	cut														scenario_main_story_sn_46_1_1		
+34	0	34	cut														scenario_main_story_sn_46_1_2		
+35	0	35	cut														scenario_main_story_sn_46_1_3		
+36	0	36	cut														scenario_main_story_sn_46_1_4		
+37	0	37	talk				46_23		talk										
+38	0	38	talk				46_24		talk										
+39	0	39	talk				46_25		talk										
+40	0	40	talk				46_26		talk										
+41	0	41	bgm							bg_colosseum_battle_2									
+42	0	42	talk				46_30		talk										
+43	0	43	talk				46_27		talk										
+44	0	44	talk				46_28		talk										
+45	0	45	talk				46_29		talk										
+46	0	46	bgm							bg_colosseum_battle_2									
+47	0	47	talk				46_31		talk										
+48	0	48	talk				46_32		talk										
+49	0	49	talk				46_33		talk										
+50	0	50	talk				46_34		talk										
+51	0	51	talk				46_35		talk										
+52	0	52	talk				46_36		talk										
+53	0	53	talk				46_37		talk										
+54	0	54	bgm							bg_auction									
+55	0	55	illust												46	1			
+56	0	56	cut														scenario_main_story_sn_46_1_1		
+57	0	57	cut														scenario_main_story_sn_46_1_2		
+58	0	58	cut														scenario_main_story_sn_46_1_3		
+59	0	59	cut														scenario_main_story_sn_46_1_4		
+60	0	60	talk				46_38		talk										
+61	0	61	talk				46_39		talk										
+62	0	62	talk				46_40		talk										
+63	0	63	talk				46_41		talk										
+64	0	64	bgm							bg_colosseum_battle_2									
+65	0	65	talk				46_42		talk										
+66	0	66	sfx							effect_scratch									
+67	0	67	talk				46_43		talk										
+68	0	68	talk				46_44	nuri	talker_in		1	6	2	true					
+69	0	69	talk				46_45	jimon	talker_in		1	6	1	true					
+70	0	70	talk				46_46		talk										
+71	0	71	talker_out	1	2	false													
+72	0	72	talker_out	2	2	false													
+73	0	73	bgm							bg_auction									
+74	0	74	illust												46	1			
+75	0	75	cut														scenario_main_story_sn_46_1_1		
+76	0	76	cut														scenario_main_story_sn_46_1_2		
+77	0	77	cut														scenario_main_story_sn_46_1_3		
+78	0	78	cut														scenario_main_story_sn_46_1_4		
+79	0	79	talk				46_47	nuri	talker_in		1	6	3	true					
+80	0	80	talk				46_48											literal	
+81	0	81	talk				46_49											literal	
+82	0	82	talk				46_50											literal	
+83	0	83	talker_out	3	2	false													
+84	0	84	illust												46	2			
+85	0	85	cut														scenario_main_story_sn_46_2_1		
+86	0	86	cut														scenario_main_story_sn_46_2_2		
+87	0	87	cut														scenario_main_story_sn_46_2_3		
+88	0	88	cut														scenario_main_story_sn_46_2_5		
+89	0	89	cut														scenario_main_story_sn_46_2_4		
+90	0	90	talker_out	3	2	false													
+91	0	91	illust												46	3			
+92	0	92	cut														scenario_main_story_sn_46_3_1		
+93	0	93	cut														scenario_main_story_sn_46_3_2		
+94	0	94	cut														scenario_main_story_sn_46_3_3		
+95	0	95	cut														scenario_main_story_sn_46_3_4		
+96	0	96	talker_out	3	2	false													
+97	0	97	illust												46	4			
+98	0	98	cut														scenario_main_story_sn_46_4_1		
+99	0	99	cut														scenario_main_story_sn_46_4_2		
+100	0	100	cut														scenario_main_story_sn_46_4_3		
+101	0	101	cut														scenario_main_story_sn_46_4_4		
+102	0	102	cut														scenario_main_story_sn_46_4_5		
+103	0	103	cut														scenario_main_story_sn_46_4_6		
+104	0	104	talk				46_51	jimon	talker_reorder										
+105	0	105	talk				46_52	nuri	talker_in		1	6	2	true					
+106	0	106	talk				46_53	jimon	talker_in		1	7	1	false					
+107	0	107	talker_out	1	2	false													
+108	0	108	talker_out	2	2	false													
+109	0	109	illust												46	5			
+110	0	110	cut														scenario_main_story_sn_46_5_1		
+111	0	111	cut														scenario_main_story_sn_46_5_2		
+112	0	112	cut														scenario_main_story_sn_46_5_3		
+113	0	113	cut														scenario_main_story_sn_46_5_4		
+114	0	114	cut														scenario_main_story_sn_46_5_5		
+115	0	115	cut														scenario_main_story_sn_46_5_6		
+116	0	116	talk				46_54	nuri	talker_in		2	2	2	true					
+117	0	117	talk				46_55		talk										
+118	0	118	talk				46_56		talk										
+119	0	119	bgm							bg_15									
+120	0	120	talk				46_57	jimon	talker_in		1	5	1	true					
+121	0	121	talk				46_58	nuri	talker_in		1	5	2	false					
+122	0	122	talk				46_59	nuri	talker_reorder										
+123	0	123	talk				46_60		talk										
+124	0	124	talk				46_61		talk										
+125	0	125	talk				46_62	nuri	talker_in		2	2	2	false					
+126	0	126	talk				46_63	jimon	talker_reorder										
+127	0	127	talk				46_64	nuri	talker_in		1	7	2	false					
+128	0	128	talk				46_65	jimon	talker_reorder										
+129	0	129	talk				46_66		talk										
+130	0	130	talker_out	1	2	false													
+131	0	131	talker_out	2	2	false													
+132	0	132	talker_out	1	1	false													
+133	0	133	talk				46_67		talk										
+134	0	134	talk				46_68		talk										
+135	0	135	talk				46_69		talk										
+136	0	136	talk				46_70		talk										
+137	0	137	talk				46_71		talk										
+138	0	138	talk				46_72	nuri	talker_in		1	6	2	true					
+139	0	139	talk				46_73	jimon	talker_in		1	6	1	true					
+140	0	140	talk				46_74		talk										
+141	0	141	talk				46_76		talk										
+142	0	142	illust												46	5			
+143	0	143	cut														scenario_main_story_sn_46_5_1		
+144	0	144	cut														scenario_main_story_sn_46_5_2		
+145	0	145	cut														scenario_main_story_sn_46_5_3		
+146	0	146	cut														scenario_main_story_sn_46_5_4		
+147	0	147	cut														scenario_main_story_sn_46_5_5		
+148	0	148	cut														scenario_main_story_sn_46_5_6		
+149	0	149	talk				46_77		talk										
+150	0	150	talk				46_78		talk										
+151	0	151	talk				46_79	lightorb	talk										
+152	0	152	talk				46_80		talk										
+153	0	153	talk				46_81		talk										
+154	0	154	bgm							bg_15									
+155	0	155	talk				46_82		talk										
+156	0	156	battle																16
+157	0	157	bgm							bg_15									
+158	0	158	bgm							bg_15									
+159	0	159	talk				46_83		talk										
+160	0	160	talk				46_84		talk										
+161	0	161	bgm							bg_5									
+162	0	162	illust												46	6			
+163	0	163	sfx							effect_eagle									
+164	0	164	talk				46_85		talk										
+165	0	165	talk				46_86		talk										
+166	0	166	talk				46_87		talk										
+167	0	167	talk				46_88	aeuros	talker_in		1	1	2	true					
+168	0	168	talk				46_89	aeuros	talker_reorder										
+169	0	169	talk				46_90		talk										
+170	0	170	talk				46_91	aeuros	talker_reorder										
+171	0	171	talk				46_92	aeuros	talker_reorder										
+172	0	172	talk				46_93		talk										
+173	0	173	talk				46_94	aeuros	talker_reorder										
+174	0	174	talk				46_95	aeuros	talker_reorder										
+175	0	175	talk				46_96	aeuros	talker_reorder										
+176	0	176	talk				46_97	aeuros	talker_reorder										
+177	0	177	talk				46_98		talk										
+178	0	178	talk				46_99		talk										
+179	0	179	talk				46_100	aeuros	talker_reorder										
+180	0	180	bgm							bg_ending									
+181	0	181	talk				46_101	nuri	talker_in		1	6	2	true					
+182	0	182	talk				46_102	jimon	talker_in		1	6	1	true					
+183	0	183	talk				46_103	jimon	talker_reorder										
+184	0	184	talk				46_104	jimon	talker_reorder										
+185	0	185	talk				46_105	nuri	talker_reorder										
+186	0	186	sfx							effect_eagle									
+187	0	187	talk				46_106		talk										
+188	0	188	talk				46_107		talk										
+189	0	189	talk				46_108	nuri	talker_reorder										
+190	0	190	talk				46_109	nuri	talker_reorder										
+191	0	191	talk				46_110	nuri	talker_reorder										
+192	0	192	talk				46_111	nuri	talker_reorder										
+193	0	193	talk				46_112	jimon	talker_in		1	5	1	false					
+194	0	194	talk				46_113	jimon	talker_reorder										
+195	0	195	talk				46_114	jimon	talker_reorder										
+196	0	196	talk				46_115	nuri	talker_in		2	2	2	false					
+197	0	197	talk				46_116	nuri	talker_reorder										
+198	0	198	talk				46_117											literal	
+199	0	199	talk				46_118											literal	
+200	0	200	talk				46_119											literal	
+201	0	201	talk				46_120											literal	
+202	0	202	talk				46_121											literal	
+203	0	203	talk				46_122											literal	
+204	0	204	talk				46_123											literal	
+205	0	205	talk				46_124											literal	
+206	0	206	talk				46_125											literal	
+207	0	207	talk				46_126											literal	
+208	0	208	talk				46_127											literal	
+209	0	209	talk				46_128											literal	
+210	0	210	talk				46_129											literal	
+211	0	211	talk				46_130											literal	
+212	0	212	talk				46_131											literal	
+213	0	213	talk				46_132											literal	
+214	0	214	talk				46_133											literal	
+215	0	215	talk				46_134											literal	
+216	0	216	talk				46_135											literal	
+217	0	217	talk				46_136											literal	
+218	0	218	talk				46_137											literal	
+219	0	219	talk				46_138											literal	
+220	0	220	talk				46_139											literal	

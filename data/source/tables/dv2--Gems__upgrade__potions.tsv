@@ -1,0 +1,8 @@
+_row	_parent_row	_idx	item	name	make_gold	cost_dust_each	points	shop_only	cost_note	success_pct
+0	0	0	alchemy_moderation	#435c56ba	1000	1	[1,5]			
+1	0	1	alchemy_wisdom	#721aaf69	1000	2	[1,10]			
+2	0	2	alchemy_courage	#561b7171	1000	3	[1,25]			
+3	0	3	alchemy_justice	#3929da76	1000	4	[1,50]			
+4	0	4	alchemy_glory	#003516b1			[10,10]	true		
+5	0	5	alchemy_legend	#daa6acb6			[25,25]	true		
+6	0	6	alchemy_special	#11dc1520					#49a493aa	15

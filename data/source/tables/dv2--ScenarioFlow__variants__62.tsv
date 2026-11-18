@@ -1,0 +1,65 @@
+_row	_parent_row	_idx	op	title	b1	bg	pass_	npc	state	pos	emoticon	b2	b3	b4	b5	b6	b7	talker	n	illust	kind
+0	0	0	title	80	true																
+1	0	1	talk_init																		
+2	0	2	bg			4	false														
+3	0	3	user_talk		true																
+4	0	4	user_talk		false																
+5	0	5	npc_talk		true			11	1	2	0	false	true	false	false	false	true				
+6	0	6	user_talk		false																
+7	0	7	npc_talk		true			11	1	2	0	false	false	false	false	false	true				
+8	0	8	user_talk		false																
+9	0	9	npc_talk		true			11	1	2	0	false	false	false	false	false	true				
+10	0	10	user_talk		false																
+11	0	11	talker_out		false													2	2		
+12	0	12	blackout																		
+13	0	13	npc_talk		false			11	3	2	6	true	true	false	false	false	true				
+14	0	14	user_talk		false																
+15	0	15	npc_talk		false			11	1	2	0	false	false	false	false	false	true				
+16	0	16	npc_talk		false			11	1	2	0	false	false	false	false	false	true				
+17	0	17	user_talk		false																
+18	0	18	npc_talk		false			11	1	2	0	false	false	false	false	false	true				
+19	0	19	npc_talk		false			11	3	2	1	false	false	false	false	false	true				
+20	0	20	user_talk		false																
+21	0	21	npc_talk		false			11	3	2	8	false	false	false	false	false	true				
+22	0	22	user_talk		false																
+23	0	23	npc_talk		false			11	3	2	7	false	false	false	false	false	true				
+24	0	24	npc_talk		false			11	1	2	8	false	false	false	false	false	true				
+25	0	25	user_talk		false																
+26	0	26	npc_talk		false			11	2	2	5	false	false	false	false	false	true				
+27	0	27	talker_out		false													2	2		
+28	0	28	blackout																		
+29	0	29	npc_talk		false			31	1	3	0	true	true	false	false	false	true				
+30	0	30	npc_talk		false			11	2	2	1	false	true	false	false	false	true				
+31	0	31	npc_talk		false			31	1	3	8	false	false	false	false	false	true				
+32	0	32	npc_talk		false			11	2	2	1	false	false	false	false	false	true				
+33	0	33	npc_talk		false			31	1	3	0	false	false	false	false	false	true				
+34	0	34	user_talk		false																
+35	0	35	user_talk		false																
+36	0	36	npc_talk		false			11	3	2	1	false	false	false	false	false	true				
+37	0	37	user_talk		false																
+38	0	38	npc_talk		false			31	1	3	0	false	false	false	false	false	true				
+39	0	39	npc_talk		false			31	2	3	3	false	false	false	false	false	true				
+40	0	40	npc_talk		false			11	2	2	5	false	false	false	false	false	true				
+41	0	41	talker_out		false													3	2		
+42	0	42	talker_out		false													2	2		
+43	0	43	blackout																		
+44	0	44	illust		false															80	1
+45	0	45	npc_talk		false			31	2	3	8	true	true	false	false	false	true				
+46	0	46	npc_talk		false			31	2	3	3	false	false	false	false	false	true				
+47	0	47	user_talk		false																
+48	0	48	npc_talk		false			11	3	2	1	false	true	false	false	false	true				
+49	0	49	user_talk		false																
+50	0	50	npc_talk		false			31	2	3	2	false	false	false	false	false	true				
+51	0	51	npc_talk		false			31	2	3	2	false	false	false	false	false	true				
+52	0	52	user_talk		false																
+53	0	53	npc_talk		false			31	1	3	1	false	false	false	false	false	true				
+54	0	54	npc_talk		false			11	1	2	1	false	false	false	false	false	true				
+55	0	55	talker_out		false													3	2		
+56	0	56	talker_out		false													2	2		
+57	0	57	blackout																		
+58	0	58	user_talk		true																
+59	0	59	npc_talk		false			11	1	2	1	false	true	false	false	false	true				
+60	0	60	user_talk		false																
+61	0	61	npc_talk		false			11	2	2	0	false	false	false	false	false	true				
+62	0	62	npc_talk		false			11	2	2	1	false	false	false	false	false	true				
+63	0	63	user_talk		false																

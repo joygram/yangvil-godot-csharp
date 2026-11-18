@@ -1,0 +1,14 @@
+{
+  "table": "Dragons",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/dragons.json",
+    "source_sha256": "42d7ba3e966fd110853eedb9579dccf76cf54164f04efa190fcb8b95b6831068",
+    "source_row_count": 374
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

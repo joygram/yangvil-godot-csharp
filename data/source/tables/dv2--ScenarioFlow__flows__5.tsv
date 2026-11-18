@@ -1,0 +1,44 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	bgm	bg_magicshop										
+1	0	1	talk		5_1	yulia	talker_in	1	1	3	true			
+2	0	2	talk		5_2	yulia	talker_reorder							
+3	0	3	talk		5_3		talk							
+4	0	4	talk		5_4	yulia	talker_in	5	5	3	false			
+5	0	5	talk		5_5	yulia	talker_in	1	4	3	false			
+6	0	6	talk		5_6	yulia	talker_in	5	5	3	false			
+7	0	7	talk		5_7	yulia	talker_reorder							
+8	0	8	talk		5_8		talk							
+9	0	9	talk		5_9	yulia	talker_in	1	4	3	false			
+10	0	10	talk		5_10	yulia	talker_in	5	5	3	false			
+11	0	11	talk		5_11		talk							
+12	0	12	talk		5_12	yulia	talker_reorder							
+13	0	13	talk		5_13	yulia	talker_reorder							
+14	0	14	talk		5_14	yulia	talker_reorder							
+15	0	15	talk		5_15		talk							
+16	0	16	talk		5_16	yulia	talker_in	1	1	3	false			
+17	0	17	talk		5_17	yulia	talker_in	1	4	3	false			
+18	0	18	sfx	effect_walk										
+19	0	19	talk		5_32	jimon	talker_in	1	2	1	true			
+20	0	20	bgm	bg_auction										
+21	0	21	talk		5_18	romini	talker_in	1	3	3	true			
+22	0	22	talk		5_19	jimon	talker_in	1	6	1	true			
+23	0	23	talk		5_20	romini	talker_in	1	1	3	false			
+24	0	24	talk		5_21	nuri	talker_in	1	6	2	true			
+25	0	25	talk		5_22	romini	talker_in	1	1	3	false			
+26	0	26	talk		5_23	jimon	talker_in	1	1	1	false			
+27	0	27	talk		5_24	romini	talker_in	1	3	3	false			
+28	0	28	talk		5_25		talk							
+29	0	29	talk		5_26	romini	talker_in	1	3	3	false			
+30	0	30	talk		5_27	romini	talker_in	1	3	3	false			
+31	0	31	talk		5_28		talk							
+32	0	32	talk		5_29	jimon	talker_in	1	5	1	false			
+33	0	33	talk		5_30	nuri	talker_in	1	1	2	false			
+34	0	34	talk		5_31	jimon	talker_in	1	1	1	false			
+35	0	35	bgm	bg_auction										
+36	0	36	talk		5_33	romini	talker_in	1	1	3	true			
+37	0	37	talk		5_34	romini	talker_in	1	1	3	false			
+38	0	38	talk		5_35	romini	talker_in	1	1	3	false			
+39	0	39	talker_out									3	2	false
+40	0	40	talk		5_36	nuri	talker_in	1	5	2	true			
+41	0	41	talk		5_37	nuri	talker_in	1	1	2	false			
+42	0	42	talk		5_38	jimon	talker_in	1	1	1	false			

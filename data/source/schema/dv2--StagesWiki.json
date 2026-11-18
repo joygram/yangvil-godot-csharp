@@ -1,0 +1,14 @@
+{
+  "table": "StagesWiki",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/stages_wiki.json",
+    "source_sha256": "14b798ec1ae0f173152a4b39e2af291ef5517b6deb99116625e28c9c0e2d28a7",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

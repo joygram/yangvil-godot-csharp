@@ -1,0 +1,108 @@
+_row	_parent_row	ops	tier	impl	cond	react	note	dyn	explore	partial	stack
+0	0	[{"to":"self","kind":"stat","stat":"cri","mode":"flat","value":10}]	B	true							
+1	1	[]	D	true		[{"on":"crit","pct":5}]					
+2	2	[{"to":"self","kind":"stat","stat":"cri_pow","mode":"flat","value":50}]	B	true							
+3	3	[{"to":"self","kind":"stat","stat":"hp","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"att","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"def","mode":"pct","value":20}]	A	true	{"kind":"field_element","value":"earth"}						
+4	4	[]	D	true				[{"when":{"kind":"self_hp_at_most","pct":50},"ops":[{"to":"self","kind":"flag","flag":"crit_sure"}]}]			
+5	5	[{"to":"self","kind":"stat","stat":"hp","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"att","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"def","mode":"pct","value":20}]	A	true	{"kind":"field_element","value":"aqua"}						
+6	6	[{"to":"self","kind":"stat","stat":"hp","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"att","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"def","mode":"pct","value":20}]	A	true	{"kind":"field_element","value":"wind"}						
+7	7	[{"to":"self","kind":"stat","stat":"hp","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"att","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"def","mode":"pct","value":20}]	A	true	{"kind":"field_element","value":"fire"}						
+8	8	[{"to":"self","kind":"stat","stat":"hp","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"att","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"def","mode":"pct","value":20}]	A	true	{"kind":"field_element","value":"light"}						
+9	9	[{"to":"self","kind":"stat","stat":"hp","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"att","mode":"pct","value":20},{"to":"self","kind":"stat","stat":"def","mode":"pct","value":20}]	A	true	{"kind":"field_element","value":"dark"}						
+10	10	[]	D	true				[{"when":{"kind":"has_debuff","except_src":[23]},"ops":[{"to":"ally","kind":"dmg_taken","pct":-25}]}]			
+11	11	[{"to":"self","kind":"stat","stat":"att","mode":"pct","value":-20},{"to":"self","kind":"stat","stat":"hp","mode":"pct","value":50}]	D	true				[{"when":{"kind":"lost_hp_ratio"},"ops":[{"to":"self","kind":"stat","stat":"att","mode":"pct","value":200}]}]			
+12	12	[]	D	true				[{"when":{"kind":"self_hp_above","pct":50},"ops":[{"to":"ally","kind":"stat","stat":"__dmg_taken","mode":"pct","from":{"stat":"grade","ratio":-0.5}}]},{"when":{"kind":"self_hp_at_most","pct":50},"ops":[{"to":"ally","kind":"stat","stat":"__dmg_deal","mode":"pct","from":{"stat":"grade","ratio":0.5}}]}]			
+13	13	[{"to":"self","kind":"dmg_taken_flat","value":15}]	B	true							
+14	14	[{"to":"ally","kind":"stat","stat":"att","mode":"pct","value":10}]	B	true							
+15	15	[{"to":"self","kind":"dmg_deal","pct":20}]	B	true							
+16	16	[]	A	true					{"artifact_chance_pct":50}		
+17	17	[{"to":"self","kind":"stat","stat":"att","mode":"flat","from":{"stat":"def","ratio":0.5}}]	C	true	{"kind":"grade_highest"}						
+18	18	[{"to":"self","kind":"stat","stat":"att","mode":"pct","value":60}]	B	true	{"kind":"party_has_element","value":"shadow"}						
+19	19	[{"to":"self","kind":"dmg_taken","pct":20},{"to":"ally","kind":"dmg_deal","pct":10}]	B	true	{"kind":"party_size_min","min":2}						
+20	20	[]	D	true		[{"on":"hit_taken","do":"stack","stats":["def"],"value":5,"max_total":50,"to":"self","mode":"pct"}]					
+21	21	[{"to":"self","kind":"gauge_rate","pct":15}]	C	true							
+22	22	[{"to":"ally","kind":"skill_uses","value":1}]	C	true							
+23	23	[{"to":"self","kind":"stat","stat":"att","mode":"pct","from":{"stat":"cri","ratio":1.0},"max":100}]	C	true							
+24	24	[]	D	true		[{"on":"attack_done","do":"debuff_target","target_stat":"blk","target_value":7,"self_stat":"cri","self_value":7,"left":3}]					
+25	25	[]	D	true		[{"on":"pre_damage","fix":1,"left":3,"when":{"kind":"self_hp_at_most","pct":20}}]					
+26	26	[{"to":"ally_element:earth","kind":"gauge_rate","pct":30},{"to":"ally_element:light","kind":"gauge_rate","pct":30}]	C	true	{"kind":"self_stat_min","stat":"def","min":500}						
+27	27	[{"to":"ally_element:earth","kind":"dmg_taken","pct":-25}]	B	true							
+28	28	[{"to":"ally_dragon:4023","kind":"stat","stat":"hp","mode":"pct","value":25},{"to":"ally_dragon:4023","kind":"stat","stat":"att","mode":"pct","value":25}]	D	true							
+29	29	[{"to":"ally","kind":"stat","stat":"depure","mode":"flat","value":30}]	B	true							
+30	30	[{"to":"ally","kind":"dmg_deal","pct":15}]	B	true							
+31	31	[{"to":"self","kind":"stat","stat":"pure","mode":"flat","value":25}]	B	true							
+32	32	[{"to":"self","kind":"dmg_deal","pct":100}]	B	true	{"kind":"enemy_boss"}						
+33	33	[{"to":"ally","kind":"stat","stat":"att","mode":"pct","from":{"stat":"blk","ratio":1.0},"max":50}]	C	true							
+34	34	[]	D	true		[{"on":"death","do":"plant","to":"ally_element:aqua","plant":{"on":"pre_damage","fix":1,"left":3}}]					
+35	35	[{"to":"self","kind":"stat","stat":"evd","mode":"flat","value":10}]	B	true							
+36	36	[]	D	true				[{"when":{"kind":"ally_dead_any"},"ops":[{"to":"self","kind":"stat","stat":"att","mode":"pct","value":30},{"to":"self","kind":"stat","stat":"evd","mode":"flat","value":10}]}]			
+37	37	[]	D	true		[{"on":"block","gauge_pct":5}]					
+38	38	[{"to":"self","kind":"dmg_taken","pct":-10}]	B	true							
+39	39	[]	D	true		[{"on":"hit_unguarded","turns":1,"left":2}]					
+40	40	[]	D	true		[{"on":"skill_cast","do":"random_debuff","choices":[{"gauge_pct":-10},{"stat":"def","mode":"pct","value":-10},{"stat":"att","mode":"pct","value":-10}]}]					
+41	41	[]	A	true					{"gold_pct":50}		
+42	42	[{"to":"ally","kind":"dmg_deal","pct":10},{"to":"ally","kind":"dmg_deal","pct":15,"cond":{"kind":"enemy_has_element","value":"earth"}}]	D	true							
+43	43	[{"to":"self","kind":"stat","stat":"cri","mode":"flat","value":5}]	D	true		[{"on":"crit","pct":3}]					
+44	44	[]	D	true		[{"on":"hit_taken","do":"acc","cap_stat":"def"},{"on":"attack_bonus","ratio":0.3333333333333333}]					
+45	45	[]	D	true		[{"on":"attack_done","do":"heal_dealt","ratio":0.5,"left":5,"when":{"kind":"self_hp_at_most","pct":50},"stats":["att"],"value":10,"mode":"pct","max_total":50}]					
+46	46	[{"to":"self","kind":"stat","stat":"accuracy","mode":"flat","value":15}]	B	true							
+47	47	[{"to":"self","kind":"stat","stat":"hp","mode":"pct","from":{"stat":"def","ratio":0.1},"max":50}]	C	true							
+48	48	[{"to":"ally_element:light","kind":"stat","stat":"def","mode":"pct","value":5},{"to":"ally_element:light","kind":"stat","stat":"evd","mode":"flat","value":5}]	B	true							
+49	49	[{"to":"self","kind":"stat","stat":"depure_pct","mode":"flat","value":50},{"to":"ally","kind":"stat","stat":"hp","mode":"pct","value":10},{"to":"ally","kind":"stat","stat":"att","mode":"pct","value":10},{"to":"ally","kind":"stat","stat":"def","mode":"pct","value":10}]	C	true							
+50	50	[{"to":"self","kind":"flag","flag":"no_attack"}]	D	true	{"kind":"party_has_element","value":"holy"}						
+51	51	[{"to":"self","kind":"dmg_taken_flat","value":40,"min_dmg":30}]	D	true		[{"on":"hit_taken","do":"stack","stats":["__dmg_taken"],"mode":"pct","value":10,"max_total":0},{"on":"attack_done","do":"reset","reset_on":"hit_taken"}]					
+52	52	[{"to":"ally_element:earth","kind":"stat","stat":"def","mode":"pct","value":15}]	B	true							
+53	53	[{"to":"ally_element:aqua","kind":"stat","stat":"hp","mode":"pct","value":15}]	B	true							
+54	54	[{"to":"ally_element:fire","kind":"stat","stat":"att","mode":"pct","value":15}]	B	true							
+55	55	[{"to":"ally_element:light","kind":"stat","stat":"hp","mode":"pct","value":7},{"to":"ally_element:light","kind":"stat","stat":"att","mode":"pct","value":7},{"to":"ally_element:light","kind":"stat","stat":"accuracy","mode":"flat","value":7}]	B	true							
+56	56	[{"to":"ally","kind":"stat","stat":"hp","mode":"pct","value":10}]	B	true							
+57	57	[]	D	true				[{"when":{"kind":"alive_ally_element","value":"light"},"ops":[{"to":"self","kind":"stat","stat":"att","mode":"pct","value":20,"max":60}]}]			
+58	58	[{"to":"self","kind":"stat","stat":"evd","mode":"flat","value":40}]	B	true							
+59	59	[{"to":"self","kind":"initiative"}]	D	true							
+60	60	[{"to":"self","kind":"stat","stat":"hp","mode":"pct","value":10,"per":"ally_element:earth","max":30},{"to":"self","kind":"stat","stat":"att","mode":"pct","value":10,"per":"ally_element:earth","max":30},{"to":"self","kind":"stat","stat":"def","mode":"pct","value":10,"per":"ally_element:earth","max":30}]	C	true							
+61	61	[{"to":"self","kind":"stat","stat":"accuracy","mode":"flat","value":25}]	B	true							
+62	62	[]	D	true		[{"on":"attack_done","do":"stack","stats":["att"],"value":10,"max_total":100,"to":"self","mode":"pct"}]					
+63	63	[]	D	true		[{"on":"block","do":"stack","stats":["att","def"],"value":2,"max_total":30,"to":"ally","mode":"pct"}]					
+64	64	[]	D	true		[{"on":"block","do":"acc","from_stat":"def","pct":5,"left":5},{"on":"attack_heal"}]					
+65	65	[]	D	true				[{"when":{"kind":"alive_ally_element","value":"holy"},"ops":[{"to":"self","kind":"stat","stat":"att","mode":"pct","value":20},{"to":"ally_others","kind":"stat","stat":"def","mode":"pct","value":20}]}]			
+66	66	[{"to":"self","kind":"stat","stat":"def","mode":"pct","value":50}]	B	true							
+67	67	[{"to":"ally","kind":"dmg_taken","pct":10},{"to":"ally","kind":"dmg_deal","pct":20}]	B	true							
+68	68	[]	D	true				[{"when":{"kind":"enemy_dead_mult","max":3},"ops":[{"to":"ally","kind":"stat","stat":"__dmg_deal","mode":"pct","from":{"stat":"grade","ratio":1.0}},{"to":"ally","kind":"dmg_deal","pct":1}]}]			
+69	69	[{"to":"ally","kind":"stat","stat":"depure_pct","mode":"flat","value":50},{"to":"self","kind":"stat","stat":"pure_pct","mode":"flat","value":50}]	C	true							
+70	70	[]	D	true		[{"on":"stat_gap","max":150}]					
+71	71	[]	D	true				[{"when":{"kind":"self_alive"},"ops":[{"to":"ally","kind":"dmg_taken","pct":-10}]},{"when":{"kind":"self_dead"},"ops":[{"to":"ally","kind":"dmg_taken","pct":-20}]}]			
+72	72	[{"to":"self","kind":"stat","stat":"att","mode":"pct","value":20,"per":"ally_element:wind"},{"to":"self","kind":"pen","value":20,"per":"ally_element:dark","max":95}]	D	true							
+73	73	[{"to":"self","kind":"stat","stat":"att","mode":"pct","value":15},{"to":"self","kind":"stat","stat":"cri","mode":"flat","value":10}]	B	true							
+74	74	[]	D	true		[{"on":"attack_acc","ratio":0.3333,"cap_stat":"att"},{"on":"defend_release"}]					
+75	75	[{"to":"self","kind":"dmg_taken","pct":-25}]	B	true							
+76	76	[{"to":"self","kind":"gauge_min","value":15}]	C	true							
+77	77	[{"to":"self","kind":"flag","flag":"skill_ignores_block"}]	D	true							
+78	78	[{"to":"self","kind":"flag","flag":"always_double"},{"to":"ally_element:wind","kind":"dmg_deal","pct":10}]	D	true							
+79	79	[]	D	true		[{"on":"double","do":"stack","stats":["att"],"value":30,"max_total":120,"to":"self","mode":"pct"}]					
+80	80	[]	D	true		[{"on":"skill_cast","do":"self_flag","flag":"evade_sure","left":5}]					
+81	81	[{"to":"ally","kind":"stat","stat":"blk","mode":"flat","value":15,"cond":{"kind":"enemy_has_element","value":"light"},"negate":true},{"to":"ally","kind":"stat","stat":"blk","mode":"flat","value":30,"cond":{"kind":"enemy_has_element","value":"light"}}]	B	true							
+82	82	[{"to":"self","kind":"skill_level_proc","pct":25,"value":5}]	C	true							
+83	83	[{"to":"ally_element:wind","kind":"stat","stat":"__dmg_deal","mode":"pct","from":{"stat":"blk","ratio":0.5},"max":30}]	C	true							
+84	84	[]	D	true		[{"on":"skill_cast","do":"confuse_target","turns":1,"left":3}]					
+85	85	[{"to":"self","kind":"stat","stat":"depure","mode":"flat","from":{"stat":"def","ratio":0.1}},{"to":"self","kind":"stat","stat":"pure","mode":"flat","from":{"stat":"att","ratio":0.1}}]	C	true							
+86	86	[]	D	true		[{"on":"pre_damage","chance":25,"fix":1,"left":5}]					
+87	87	[{"to":"ally","kind":"stat","stat":"cri","mode":"flat","value":8,"per":"ally_element:fire"}]	B	true							
+88	88	[{"to":"ally","kind":"skill_level","value":1}]	C	true							
+89	89	[{"to":"ally_element:dark","kind":"stat","stat":"att","mode":"pct","value":5},{"to":"ally_element:dark","kind":"stat","stat":"cri","mode":"flat","value":5}]	B	true							
+90	90	[{"to":"self","kind":"stat","stat":"hp","mode":"pct","value":15}]	D	true							
+91	91	[{"to":"self","kind":"stat","stat":"__dmg_deal","mode":"pct","from":{"stat":"grade","ratio":2.0}},{"to":"self","kind":"stat","stat":"__dmg_taken","mode":"pct","from":{"stat":"grade","ratio":1.0}}]	D	true							
+92	92	[{"to":"self","kind":"flag","flag":"crit_halves_guard"}]	D	true							
+93	93	[{"to":"self","kind":"stat","stat":"att","mode":"pct","value":50}]	B	true	{"kind":"party_element_count","value":"dark","min":2}						
+94	94	[{"to":"self","kind":"flag","flag":"elem_advantage"}]	D	true							
+95	95	[]	D	true		[{"on":"evade","turns":1,"left":4}]					
+96	96	[{"to":"ally","kind":"gauge_add","value":30}]	C	true							once
+97	97	[{"to":"self","kind":"skill_uses","value":1,"per":"ally_element:chaos","max":3}]	C	true							
+98	98	[]	D	true				[{"when":{"kind":"self_hp_at_most","pct":50},"ops":[{"to":"self","kind":"dmg_deal","pct":50}]}]			
+99	99	[{"to":"self","kind":"absorb_top","pct":30,"stats":["hp","att","def"]}]	C	true							
+100	100	[]	D	true		[{"on":"death","gauge_pct":50}]					
+101	101	[{"to":"self","kind":"stat","stat":"__dmg_taken","mode":"pct","from":{"stat":"grade","ratio":-1.0}},{"to":"ally_others","kind":"stat","stat":"__dmg_deal","mode":"pct","from":{"stat":"grade","ratio":1.0}}]	D	true							
+102	102	[{"to":"self","kind":"stat","stat":"pure","mode":"flat","value":25},{"to":"self","kind":"stat","stat":"depure_pct","mode":"flat","value":66},{"to":"ally","kind":"stat","stat":"hp","mode":"pct","value":6},{"to":"ally","kind":"stat","stat":"att","mode":"pct","value":6},{"to":"ally","kind":"stat","stat":"def","mode":"pct","value":6},{"to":"ally","kind":"dmg_taken","pct":-6},{"to":"ally","kind":"dmg_deal","pct":36}]	C	true		[{"on":"evade","turns":1,"left":6}]					
+103	103	[{"to":"self","kind":"stat","stat":"cri_pow","mode":"flat","value":50},{"to":"self","kind":"stat","stat":"pure_pct","mode":"flat","value":50},{"to":"self","kind":"dmg_cap_pct","pct":25},{"to":"self","kind":"status_immune"},{"to":"self","kind":"flag","flag":"crit_halves_guard"}]	C	true							
+104	104	[{"to":"self","kind":"stat","stat":"depure_pct","mode":"flat","value":30},{"to":"ally","kind":"stat","stat":"hp","mode":"pct","value":5},{"to":"ally","kind":"stat","stat":"att","mode":"pct","value":5},{"to":"ally","kind":"stat","stat":"def","mode":"pct","value":5},{"to":"ally","kind":"dmg_taken","pct":-5},{"to":"ally","kind":"dmg_deal","pct":50}]	C	true		[{"on":"evade","turns":1,"left":4}]					
+105	105	[{"to":"self","kind":"stat","stat":"pure_pct","mode":"flat","value":30},{"to":"self","kind":"dmg_cap_pct","pct":30},{"to":"self","kind":"status_immune"},{"to":"self","kind":"flag","flag":"crit_halves_guard"}]	C	true							
+106	106	[{"to":"self","kind":"stat","stat":"depure_pct","mode":"flat","value":50},{"to":"ally","kind":"stat","stat":"hp","mode":"pct","value":10},{"to":"ally","kind":"stat","stat":"att","mode":"pct","value":10},{"to":"ally","kind":"stat","stat":"def","mode":"pct","value":10},{"to":"ally","kind":"dmg_taken","pct":-10},{"to":"ally","kind":"dmg_deal","pct":50}]	C	true		[{"on":"evade","turns":1,"left":5}]					

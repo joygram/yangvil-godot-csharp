@@ -1,0 +1,40 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	illust	kind	frame	talker	n	b1
+0	0	0	bgm	bg_scenario_sorrow													
+1	0	1	talk		31_1	yulia	talker_in	5	5	3	true						
+2	0	2	talk		31_2		talk										
+3	0	3	talk		31_3	yulia	talker_reorder										
+4	0	4	talk		31_4	yulia	talker_reorder										
+5	0	5	illust									31	1				
+6	0	6	cut											scenario_main_story_sn_31_1			
+7	0	7	cut											scenario_main_story_sn_31_2			
+8	0	8	cut											scenario_main_story_sn_31_3			
+9	0	9	talker_out												3	2	false
+10	0	10	talk		31_5	yulia	talker_in	5	5	3	true						
+11	0	11	talk		31_6		talk										
+12	0	12	talk		31_7	yulia	talker_in	1	4	3	false						
+13	0	13	talk		31_8	yulia	talker_in	1	3	3	false						
+14	0	14	talk		31_9	yulia	talker_in	5	5	3	false						
+15	0	15	talk		31_10	yulia	talker_reorder										
+16	0	16	talk		31_11		talk										
+17	0	17	illust									31	2				
+18	0	18	cut											scenario_main_story_sn_31_2_1			
+19	0	19	talker_out												3	2	false
+20	0	20	cut											scenario_main_story_sn_31_2_2			
+21	0	21	talk		31_12	yulia	talker_in	5	5	3	true						
+22	0	22	talk		31_13	yulia	talker_reorder										
+23	0	23	talk		31_14	yulia	talker_reorder										
+24	0	24	talk		31_15	yulia	talker_in	1	3	3	false						
+25	0	25	talk		31_16	yulia	talker_reorder										
+26	0	26	talk		31_17		talk										
+27	0	27	talk		31_18	yulia	talker_in	5	5	3	false						
+28	0	28	talk		31_19	yulia	talker_reorder										
+29	0	29	talk		31_20	yulia	talker_reorder										
+30	0	30	bgm	bg_colosseum_battle_2													
+31	0	31	talk		31_21	popo	talker_in	1	6	1	true						
+32	0	32	talk		31_22	yulia	talker_reorder										
+33	0	33	talk		31_23	popo	talker_reorder										
+34	0	34	talk		31_24	popo	talker_reorder										
+35	0	35	talk		31_25		talk										
+36	0	36	talk		31_26	yulia	talker_reorder										
+37	0	37	talk		31_27		talk										
+38	0	38	talk		31_28		talk										

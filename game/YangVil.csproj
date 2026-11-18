@@ -1,0 +1,23 @@
+<Project Sdk="Godot.NET.Sdk/4.7.2">
+  <PropertyGroup>
+    <!-- 웹 내보내기 요구: net11.0 + Program.cs 최상위 문 -->
+    <TargetFramework>net11.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <Nullable>disable</Nullable>
+    <RootNamespace>YangVil</RootNamespace>
+  </PropertyGroup>
+  <!-- Program.cs = 웹 빌드 전용 -->
+  <ItemGroup Condition="'$(GodotTargetPlatform)' != 'web'">
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+  <PropertyGroup Condition="'$(GodotTargetPlatform)' == 'web'">
+    <OutputType>Exe</OutputType>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <WasmEmitSymbolMap>false</WasmEmitSymbolMap>
+    <JsonSerializerIsReflectionEnabledByDefault>true</JsonSerializerIsReflectionEnabledByDefault>
+    <PublishTrimmed>true</PublishTrimmed>
+  </PropertyGroup>
+  <ItemGroup Condition="'$(GodotTargetPlatform)' == 'web'">
+    <TrimmerRootAssembly Include="System.Text.Json" />
+  </ItemGroup>
+</Project>

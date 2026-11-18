@@ -1,0 +1,66 @@
+_row	_parent_row	_idx	op	talker	n	b1	track	key	npc_name	via	body	state	pos	enter	frame
+0	0	0	talker_out	1	2	false									
+1	0	1	talker_out	2	2	false									
+2	0	2	talker_out	1	1	false									
+3	0	3	bgm				bg_1								
+4	0	4	talk					40_1	nuri	talker_in	2	2	2	true	
+5	0	5	talk					40_2	jimon	talker_in	1	5	1	true	
+6	0	6	talk					40_3	nuri	talker_reorder					
+7	0	7	talk					40_4	jimon	talker_in	1	7	1	false	
+8	0	8	talk					40_5	nuri	talker_in	1	5	2	false	
+9	0	9	talk					40_6	jimon	talker_in	1	5	1	false	
+10	0	10	talk					40_7	jimon	talker_reorder					
+11	0	11	talk					40_8	nuri	talker_reorder					
+12	0	12	talk					40_9	jimon	talker_in	1	1	1	false	
+13	0	13	talk					40_10		talk					
+14	0	14	talker_out	1	2	false									
+15	0	15	talker_out	2	2	false									
+16	0	16	talk					40_11	nuri	talker_in	1	6	2	true	
+17	0	17	talk					40_12	jimon	talker_in	1	1	1	true	
+18	0	18	talk					40_13		talk					
+19	0	19	talk					40_14	nuri	talker_in	1	5	2	false	
+20	0	20	talk					40_15	jimon	talker_in	1	7	1	false	
+21	0	21	talk					40_16	nuri	talker_in	2	2	2	false	
+22	0	22	talk					40_17	jimon	talker_in	1	1	1	false	
+23	0	23	talk					40_18		talk					
+24	0	24	talk					40_19	nuri	talker_in	1	6	2	false	
+25	0	25	cut												scenario_main_story_sn_40_1
+26	0	26	talk					40_20	jimon	talker_in	1	1	1	false	
+27	0	27	talk					40_21		talk					
+28	0	28	talk					40_22		talk					
+29	0	29	talk					40_23		talk					
+30	0	30	talk					40_24	nuri	talker_in	1	5	2	false	
+31	0	31	talk					40_25	jimon	talker_in	1	5	1	false	
+32	0	32	talk					40_26	jimon	talker_reorder					
+33	0	33	talk					40_27		talk					
+34	0	34	talker_out	1	2	false									
+35	0	35	talker_out	2	2	false									
+36	0	36	sfx				effect_equip_success								
+37	0	37	bgm				bg_auction								
+38	0	38	talk					40_28	jimon	talker_in	1	5	1	true	
+39	0	39	talk					40_29		talk					
+40	0	40	talk					40_30	nuri	talker_in	1	3	2	true	
+41	0	41	talk					40_31	jimon	talker_in	1	1	1	false	
+42	0	42	talk					40_32	nuri	talker_in	1	3	2	false	
+43	0	43	talk					40_33	jimon	talker_in	1	3	1	false	
+44	0	44	talk					40_34	nuri	talker_in	1	3	2	false	
+45	0	45	talk					40_35	nuri	talker_in	1	3	2	false	
+46	0	46	talk					40_36	jimon	talker_in	1	5	1	false	
+47	0	47	talk					40_37	nuri	talker_in	1	3	2	false	
+48	0	48	talk					40_38		talk					
+49	0	49	talker_out	1	2	false									
+50	0	50	talker_out	2	2	false									
+51	0	51	bgm				bg_battle_boss								
+52	0	52	sfx				effect_walk								
+53	0	53	talk					40_39	nuri	talker_in	1	4	2	true	
+54	0	54	bgm				bg_yutakan								
+55	0	55	talk					40_40	jimon	talker_in	1	1	1	true	
+56	0	56	talk					40_41		talk					
+57	0	57	talk					40_42	nuri	talker_in	1	1	2	false	
+58	0	58	talk					40_43	jimon	talker_in	1	5	1	false	
+59	0	59	talk					40_44	nuri	talker_in	1	7	2	false	
+60	0	60	talk					40_45	jimon	talker_in	1	3	1	false	
+61	0	61	talk					40_46	nuri	talker_in	1	1	2	false	
+62	0	62	talker_out	1	2	false									
+63	0	63	talker_out	2	2	false									
+64	0	64	talker_out	1	1	false									

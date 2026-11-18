@@ -1,0 +1,20 @@
+{
+  "table": "StoryMonsters__monsters__battle_no",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/story_monsters.json",
+    "source_sha256": "63e30893a5908d8d7ab893a914262160faa38a048c02643707f90348504d5fc0",
+    "source_row_count": 4
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "StoryMonsters__monsters",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

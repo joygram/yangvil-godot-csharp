@@ -1,0 +1,20 @@
+{
+  "table": "Story__chapters",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/story.json",
+    "source_sha256": "8affa795f75f4315f39c5dd81f2d69d01b58341cc24cacc3426c5ecff2e7dcca",
+    "source_row_count": 11
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Story",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

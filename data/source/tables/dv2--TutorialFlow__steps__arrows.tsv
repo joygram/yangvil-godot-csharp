@@ -1,0 +1,32 @@
+_row	_parent_row	_idx	delay	flip_x	rot	on_target
+0	4	0	0.5	false	90	
+1	6	0	0.0	true		true
+2	7	0	0.0	false	0	true
+3	8	0	0.0	false	0	true
+4	9	0	0.0	false	0	true
+5	10	0	0.0	false	0	true
+6	11	0	0.0	false	90	true
+7	12	0	0.0	false	90	true
+8	13	0	0.0	false	90	true
+9	14	0	0.0	false	90	true
+10	16	0	0.0	true		true
+11	16	1	0.0	false	90	true
+12	20	0	0.3	false	45	
+13	22	0	0.3	false	45	
+14	23	0	0.0	false	90	true
+15	25	0	0.0	true		
+16	26	0	0.0	false	0	
+17	28	0	0.0	false	0	
+18	31	0	0.3	false	45	
+19	32	0	0.0	false	90	true
+20	33	0	0.0	true		
+21	34	0	0.0	false	0	
+22	35	0	0.0	false	90	true
+23	36	0	0.5	true		
+24	37	0	0.0	false	0	
+25	39	0	0.3	false	45	
+26	40	0	0.5	true		
+27	41	0	0.0	false	0	
+28	63	0	0.0	false	90	true
+29	73	0	0.0	false	90	true
+30	79	0	0.0	false	90	true

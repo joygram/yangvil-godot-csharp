@@ -1,0 +1,4 @@
+_row	_parent_row	_idx	id	name	level	element	hp_max	att	def	boss
+0	5	0	75	#6847838a	45	dark	700	170	75	false
+1	8	0	73	#456f7aa4	33	wind	388	131	58	false
+2	9	0	74	#516dc282	36	none	100	11	11	false

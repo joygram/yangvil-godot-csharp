@@ -1,0 +1,48 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	bgm	bg_magicshop										
+1	0	1	talk		39_1	yulia	talker_in	5	5	3	true			
+2	0	2	talk		39_2	yulia	talker_reorder							
+3	0	3	talk		39_3		talk							
+4	0	4	talk		39_4	yulia	talker_reorder							
+5	0	5	talk		39_5	yulia	talker_reorder							
+6	0	6	talk		39_6		talk							
+7	0	7	talk		39_7		talk							
+8	0	8	talk		39_8	yulia	talker_reorder							
+9	0	9	talk		39_9	nuri	talker_in	2	2	2	true			
+10	0	10	talk		39_10	jimon	talker_in	2	2	1	true			
+11	0	11	talk		39_11		talk							
+12	0	12	talk		39_12	jimon	talker_in	1	5	1	false			
+13	0	13	talk		39_13	nuri	talker_in	1	5	2	false			
+14	0	14	talk		39_14	jimon	talker_in	1	6	1	false			
+15	0	15	talk		39_15	nuri	talker_in	1	5	2	false			
+16	0	16	talk		39_16	jimon	talker_reorder							
+17	0	17	talk		39_17	nuri	talker_reorder							
+18	0	18	talk		39_18		talk							
+19	0	19	talker_out									1	2	false
+20	0	20	talker_out									2	2	false
+21	0	21	talk		39_19	yulia	talker_reorder							
+22	0	22	talk		39_20	yulia	talker_reorder							
+23	0	23	talk		39_21	nuri	talker_in	1	5	1	true			
+24	0	24	talk		39_22	yulia	talker_reorder							
+25	0	25	talk		39_23	jimon	talker_in	1	5	2	true			
+26	0	26	talk		39_24	jimon	talker_reorder							
+27	0	27	talk		39_25	jimon	talker_reorder							
+28	0	28	talk		39_26	yulia	talker_reorder							
+29	0	29	talk		39_27	yulia	talker_reorder							
+30	0	30	talk		39_28	nuri	talker_in	2	2	1	false			
+31	0	31	talk		39_29	jimon	talker_in	2	2	2	false			
+32	0	32	talk		39_30		talk							
+33	0	33	talk		39_31		talk							
+34	0	34	talk		39_32	nuri	talker_in	1	1	2	true			
+35	0	35	bgm	bg_auction										
+36	0	36	talk		39_33	jimon	talker_in	1	5	1	true			
+37	0	37	talk		39_34	nuri	talker_in	1	5	2	false			
+38	0	38	talk		39_35	nuri	talker_in	1	1	2	false			
+39	0	39	talk		39_36	jimon	talker_in	1	5	1	false			
+40	0	40	bgm	bg_auction										
+41	0	41	talk		39_37	nuri	talker_in	1	1	2	true			
+42	0	42	talk		39_38		talk							
+43	0	43	talk		39_39	jimon	talker_in	1	5	1	true			
+44	0	44	talk		39_40	nuri	talker_in	2	2	2	false			
+45	0	45	talk		39_41	jimon	talker_in	1	1	1	false			
+46	0	46	talk		39_42		talk							

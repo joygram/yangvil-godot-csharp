@@ -1,0 +1,14 @@
+{
+  "table": "StoryBattles",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/story_battles.json",
+    "source_sha256": "4108e17260173ed3026af9388889d3e54ffadca4677ea71e66a3d8dcbf5b28f4",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

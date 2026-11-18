@@ -1,0 +1,55 @@
+_row	_parent_row	_idx	op	talker	n	b1	track	key	npc_name	via	battle	body	state	pos	enter	illust	kind	npc_name_guess
+0	0	0	talker_out	1	2	false												
+1	0	1	talker_out	2	2	false												
+2	0	2	talker_out	3	2	false												
+3	0	3	bgm				bg_9											
+4	0	4	talk					62_1		talk								
+5	0	5	talk					62_2		talk								
+6	0	6	sfx				effect_monster_in											
+7	0	7	talk					62_3		talk								
+8	0	8	sfx				effect_monster_in											
+9	0	9	talk					62_4		talk								
+10	0	10	talk					62_5		talk								
+11	0	11	sfx				effect_monster_in											
+12	0	12	talk					62_6		talk								
+13	0	13	battle								25							
+14	0	14	bgm				bg_9											
+15	0	15	bgm				bg_battle_boss											
+16	0	16	sfx				effect_monster_out											
+17	0	17	talk					62_7		talk								
+18	0	18	talk					62_8		talk								
+19	0	19	talk					62_9		talk								
+20	0	20	talk					62_10	who	talker_in		1	1	3	true			
+21	0	21	illust													62	1	
+22	0	22	bgm				bg_magicshop											
+23	0	23	bgm				bg_6											
+24	0	24	bgm				bg_battle_boss											
+25	0	25	sfx				effect_monster_out											
+26	0	26	talk					62_11	yulia	talker_in		1	6	3	true			
+27	0	27	talk					62_12	kanggalo	talker_in		1	1	2	false			
+28	0	28	talk					62_13		talk								
+29	0	29	talk					62_14	yulia	talker_in		1	1	3	false			
+30	0	30	talk					62_15	kanggalo	talker_in		1	1	2	false			
+31	0	31	talk					62_16	yulia	talker_in		5	5	3	false			
+32	0	32	talk					62_17	kanggalo	talker_in		1	1	2	false			
+33	0	33	talk					62_18	kanggalo	talker_in		1	2	2	false			
+34	0	34	talk					62_19	kanggalo	talker_in		1	2	2	false			
+35	0	35	talk					62_20		talk								kanggalo
+36	0	36	talker_out	3	2	false												
+37	0	37	talker_out	2	2	false												
+38	0	38	talk					62_21		talk								
+39	0	39	talk					62_22		talk								
+40	0	40	bgm				bg_10											
+41	0	41	bgm				bg_6											
+42	0	42	bgm				bg_1											
+43	0	43	sfx				effect_walk											
+44	0	44	talk					62_23	blackrobe	talker_in		1	1	3	true			
+45	0	45	talk					62_24	who	talker_in		1	1	2	true			
+46	0	46	talk					62_25	blackrobe	talker_in		1	1	3	false			
+47	0	47	talk					62_26	blackrobe	talker_in		1	1	3	false			
+48	0	48	talk					62_27	blackrobe	talker_in		1	1	3	false			
+49	0	49	talker_out	3	2	false												
+50	0	50	talk					62_28	who	talker_in		1	1	2	false			
+51	0	51	talker_out	1	2	false												
+52	0	52	talker_out	2	2	false												
+53	0	53	talker_out	3	2	false												

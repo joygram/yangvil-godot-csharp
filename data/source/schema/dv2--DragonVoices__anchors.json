@@ -1,0 +1,20 @@
+{
+  "table": "DragonVoices__anchors",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/dragon_voices.json",
+    "source_sha256": "bbd4a3a81c23e42933953af12a3c724601492f112fda751c1bee69f75acb1a26",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "DragonVoices",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

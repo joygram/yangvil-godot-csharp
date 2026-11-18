@@ -1,0 +1,29 @@
+{
+  "table": "NpcFace__npc",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/npc_face.json",
+    "source_sha256": "8bcb3f784e80055bcc7c89a1954fa9746cd068eacf6634bda1ccf8ca9668f414",
+    "source_row_count": 45
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "NpcFace",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "?"
+  ]
+}

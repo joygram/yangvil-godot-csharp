@@ -1,0 +1,5 @@
+_row	_parent_row	_idx	id	name	accepts
+0	0	0	all	#3b5f19e7	*
+1	0	1	battle	#fc719ec6	["cri","pure","cri_pow","accuracy"]
+2	0	2	support	#9b5ad1b5	["evd","cure","awaken_rate","depure"]
+3	0	3	artifact	#c9df0479	["artifact"]

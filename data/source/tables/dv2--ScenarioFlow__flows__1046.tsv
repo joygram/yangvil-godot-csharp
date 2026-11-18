@@ -1,0 +1,4 @@
+_row	_parent_row	_idx	op	key	npc_name	body	state	_recovered
+0	0	0	talk	1046_1				literal
+1	0	1	talk	1046_2				literal
+2	0	2	talker_in			1	1	

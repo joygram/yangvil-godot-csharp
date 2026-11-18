@@ -1,0 +1,91 @@
+_row	_parent_row	_idx	op	key	npc_name	body	state	_recovered	track	via	talker	n	b1
+0	0	0	talk	108_1				resource					
+1	0	1	talk	108_2				resource					
+2	0	2	talk	108_3				resource					
+3	0	3	talk	108_4				resource					
+4	0	4	talk	108_5				resource					
+5	0	5	talk	108_6				resource					
+6	0	6	talk	108_7				resource					
+7	0	7	talk	108_8				resource					
+8	0	8	talk	108_9				resource					
+9	0	9	talk	108_10				resource					
+10	0	10	talk	108_11				resource					
+11	0	11	talk	108_12				resource					
+12	0	12	talk	108_13				resource					
+13	0	13	talk	108_14				resource					
+14	0	14	talk	108_15				resource					
+15	0	15	talk	108_16				resource					
+16	0	16	talk	108_17				resource					
+17	0	17	talk	108_18				resource					
+18	0	18	talk	108_19				resource					
+19	0	19	talk	108_20				resource					
+20	0	20	talk	108_21				resource					
+21	0	21	talk	108_22				resource					
+22	0	22	talk	108_23				resource					
+23	0	23	talk	108_24				resource					
+24	0	24	talk	108_25				resource					
+25	0	25	talk	108_26				resource					
+26	0	26	talk	108_27				resource					
+27	0	27	talk	108_28				resource					
+28	0	28	talk	108_29				resource					
+29	0	29	talk	108_30				resource					
+30	0	30	talk	108_31				resource					
+31	0	31	sfx						effect_walk				
+32	0	32	bgm						bg_16				
+33	0	33	talk	p0	hero					talk_auto			
+34	0	34	bgm						bg_16				
+35	0	35	sfx						effect_walk				
+36	0	36	bgm						bg_16				
+37	0	37	sfx						effect_dragon_incubation				
+38	0	38	sfx						effect_walk				
+39	0	39	bgm						bg_16				
+40	0	40	sfx						effect_walk				
+41	0	41	bgm						bg_16				
+42	0	42	sfx						effect_walk				
+43	0	43	bgm						bg_16				
+44	0	44	talker_out								1	2	false
+45	0	45	talker_out								2	2	false
+46	0	46	talk	p23	prologuemonster					talk			
+47	0	47	sfx						effect_walk				
+48	0	48	bgm						bg_16				
+49	0	49	sfx						effect_walk				
+50	0	50	bgm						bg_16				
+51	0	51	bgm						bg_16				
+52	0	52	sfx						effect_bomb				
+53	0	53	sfx						effect_egg				
+54	0	54	sfx						effect_walk				
+55	0	55	bgm						bg_16				
+56	0	56	sfx						effect_walk				
+57	0	57	bgm						bg_16				
+58	0	58	sfx						effect_bomb				
+59	0	59	sfx						effect_egg				
+60	0	60	sfx						effect_walk				
+61	0	61	bgm						bg_16				
+62	0	62	sfx						effect_walk				
+63	0	63	bgm						bg_16				
+64	0	64	sfx						effect_walk				
+65	0	65	bgm						bg_16				
+66	0	66	sfx						effect_walk				
+67	0	67	bgm						bg_16				
+68	0	68	sfx						effect_walk				
+69	0	69	bgm						bg_16				
+70	0	70	sfx						effect_walk				
+71	0	71	bgm						bg_16				
+72	0	72	sfx						effect_walk				
+73	0	73	bgm						bg_16				
+74	0	74	sfx						effect_walk				
+75	0	75	bgm						bg_16				
+76	0	76	sfx						effect_walk				
+77	0	77	bgm						bg_16				
+78	0	78	sfx						effect_walk				
+79	0	79	bgm						bg_16				
+80	0	80	sfx						effect_walk				
+81	0	81	bgm						bg_16				
+82	0	82	sfx						effect_walk				
+83	0	83	bgm						bg_16				
+84	0	84	sfx						effect_walk				
+85	0	85	bgm						bg_16				
+86	0	86	sfx						effect_walk				
+87	0	87	bgm						bg_16				
+88	0	88	sfx						effect_walk				
+89	0	89	bgm						bg_16				

@@ -1,0 +1,2 @@
+_row	_parent_row	win	lose	streak_bonus_per	streak_bonus_max	mode_mult
+0	0	6	2	1	10	{"single":1.0,"team":2.0}

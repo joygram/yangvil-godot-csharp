@@ -1,0 +1,14 @@
+{
+  "table": "CardCodes",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/card_codes.json",
+    "source_sha256": "c1d3269e12b8850546769ff37751f2d86ff31b96f947bc6c5e8de714580dc4cb",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

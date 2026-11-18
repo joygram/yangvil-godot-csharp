@@ -1,0 +1,20 @@
+{
+  "table": "TeamBuffs__buffs__effect",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/team_buffs.json",
+    "source_sha256": "7512b31fbabf46f188c02dfe360cd0990ad235a9b50ef4d7a1659092503c0403",
+    "source_row_count": 64
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "TeamBuffs__buffs",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

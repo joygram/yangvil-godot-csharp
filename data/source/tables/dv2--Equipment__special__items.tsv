@@ -1,0 +1,13 @@
+_row	_parent_row	_idx	name	main	bonus
+0	0	0	#655a9782	{"pure":40}	
+1	0	1	#21028247	{"pure":40}	
+2	0	2	#f80b0f52	{"pure":40}	
+3	0	3	#b9c32370	{"pure":40}	
+4	0	4	#f0602633	{"pure":40}	
+5	0	5	#ee77fa59	{"pure":40}	
+6	1	0	#5952a7df	{"pure":40}	
+7	1	1	#0dbbc433	{"evd":13}	
+8	1	2	#6694d8cd	{"cri":13}	
+9	2	0	#464e2bbe	{"evd":13}	
+10	2	1	#40b4d8a6	{"accuracy":13}	
+11	2	2	#21f23f43	{"depure":20}	

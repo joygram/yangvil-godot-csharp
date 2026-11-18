@@ -1,0 +1,19 @@
+_row	_parent_row	_idx	addr	class	field_type	battle_no	episode	step	attr
+0	0	0	22537116	Scenario2	1	6	19	12	call
+1	0	1	22537224	Scenario2	1	5	19	5	call
+2	0	2	22537328	Scenario2	1	7	19	26	call
+3	0	3	22605076	Scenario3	1	8	22	10	call
+4	0	4	22614384	Scenario3	1	12	28	15	call
+5	0	5	22630960	Scenario3	1	13	29	26	gate
+6	0	6	22633064	Scenario3	1	11	27	36	call
+7	0	7	22638852	Scenario3	1	9	24	17	call
+8	0	8	22638960	Scenario3	1	10	24	20	call
+9	0	9	22770192	Scenario4	1	15	33	12	call
+10	0	10	22810060	Scenario4	1	14	32	7	call
+11	0	11	22939916	Scenario5	1	21	48	11	call
+12	0	12	22968848	Scenario5	1	16	46	93	call
+13	0	13	23145176	Scenario6	1	22	53	12	call
+14	0	14	23316352	Scenario7	1	24	59	12	call
+15	0	15	23319260	Scenario7	1	25	62	8	call
+16	0	16	23447940	ScenarioSupport					
+17	0	17	23901500	ScenarioLayer	1	4			

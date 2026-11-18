@@ -1,0 +1,3 @@
+_row	_parent_row	_idx	when	ops
+0	83	0	{"kind":"self_hp_at_most","pct":20}	[{"kind":"dmg_deal","pct":25}]
+1	90	0	{"kind":"enemy_hp_sum"}	[{"kind":"stat","stat":"att","mode":"flat","value":0.1,"max":1000}]

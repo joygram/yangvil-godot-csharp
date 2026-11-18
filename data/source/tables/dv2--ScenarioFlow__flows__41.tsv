@@ -1,0 +1,73 @@
+_row	_parent_row	_idx	op	talker	n	b1	track	key	npc_name	via	body	state	pos	enter	frame
+0	0	0	talker_out	1	2	false									
+1	0	1	talker_out	2	2	false									
+2	0	2	talker_out	1	1	false									
+3	0	3	bgm				bg_2								
+4	0	4	talk					41_1	jimon	talker_in	1	1	1	true	
+5	0	5	talk					41_2	nuri	talker_in	2	2	2	true	
+6	0	6	talk					41_3	jimon	talker_in	3	7	1	false	
+7	0	7	talk					41_4	nuri	talker_in	1	7	2	false	
+8	0	8	talk					41_5	jimon	talker_in	1	5	1	false	
+9	0	9	talk					41_6		talk					
+10	0	10	talker_out	1	2	false									
+11	0	11	talker_out	2	2	false									
+12	0	12	sfx				effect_walk								
+13	0	13	talk					41_11		talk					
+14	0	14	talk					41_7		talk					
+15	0	15	talk					41_8		talk					
+16	0	16	talk					41_9		talk					
+17	0	17	talk					41_10		talk					
+18	0	18	cut												scenario_main_story_sn_41_1
+19	0	19	talk					41_12		talk					
+20	0	20	talk					41_13		talk					
+21	0	21	talk					41_14		talk					
+22	0	22	talk					41_15	nuri	talker_in	2	2	2	true	
+23	0	23	talk					41_16	jimon	talker_in	2	2	1	true	
+24	0	24	talk					41_17		talk					
+25	0	25	talk					41_18	nuri	talker_reorder					
+26	0	26	talk					41_19	jimon	talker_reorder					
+27	0	27	talker_out	1	2	false									
+28	0	28	talker_out	2	2	false									
+29	0	29	sfx				effect_walk								
+30	0	30	bgm				bg_battle_boss								
+31	0	31	bgm				bg_auction								
+32	0	32	talk					41_20	nuri	talker_in	1	1	2	true	
+33	0	33	talk					41_21	jimon	talker_in	1	5	1	true	
+34	0	34	talk					41_22	jimon	talker_in	1	1	1	false	
+35	0	35	talk					41_23	nuri	talker_in	1	5	2	false	
+36	0	36	talk					41_24	raon	talker_in	1	1	3	true	
+37	0	37	talk					41_25		talk					
+38	0	38	talk					41_26	raon	talker_in	1	1	3	false	
+39	0	39	talk					41_27	nuri	talker_in	1	1	2	false	
+40	0	40	talk					41_28	jimon	talker_in	1	1	1	false	
+41	0	41	talk					41_29	raon	talker_in	1	3	3	false	
+42	0	42	talk					41_30		talk					
+43	0	43	talk					41_31	raon	talker_in	1	1	3	false	
+44	0	44	talk					41_32	raon	talker_in	1	3	3	false	
+45	0	45	talk					41_33	raon	talker_in	1	1	3	false	
+46	0	46	talk					41_34		talk					
+47	0	47	talk					41_35	raon	talker_in	1	1	3	false	
+48	0	48	talker_out	3	2	false									
+49	0	49	talk					41_36	nuri	talker_in	1	5	2	false	
+50	0	50	talk					41_37	jimon	talker_in	1	5	1	false	
+51	0	51	talk					41_38		talk					
+52	0	52	talker_out	1	2	false									
+53	0	53	talker_out	2	2	false									
+54	0	54	talk					41_42	kanggalo	talker_in	1	2	3	true	
+55	0	55	bgm				bg_auction								
+56	0	56	talk					41_39	nuri	talker_in	1	1	2	true	
+57	0	57	talk					41_40	jimon	talker_in	1	5	1	true	
+58	0	58	talk					41_41	nuri	talker_in	1	3	2	false	
+59	0	59	talk					41_43		talk					
+60	0	60	talk					41_44	kanggalo	talker_in	1	1	3	false	
+61	0	61	talk					41_45	kanggalo	talker_in	1	2	3	false	
+62	0	62	talk					41_46	kanggalo	talker_in	1	1	3	false	
+63	0	63	talk					41_47		talk					
+64	0	64	talk					41_48		talk					
+65	0	65	talk					41_49	jimon	talker_in	1	1	1	false	
+66	0	66	talk					41_50	kanggalo	talker_in	1	1	3	false	
+67	0	67	talk					41_51	nuri	talker_in	2	2	2	false	
+68	0	68	talk					41_52	kanggalo	talker_in	1	3	3	false	
+69	0	69	talker_out	1	2	false									
+70	0	70	talker_out	2	2	false									
+71	0	71	talker_out	1	1	false									

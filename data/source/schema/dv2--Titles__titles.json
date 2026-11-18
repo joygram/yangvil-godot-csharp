@@ -1,0 +1,20 @@
+{
+  "table": "Titles__titles",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/titles.json",
+    "source_sha256": "99dc9c384467584a3f29a19adc03c2f72d7bdaf02fcda531d8d77404f90627c2",
+    "source_row_count": 149
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Titles",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}

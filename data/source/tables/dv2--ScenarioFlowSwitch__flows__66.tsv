@@ -1,0 +1,72 @@
+_row	_parent_row	_idx	op	talker	n	b1	track	key	npc_name	via	body	state	pos	enter	illust	kind	npc_name_guess
+0	0	0	talker_out	1	2	false											
+1	0	1	talker_out	2	2	false											
+2	0	2	talker_out	3	2	false											
+3	0	3	bgm				bg_town										
+4	0	4	talk					66_1		talk							
+5	0	5	talk					66_2	annie	talker_in	1	3	2	true			
+6	0	6	talk					66_3	kanggalo	talker_in	1	1	3	true			
+7	0	7	talk					66_4	randolph	talker_in	1	4	1	true			
+8	0	8	talk					66_5	annie	talker_in	1	3	2	false			
+9	0	9	talk					66_6	kanggalo	talker_in	1	1	3	false			
+10	0	10	talker_out	1	2	false											
+11	0	11	talker_out	2	2	false											
+12	0	12	talker_out	3	2	false											
+13	0	13	bgm				bg_auction										
+14	0	14	talk					66_7	nuri	talker_in	1	4	2	true			
+15	0	15	talk					66_8		talk							
+16	0	16	talk					66_9	nuri	talker_in	1	1	2	false			
+17	0	17	talk					66_10	nuri	talker_in	1	1	2	false			
+18	0	18	talk					66_11		talk							
+19	0	19	talker_out	2	2	false											
+20	0	20	talker_out	1	2	false											
+21	0	21	talker_out	3	2	false											
+22	0	22	bgm				bg_7										
+23	0	23	talk					66_12		talk							
+24	0	24	talk					66_13	annie	talker_in	1	1	3	true			
+25	0	25	talk					66_14		talk							
+26	0	26	talk					66_15	annie	talker_in	1	1	3	false			
+27	0	27	talk					66_16		talk							
+28	0	28	talk					66_17	randolph	talker_in	1	1	2	true			
+29	0	29	talk					66_18	kanggalo	talker_in	1	1	1	true			
+30	0	30	talk					66_19	annie	talker_in	1	1	3	false			
+31	0	31	talker_out	1	2	false											
+32	0	32	talker_out	2	2	false											
+33	0	33	talker_out	3	2	false											
+34	0	34	talk					66_20		talk							
+35	0	35	talk					66_21		talk							
+36	0	36	talk					66_22		talk							
+37	0	37	talk					66_23		talk							
+38	0	38	talk					66_24		talk							
+39	0	39	talk					66_25		talk							
+40	0	40	talk					66_26		talk							
+41	0	41	talk					66_27		talk							
+42	0	42	illust												66	1	
+43	0	43	talk					66_28		talk							
+44	0	44	talk					66_29		talk							
+45	0	45	talk					66_30		talk							
+46	0	46	talk					66_31	randolph	talker_in	1	1	2	true			
+47	0	47	talk					66_32	annie	talker_in	1	2	3	true			
+48	0	48	talk					66_33	kanggalo	talker_in	1	2	1	true			
+49	0	49	talk					66_34		talk							kanggalo
+50	0	50	talk					66_35	randolph	talker_in	1	1	2	false			
+51	0	51	talk					66_36	kanggalo	talker_in	1	1	1	false			
+52	0	52	talk					66_37	annie	talker_in	1	2	3	false			
+53	0	53	talk					66_38	randolph	talker_in	1	4	2	false			
+54	0	54	talk					66_39	kanggalo	talker_in	1	2	1	false			
+55	0	55	talker_out	1	2	false											
+56	0	56	talker_out	2	2	false											
+57	0	57	talker_out	3	2	false											
+58	0	58	bgm				bg_town										
+59	0	59	talk					66_40	nuri	talker_in	1	1	2	true			
+60	0	60	talk					66_41	nuri	talker_in	1	5	2	false			
+61	0	61	talk					66_42	jimon	talker_in	1	3	3	true			
+62	0	62	talk					66_43	dilis	talker_in	1	2	1	true			
+63	0	63	talk					66_44	jimon	talker_in	1	3	3	false			
+64	0	64	talk					66_45	dilis	talker_in	1	2	1	false			
+65	0	65	talk					66_46		talk							
+66	0	66	talk					66_47	nuri	talker_in	1	7	2	false			
+67	0	67	talk					66_48	nuri	talker_in	1	5	2	false			
+68	0	68	talker_out	1	2	false											
+69	0	69	talker_out	2	2	false											
+70	0	70	talker_out	3	2	false											

@@ -1,0 +1,55 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	battle	talker	n	b1
+0	0	0	bgm	bg_12											
+1	0	1	talk		29_1	yulia	talker_in	1	3	2	true				
+2	0	2	talk		29_2	who	talker_in	1	1	1	true				
+3	0	3	talk		29_3	yulia	talker_in	1	3	2	false				
+4	0	4	talk		29_4	who	talker_reorder								
+5	0	5	talk		29_5	yulia	talker_reorder								
+6	0	6	talk		29_6	who	talker_reorder								
+7	0	7	talk		29_7	yulia	talker_in	1	6	2	false				
+8	0	8	talk		29_8	who	talker_reorder								
+9	0	9	talk		29_9	yulia	talker_in	1	3	2	false				
+10	0	10	talk		29_10	who	talker_reorder								
+11	0	11	talk		29_11	yulia	talker_in	1	7	2	false				
+12	0	12	talk		29_12	who	talker_reorder								
+13	0	13	talk		29_13	yulia	talker_in	1	3	2	false				
+14	0	14	talk		29_14	who	talker_reorder								
+15	0	15	talk		29_15	who	talker_reorder								
+16	0	16	talk		29_16	who	talker_reorder								
+17	0	17	talk		29_17	yulia	talker_in	1	6	2	false				
+18	0	18	talk		29_18	who	talker_reorder								
+19	0	19	talk		29_19	who	talker_reorder								
+20	0	20	talk		29_20		talk								
+21	0	21	talk		29_21	who	talker_reorder								
+22	0	22	talk		29_22	yulia	talker_in	1	1	2	false				
+23	0	23	talk		29_23	who	talker_reorder								
+24	0	24	talk		29_24	prologuemonster	talk								
+25	0	25	battle									13			
+26	0	26	talker_out										1	1	false
+27	0	27	talker_out										2	1	false
+28	0	28	sfx	effect_dragon_damaged_2											
+29	0	29	sfx	effect_dragon_damaged_1											
+30	0	30	sfx	effect_dragon_damaged_1											
+31	0	31	sfx	effect_dragon_damaged_2											
+32	0	32	bgm	bg_12											
+33	0	33	talk		29_25	yulia	talker_in	1	6	2	true				
+34	0	34	talk		29_26	blackrobe	talker_in	1	1	3	true				
+35	0	35	talk		29_27	blackrobe	talker_reorder								
+36	0	36	talk		29_28	blackrobe	talker_reorder								
+37	0	37	sfx	effect_dragon_damaged_2											
+38	0	38	sfx	effect_dragon_damaged_1											
+39	0	39	talk		29_30	arnold	talker_in	3	3	2	true				
+40	0	40	talk		29_29	blackrobe	talker_reorder								
+41	0	41	sfx	effect_dragon_damaged_1											
+42	0	42	talker_out										2	2	false
+43	0	43	sfx	effect_dragon_damaged_1											
+44	0	44	sfx	effect_dragon_damaged_2											
+45	0	45	talk		29_31	florence	talker_in	1	3	1	true				
+46	0	46	sfx	effect_dragon_damaged_2											
+47	0	47	talk		29_32	nuriwithjimon	talk								
+48	0	48	talker_out										1	2	false
+49	0	49	talker_out										2	2	false
+50	0	50	talk		29_33	blackrobe	talker_reorder								
+51	0	51	talk		29_34	blackrobe	talker_reorder								
+52	0	52	talk		29_35		talk								
+53	0	53	talk		29_36		talk								

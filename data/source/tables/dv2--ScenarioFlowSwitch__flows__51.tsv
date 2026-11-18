@@ -1,0 +1,18 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	bgm	bg_metal_tower										
+1	0	1	talk		51_1	arnold	talker_in	1	1	3	true			
+2	0	2	talk		51_2	arnold	talker_in	1	2	3	false			
+3	0	3	talk		51_3		talk							
+4	0	4	talk		51_4	arnold	talker_in	1	5	3	false			
+5	0	5	talk		51_5	arnold	talker_in	1	2	3	false			
+6	0	6	talk		51_6		talk							
+7	0	7	talk		51_7	arnold	talker_in	1	5	3	false			
+8	0	8	talk		51_8	arnold	talker_in	1	5	3	false			
+9	0	9	talk		51_9	arnold	talker_in	1	2	3	false			
+10	0	10	talk		51_10	arnold	talker_in	1	1	3	false			
+11	0	11	talk		51_11		talk							
+12	0	12	talk		51_12		talk							
+13	0	13	talk		51_13		talk							
+14	0	14	talker_out									3	2	false
+15	0	15	bgm	bg_odaron										
+16	0	16	talk		51_14		talk							

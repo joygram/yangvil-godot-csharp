@@ -1,0 +1,47 @@
+_row	_parent_row	_idx	op	talker	n	b1	key	npc_name	via	track	pos	state	emoticon	enter	npc_name_guess	costar	costar_pos
+0	0	0	talker_out	1	2	false											
+1	0	1	talker_out	2	2	false											
+2	0	2	talker_out	3	2	false											
+3	0	3	talk				68_1		talk								
+4	0	4	talk				68_2		talk								
+5	0	5	talk				68_3		talk								
+6	0	6	talker_out	1	2	false											
+7	0	7	talker_out	2	2	false											
+8	0	8	talker_out	3	2	false											
+9	0	9	bgm							bg_auction							
+10	0	10	talk				68_4		play		3	1	5	true			
+11	0	11	talk				68_5		talk								
+12	0	12	talk				68_6		play		3	3	8	false	randolph		
+13	0	13	talk				68_7		talk								
+14	0	14	sfx							effect_explosion							
+15	0	15	bgm							bg_town							
+16	0	16	talk				68_8		talk								
+17	0	17	talk				68_9		play		3	1	1	true	randolph		
+18	0	18	talk				68_10		play		2	1	5	true	randolph	true	3
+19	0	19	talk				68_11		play		3	3	1	false	randolph	true	2
+20	0	20	talk				68_12		play		2	2	4	false	randolph	true	3
+21	0	21	talk				68_13		play		3	3	8	false	randolph	true	2
+22	0	22	talk				68_14		play		3	1		false	randolph		
+23	0	23	talk				68_15		play		3	1	1	false	randolph		
+24	0	24	talk				68_16		play		2	2	4	false	randolph	true	3
+25	0	25	talk				68_17		talk								
+26	0	26	talker_out	2	2	false											
+27	0	27	talker_out	3	2	false											
+28	0	28	sfx							effect_walk							
+29	0	29	bgm							bg_auction							
+30	0	30	talk				68_18		talk								
+31	0	31	talk				68_19		play		3	1	8	true			
+32	0	32	talk				68_20		play		3	1		false			
+33	0	33	talk				68_21		talk								
+34	0	34	talk				68_22		play		3	2	1	false			
+35	0	35	talk				68_23		play		3	2		false			
+36	0	36	talk				68_24		play		3	2	8	false			
+37	0	37	talk				68_25		talk								
+38	0	38	talk				68_26		play		3	1		false			
+39	0	39	talk				68_27		play		3	1		false			
+40	0	40	talk				68_28		play		3	1	8	false			
+41	0	41	talk				68_29		play		3	2		false			
+42	0	42	talk				68_30		talk								
+43	0	43	talker_out	1	2	false											
+44	0	44	talker_out	2	2	false											
+45	0	45	talker_out	3	2	false											

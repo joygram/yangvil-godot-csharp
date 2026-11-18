@@ -1,0 +1,31 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1
+0	0	0	bgm	bg_shop										
+1	0	1	talk		6_1	nuri	talker_in	1	1	2	true			
+2	0	2	talk		6_2	jimon	talker_in	1	5	1	true			
+3	0	3	talk		6_3	nuri	talker_in	2	2	2	false			
+4	0	4	talk		6_4	jimon	talker_in	1	7	1	false			
+5	0	5	bgm	bg_scenario_comic										
+6	0	6	talk		6_5	kanggalo	talker_in	1	3	3	true			
+7	0	7	talk		6_6	kanggalo	talker_in	1	2	3	false			
+8	0	8	talk		6_7		talk							
+9	0	9	talk		6_8	kanggalo	talker_in	1	1	3	false			
+10	0	10	talk		6_9	kanggalo	talker_in	1	2	3	false			
+11	0	11	talk		6_10	kanggalo	talker_reorder							
+12	0	12	talk		6_11		talk							
+13	0	13	talk		6_12	nuri	talker_in	1	7	2	false			
+14	0	14	talk		6_13	jimon	talker_in	1	7	1	false			
+15	0	15	talk		6_14	kanggalo	talker_in	1	1	3	false			
+16	0	16	talk		6_15	nuri	talker_reorder							
+17	0	17	talk		6_16	kanggalo	talker_in	1	3	3	false			
+18	0	18	talk		6_17	kanggalo	talker_in	1	1	3	false			
+19	0	19	talker_out									3	1	true
+20	0	20	talk		6_18	kanggalo	talker_in	1	2	3	true			
+21	0	21	sfx	effect_tab										
+22	0	22	talk		6_19		talk							
+23	0	23	talk		6_20	nuri	talker_in	1	6	2	false			
+24	0	24	talk		6_21	jimon	talker_in	2	2	1	false			
+25	0	25	talk		6_22	kanggalo	talker_in	1	2	3	false			
+26	0	26	talk		6_23	kanggalo	talker_reorder							
+27	0	27	talk		6_24	kanggalo	talker_reorder							
+28	0	28	talk		6_25	kanggalo	talker_reorder							
+29	0	29	talk		6_26		talk							

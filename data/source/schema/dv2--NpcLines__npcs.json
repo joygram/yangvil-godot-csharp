@@ -1,0 +1,22 @@
+{
+  "table": "NpcLines__npcs",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/npc_lines.json",
+    "source_sha256": "34a2a29e2c2ab05029a0168aa421e5f9fa383cae29814dcaca9ffd762c35180d",
+    "source_row_count": 16
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "NpcLines",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": [
+    "lines"
+  ]
+}

@@ -1,0 +1,2 @@
+_row	_parent_row	border	dragon	icon	header
+0	0	common/list_frame_%s.png	common/dragon_frame_%s.png	common/tier_icon_%s.png	scene/colosseumrank/txt_%s_kr.png

@@ -1,0 +1,56 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1	illust	kind
+0	0	0	bgm	bg_auction												
+1	0	1	talk		35_1		talk									
+2	0	2	talk		35_2		talk									
+3	0	3	talk		35_3	arnold	talker_in	1	2	2	true					
+4	0	4	talk		35_4	florence	talker_in	1	2	1	true					
+5	0	5	talker_out									1	2	false		
+6	0	6	talk		35_5		talk									
+7	0	7	talk		35_6		talk									
+8	0	8	bgm	bg_scenario_peace												
+9	0	9	talk		35_7	jimon	talker_in	2	2	1	true					
+10	0	10	talk		35_8	nuri	talker_in	1	3	2	true					
+11	0	11	talk		35_9	jimon	talker_in	1	6	1	false					
+12	0	12	talk		35_10		talk									
+13	0	13	talk		35_11		talk									
+14	0	14	talk		35_12		talk									
+15	0	15	talk		35_13	nuri	talker_in	1	6	2	false					
+16	0	16	talk		35_14	jimon	talker_in	1	6	1	false					
+17	0	17	talk		35_15		talk									
+18	0	18	talk		35_16	nuri	talker_in	1	5	2	false					
+19	0	19	talk		35_17		talk									
+20	0	20	talk		35_18	jimon	talker_in	1	5	1	false					
+21	0	21	talk		35_19	jimon	talker_reorder									
+22	0	22	bgm	bg_scenario_comic												
+23	0	23	illust												35	1
+24	0	24	talker_out									1	2	false		
+25	0	25	talker_out									2	2	false		
+26	0	26	illust												35	2
+27	0	27	talker_out									2	2	false		
+28	0	28	talk		35_22		talk									
+29	0	29	illust												35	3
+30	0	30	talker_out									1	2	false		
+31	0	31	talk		35_24	nuri	talker_in	1	5	2	true					
+32	0	32	talk		35_25	nuri	talker_reorder									
+33	0	33	talk		35_26	jimon	talker_in	1	5	1	false					
+34	0	34	talk		35_27	jimon	talker_reorder									
+35	0	35	bgm	bg_scenario_peace												
+36	0	36	talk		35_28	nuri	talker_reorder									
+37	0	37	talk		35_29	nuri	talker_reorder									
+38	0	38	talk		35_30	jimon	talker_reorder									
+39	0	39	talk		35_31		talk									
+40	0	40	talk		35_32	jimon	talker_in	1	1	1	false					
+41	0	41	talk		35_33		talk									
+42	0	42	talk		35_34	nuri	talker_reorder									
+43	0	43	talk		35_35	jimon	talker_reorder									
+44	0	44	talk		35_36	nuri	talker_in	1	3	2	false					
+45	0	45	talk		35_37	jimon	talker_reorder									
+46	0	46	talk		35_38	nuri	talker_in	1	1	2	false					
+47	0	47	talk		35_39	nuri	talker_reorder									
+48	0	48	talk		35_40	jimon	talker_in	1	6	1	false					
+49	0	49	talk		35_41	nuri	talker_in	1	5	2	false					
+50	0	50	talk		35_42	nuri	talker_reorder									
+51	0	51	talk		35_43	jimon	talker_in	1	1	1	false					
+52	0	52	talk		35_44		talk									
+53	0	53	talk		35_45	jimon	talker_in	2	2	1	false					
+54	0	54	talk		35_46		talk									

@@ -1,0 +1,74 @@
+_row	_parent_row	_idx	op	track	key	npc_name	via	body	state	pos	enter	talker	n	b1	illust	kind	frame
+0	0	0	bgm	bg_soul													
+1	0	1	talk		57_1		talk										
+2	0	2	talk		57_2		talk										
+3	0	3	talk		57_3	florence	talker_in	1	4	2	true						
+4	0	4	talk		57_4		talk										
+5	0	5	talk		57_5	florence	talker_in	1	5	2	false						
+6	0	6	talk		57_6	florence	talker_in	1	1	2	false						
+7	0	7	talk		57_7		talk										
+8	0	8	talk		57_8	florence	talker_in	1	3	2	false						
+9	0	9	bgm	bg_colosseum_battle_2													
+10	0	10	talk		57_9	aida	talker_in	1	3	1	true						
+11	0	11	talk		57_10	florence	talker_in	1	6	2	false						
+12	0	12	talk		57_11	aida	talker_in	1	3	1	false						
+13	0	13	talker_out									1	2	false			
+14	0	14	talker_out									2	2	false			
+15	0	15	bgm	bg_parcondo													
+16	0	16	talk		57_42	florence	talker_in	1	6	3	true						
+17	0	17	talk		57_12		talk										
+18	0	18	talk		57_13	anjelro	talker_in	3	3	1	true						
+19	0	19	talk		57_14	berutaon	talker_in	1	1	2	true						
+20	0	20	talk		57_15	anjelro	talker_in	3	3	1	false						
+21	0	21	talk		57_16	berutaon	talker_in	1	5	2	false						
+22	0	22	talk		57_17	berutaon	talker_in	1	5	2	false						
+23	0	23	talk		57_18	anjelro	talker_in	1	1	1	false						
+24	0	24	talk		57_19	aidra	talker_in	1	3	3	true						
+25	0	25	talk		57_20	anjelro	talker_in	1	1	1	false						
+26	0	26	talk		57_21		talk										
+27	0	27	talk		57_22	aidra	talker_in	1	4	3	false						
+28	0	28	talker_out									1	2	true			
+29	0	29	talk		57_23	florence	talker_in	1	3	1	true						
+30	0	30	talk		57_24	berutaon	talker_in	1	1	2	false						
+31	0	31	talk		57_25		talk										
+32	0	32	talk		57_26	aidra	talker_in	1	3	3	false						
+33	0	33	talk		57_27	aidra	talker_in	5	5	3	false						
+34	0	34	talker_out									1	2	true			
+35	0	35	talk		57_28	anjelro	talker_in	3	3	1	true						
+36	0	36	talk		57_29		talk										
+37	0	37	talk		57_30	aidra	talker_in	1	2	3	false						
+38	0	38	talk		57_31	anjelro	talker_in	1	1	1	false						
+39	0	39	talk		57_32	aidra	talker_in	1	2	3	false						
+40	0	40	talk		57_33		talk										
+41	0	41	talk		57_34	berutaon	talker_in	1	1	2	false						
+42	0	42	talk		57_35	berutaon	talker_in	1	1	2	false						
+43	0	43	talk		57_36	berutaon	talker_in	1	1	2	false						
+44	0	44	talk		57_37	aidra	talker_in	5	5	3	false						
+45	0	45	talk		57_38	aidra	talker_in	1	1	3	false						
+46	0	46	talk		57_39	aidra	talker_in	1	2	3	false						
+47	0	47	talk		57_40		talk										
+48	0	48	talk		57_41		talk										
+49	0	49	talker_out									1	2	false			
+50	0	50	talker_out									2	2	false			
+51	0	51	talker_out									3	2	false			
+52	0	52	bgm	bg_elysium													
+53	0	53	talk		57_43	florence	talker_in	1	2	3	false						
+54	0	54	talk		57_44	florence	talker_in	1	5	3	false						
+55	0	55	talk		57_45	florence	talker_in	1	5	3	false						
+56	0	56	talk		57_46		talk										
+57	0	57	talk		57_47	florence	talker_in	1	4	3	false						
+58	0	58	talk		57_48		talk										
+59	0	59	talk		57_49	florence	talker_in	1	4	3	false						
+60	0	60	talker_out									3	1	false			
+61	0	61	illust												57	1	
+62	0	62	cut														scenario_main_story_sn_57_1
+63	0	63	cut														scenario_main_story_sn_57_2
+64	0	64	cut														scenario_main_story_sn_57_3
+65	0	65	talk		57_50	florence	talker_in	1	4	3	true						
+66	0	66	talk		57_51		talk										
+67	0	67	talk		57_52	florence	talker_in	1	1	3	false						
+68	0	68	talk		57_53	florence	talker_in	1	2	3	false						
+69	0	69	talk		57_54	florence	talker_in	1	1	3	false						
+70	0	70	talk		57_55		talk										
+71	0	71	talk		57_56	florence	talker_in	1	1	3	false						
+72	0	72	talk		57_57		talk										

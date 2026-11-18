@@ -1,0 +1,14 @@
+{
+  "table": "IconMap",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/icon_map.json",
+    "source_sha256": "43deb60319ab9d4a50aa86c24e79d4ae1c90c11aed8c2a359e8705a90d24291d",
+    "source_row_count": 1
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [],
+  "lists": []
+}

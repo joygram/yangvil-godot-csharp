@@ -1,0 +1,4 @@
+_row	_parent_row	_key	name	acquire	gacha_excluded	implemented
+0	0	skull	#72405a26	#b90018d4	true	true
+1	0	balrog	#38b8f5e3	#6063365a		true
+2	0	fiod	#2ef90cfe	#6063365a		true

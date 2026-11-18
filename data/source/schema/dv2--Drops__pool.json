@@ -1,0 +1,20 @@
+{
+  "table": "Drops__pool",
+  "domain": "dv2",
+  "origin": {
+    "source_path": "DV2Rebuild/data/drops.json",
+    "source_sha256": "e1d4bf9e3c358efe32e9f8b87342f3be6c0e82760842eac4963260f30d04958f",
+    "source_row_count": 6
+  },
+  "primary_key": [
+    "_row"
+  ],
+  "relations": [
+    {
+      "column": "_parent_row",
+      "table": "Drops",
+      "parent_column": "_row"
+    }
+  ],
+  "lists": []
+}
