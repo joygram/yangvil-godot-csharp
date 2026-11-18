@@ -62,8 +62,9 @@ Unity 프로젝트 YangVil 을 [godot-enhanced](https://github.com/joygram/godot
 - 첫 화면 = 로딩 덮개가 사라질 때까지
 - 재현: `node scripts/web/compare.mjs 3`
 - 알려진 이슈: 초기화(wasm 54MB 컴파일 + .NET 시작)가 Unity 보다 김
-- AOT 확인: `YANGVIL_AOT=1` (`RunAOTCompilation`) → .NET AOT 는 돌지만 내보낸 `index.wasm` 해시 동일
-- 즉 godot-enhanced 웹 내보내기가 AOT 결과를 링크하지 않음 → 현재 효과 0, 엔진 쪽 지원 필요
+- AOT: 표 수치 = 표준 템플릿(인터프리터)
+- AOT 적용 = 게임 AOT 출력을 `mono_wasm_aot_dir=` 로 링크한 전용 템플릿 필요 (godot-enhanced `patches/dotnet-web-export.md`)
+- 전용 템플릿 AOT 측정 = 예정
 
 ## 구조
 - `game/` = Godot 프로젝트 (`project.godot`, `YangVil.csproj`)
