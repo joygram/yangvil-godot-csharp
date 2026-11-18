@@ -3,11 +3,16 @@
 털실 바구니에서 태어난 고양이를 키우고, 파티를 꾸려 골목길 모험을 떠나는 육성 수집 RPG.
 Unity 프로젝트 YangVil 을 [godot-enhanced](https://github.com/joygram/godot-enhanced) C# (.NET 11) 로 옮긴 판.
 
+> **⚡ Built with [godot-enhanced](https://github.com/joygram/godot-enhanced)**
+> - 이 게임의 웹 빌드 = godot-enhanced 산출물 (`dotnet-web-4.7.2-0.3.0`)
+> - 원래 Godot 4 = C# 웹 내보내기 불가 → godot-enhanced 로 C# 그대로 웹 실행
+> - ▶ 플레이: https://yangvil-godot-csharp.deuklab.workers.dev
+
 ## 두 판
 - Unity 판: [joygram/YangVil](https://github.com/joygram/YangVil) — Unity 6000.6.8f1
 - Unity 판 플레이: https://yangvil.deuklab.workers.dev
 - **Godot C# 판 (이 저장소)**: [joygram/yangvil-godot-csharp](https://github.com/joygram/yangvil-godot-csharp) — godot-enhanced 4.7.2 (.NET 11)
-- Godot C# 판 플레이: 배포 예정
+- Godot C# 판 플레이: https://yangvil-godot-csharp.deuklab.workers.dev
 
 ## 무엇이 같나
 - 게임 = Unity 판과 동일: 인트로 → 마을(마당·부화소·상점·식구) → 모험 지도 → 전투 → 결과 → 마을
@@ -66,3 +71,7 @@ Unity 프로젝트 YangVil 을 [godot-enhanced](https://github.com/joygram/godot
 - 색: `game/scripts/ui/Kit.cs` 맨 위 색 목록
 - 문구: `game/data/tables/text.tsv` 의 `ko` 칸
 - 타격감 시간·거리: `game/data/tables/config.tsv` (`*_ms`, `*_px`, `*_pct`)
+
+## 라이선스
+- 코드: [MIT](LICENSE)
+- 그림·폰트: [Credits.md](Credits.md) 각 출처 라이선스 (Galmuri = OFL)

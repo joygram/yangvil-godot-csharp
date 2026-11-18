@@ -3,6 +3,7 @@
 /game/obj/
 /[Bb]uilds/
 /.wrangler/
+/node_modules/
 .vs/
 .vscode/
 *.suo

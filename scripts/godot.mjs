@@ -4,7 +4,7 @@
 // - 설치 시 NuGet 소스 "godot-enhanced" = 키트 nuget 폴더로 등록
 // - 최신 확인 1시간 캐시, 오프라인이면 설치된 가장 새 키트. 고정: GODOT_ENHANCED_TAG
 import { spawnSync } from "node:child_process";
-import { chmodSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs";
+import { chmodSync, copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs";
 import { homedir, tmpdir } from "node:os";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -112,10 +112,26 @@ async function install({ tag, assetId }) {
   return exe;
 }
 
+// 웹 내보내기 템플릿: 키트의 web_*.zip → export_templates/<godot>.stable.mono.enhanced-<버전> (없을 때만)
+function templates(exe) {
+  const kit = dirname(exe);
+  const web = find(kit, (n) => n === "web_release.zip");
+  const m = /dotnet-web-([\d.]+)-([\d.]+)/.exec(kit);
+  if (!web || !m) return;
+  const base = WIN ? join(process.env.APPDATA, "Godot")
+    : process.platform === "darwin" ? join(homedir(), "Library", "Application Support", "Godot")
+    : join(process.env.XDG_DATA_HOME || join(homedir(), ".local", "share"), "godot");
+  const target = join(base, "export_templates", `${m[1]}.stable.mono.enhanced-${m[2]}`);
+  mkdirSync(target, { recursive: true });
+  for (const f of readdirSync(dirname(web)).filter((n) => /^web_.*\.zip$/.test(n)))
+    if (!existsSync(join(target, f))) copyFileSync(join(dirname(web), f), join(target, f));
+}
+
 let exe;
 try {
   exe = process.env.GODOT_BIN || (KIT ? await install(await latest()) : null);
   if (!exe) throw new Error(`지원 안 하는 OS: ${process.platform}`);
+  if (!process.env.GODOT_BIN) templates(exe);
 } catch (e) {
   log(`✘ ${e.message}`);
   process.exit(1);

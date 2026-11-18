@@ -3,7 +3,10 @@
   "name": "yangvil-godot-csharp",
   "compatibility_date": "2025-11-01",
   "account_id": "40647af72ce002b9edc6aa317a10656a",
+  "main": "scripts/web/worker.js",
   "assets": {
-    "directory": "./Builds/WebGL"
+    "directory": "./Builds/WebGL",
+    "binding": "ASSETS",
+    "run_worker_first": true
   }
 }

@@ -6,6 +6,11 @@
     "godot": "node scripts/godot.mjs --version",
     "build": "dotnet build game/YangVil.csproj -nologo -v q",
     "import": "node scripts/godot.mjs --headless --path game --import",
-    "start": "npm run setup && npm run godot && npm run build && npm run import && node scripts/godot.mjs --path game"
+    "start": "npm run setup && npm run godot && npm run build && npm run import && node scripts/godot.mjs --path game",
+    "export:web": "npm run godot && npm run import && node scripts/godot.mjs --headless --path game --export-release Web ../Builds/WebGL/index.html",
+    "deploy:web": "npm run export:web && node scripts/web/pack.mjs Builds/WebGL && npx --yes wrangler deploy"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.62.1"
   }
 }
